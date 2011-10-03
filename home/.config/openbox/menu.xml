@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu xmlns="http://openbox.org/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://openbox.org/                 file:///usr/share/openbox/menu.xsd">
+	<menu id="root-menu" label="Openbox 3">
+	<item label="URxvt" icon="/usr/share/pixmaps/lxterminal.png">
+  <action name="Execute"><command>
+    <![CDATA[ urxvtc]]>
+  </command></action>
+</item>
+		<separator/>
+		<item label="Firefox" icon="/usr/share/icons/hicolor/16x16/apps/firefox.png">
+  <action name="Execute"><command>
+    <![CDATA[ syncfox ]]>
+  </command></action>
+</item>
+		<item label="Thunderbird" icon="/usr/share/icons/hicolor/16x16/apps/thunderbird.png">
+  <action name="Execute"><command>
+    <![CDATA[ thunderbird ]]>
+  </command></action>
+</item>
+		<separator/>
+	<menu id="openbox-Accessories"
+      label="Accessories"
+      icon="/usr/share/icons/gnome/16x16/categories/applications-accessories.png">
+<item label="7-Zip FM" icon="/usr/share/icons/hicolor/32x32/apps/p7zip.png">
+  <action name="Execute"><command>
+    <![CDATA[ 7zFM]]>
+  </command></action>
+</item>
+<item label="Brasero" icon="/usr/share/icons/hicolor/16x16/apps/brasero.png">
+  <action name="Execute"><command>
+    <![CDATA[ brasero ]]>
+  </command></action>
+</item>
+<item label="Calculator" icon="/usr/share/icons/gnome/16x16/apps/accessories-calculator.png">
+  <action name="Execute"><command>
+    <![CDATA[ gcalctool]]>
+  </command></action>
+</item>
+<item label="Catfish">
+  <action name="Execute"><command>
+    <![CDATA[ catfish]]>
+  </command></action>
+</item>
+<item label="Disk Utility" icon="/usr/share/icons/hicolor/16x16/apps/palimpsest.png">
+  <action name="Execute"><command>
+    <![CDATA[ palimpsest]]>
+  </command></action>
+</item>
+<item label="Graveman" icon="/usr/share/pixmaps/graveman48.png">
+  <action name="Execute"><command>
+    <![CDATA[ graveman]]>
+  </command></action>
+</item>
+<item label="HP Device Manager" icon="/usr/share/hplip/data/images/128x128/hp_logo.png">
+  <action name="Execute"><command>
+    <![CDATA[ hp-toolbox]]>
+  </command></action>
+</item>
+<item label="LXTerminal" icon="/usr/share/pixmaps/lxterminal.png">
+  <action name="Execute"><command>
+    <![CDATA[ lxterminal]]>
+  </command></action>
+</item>
+<item label="Leafpad" icon="/usr/share/icons/hicolor/16x16/apps/leafpad.png">
+  <action name="Execute"><command>
+    <![CDATA[ leafpad ]]>
+  </command></action>
+</item>
+<item label="MultiSystem" icon="/home/nkn/.local/share/icons/hicolor/48x48/apps/multisystem-liveusb.png">
+  <action name="Execute"><command>
+    <![CDATA[ /usr/bin/multisystem]]>
+  </command></action>
+</item>
+<item label="MultiSystem test iso" icon="/home/nkn/.local/share/icons/hicolor/48x48/apps/multisystem-vbox.png">
+  <action name="Execute"><command>
+    <![CDATA[ /usr/share/multisystem/VBox_livecd_gui.sh]]>
+  </command></action>
+</item>
+<item label="Redshift GUI" icon="/usr/share/icons/hicolor/16x16/apps/redshiftgui.png">
+  <action name="Execute"><command>
+    <![CDATA[ redshiftgui]]>
+  </command></action>
+</item>
+<item label="Xarchiver" icon="/usr/share/icons/hicolor/16x16/apps/xarchiver.png">
+  <action name="Execute"><command>
+    <![CDATA[ xarchiver]]>
+  </command></action>
+</item>
+</menu>
+<menu id="openbox-CrossOver"
+      label="CrossOver"
+      icon="/home/nkn/cxoffice/share/icons/crossover.xpm">
+<item label="Install Windows Software" icon="/home/nkn/cxoffice/share/icons/crossover.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxoffice/bin/cxinstaller]]>
+  </command></action>
+</item>
+<item label="Manage Bottles" icon="/home/nkn/cxoffice/share/icons/crossover.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxoffice/bin/cxsetup]]>
+  </command></action>
+</item>
+<item label="Preferences" icon="/home/nkn/cxoffice/share/icons/crossover.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxoffice/bin/cxprefs]]>
+  </command></action>
+</item>
+<item label="Register and Unlock this Demo" icon="/home/nkn/cxoffice/share/icons/cxregister.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxoffice/bin/cxregister]]>
+  </command></action>
+</item>
+<item label="Run a Windows Command" icon="/home/nkn/cxoffice/share/icons/cxrun.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxoffice/bin/cxrun]]>
+  </command></action>
+</item>
+<item label="Terminate Windows Applications" icon="/home/nkn/cxoffice/share/icons/cxreset.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxoffice/bin/cxreset]]>
+  </command></action>
+</item>
+<item label="Uninstall" icon="/home/nkn/cxoffice/share/icons/cxuninstall.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxoffice/bin/cxuninstall]]>
+  </command></action>
+</item>
+<item label="User Documentation" icon="/home/nkn/cxoffice/share/icons/cxdoc.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxoffice/bin/launchurl file:///home/nkn/cxoffice/doc/en/index.html]]>
+  </command></action>
+</item>
+</menu>
+<menu id="openbox-CrossOver+Games"
+      label="CrossOver Games"
+      icon="/home/nkn/cxgames/share/icons/crossover.xpm">
+<item label="Install Windows Software" icon="/home/nkn/cxgames/share/icons/crossover.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxgames/bin/cxinstaller]]>
+  </command></action>
+</item>
+<item label="Manage Bottles" icon="/home/nkn/cxgames/share/icons/crossover.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxgames/bin/cxsetup]]>
+  </command></action>
+</item>
+<item label="Preferences" icon="/home/nkn/cxgames/share/icons/crossover.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxgames/bin/cxprefs]]>
+  </command></action>
+</item>
+<item label="Register and Unlock this Demo" icon="/home/nkn/cxgames/share/icons/cxregister.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxgames/bin/cxregister]]>
+  </command></action>
+</item>
+<item label="Run a Windows Command" icon="/home/nkn/cxgames/share/icons/cxrun.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxgames/bin/cxrun]]>
+  </command></action>
+</item>
+<item label="Terminate Windows Applications" icon="/home/nkn/cxgames/share/icons/cxreset.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxgames/bin/cxreset]]>
+  </command></action>
+</item>
+<item label="Uninstall" icon="/home/nkn/cxgames/share/icons/cxuninstall.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxgames/bin/cxuninstall]]>
+  </command></action>
+</item>
+<item label="User Documentation" icon="/home/nkn/cxgames/share/icons/cxdoc.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/cxgames/bin/launchurl file:///home/nkn/cxgames/doc/en/index.html]]>
+  </command></action>
+</item>
+</menu>
+<menu id="openbox-Games"
+      label="Games"
+      icon="/usr/share/icons/gnome/16x16/categories/applications-games.png">
+<item label="AtomZombieSmasher" icon="/opt/atomzombiesmasher/data/content/textures/icon.png">
+  <action name="Execute"><command>
+    <![CDATA[ atomzombiesmasher]]>
+  </command></action>
+</item>
+<item label="Crayon Physics Deluxe" icon="/usr/share/icons/hicolor/16x16/apps/CrayonPhysicsDeluxe.png">
+  <action name="Execute"><command>
+    <![CDATA[ crayon]]>
+  </command></action>
+</item>
+<item label="Desura" icon="/home/nkn/desura/data/desura.png">
+  <action name="Execute"><command>
+    <![CDATA[ /home/nkn/desura/desura ]]>
+  </command></action>
+</item>
+<item label="MegaGlest" icon="/usr/share/pixmaps/megaglest.png">
+  <action name="Execute"><command>
+    <![CDATA[ megaglest]]>
+  </command></action>
+</item>
+<item label="Osmos" icon="/opt/osmos/Icons/128x128.png">
+  <action name="Execute"><command>
+    <![CDATA[ osmos]]>
+  </command></action>
+</item>
+<item label="steelstorm ep. 2" icon="/usr/share/pixmaps/steelstorm.png">
+  <action name="Execute"><command>
+    <![CDATA[ steelstorm]]>
+  </command></action>
+</item>
+<item label="steelstorm-dedicated" icon="/usr/share/pixmaps/steelstorm.png">
+  <action name="Execute"><command>
+    <![CDATA[ steelstorm-dedicated]]>
+  </command></action>
+</item>
+</menu>
+<menu id="openbox-Graphics"
+      label="Graphics"
+      icon="/usr/share/icons/gnome/16x16/categories/applications-graphics.png">
+<item label="GNU Image Manipulation Program" icon="/usr/share/icons/hicolor/16x16/apps/gimp.png">
+  <action name="Execute"><command>
+    <![CDATA[ gimp-2.7 ]]>
+  </command></action>
+</item>
+<item label="Mirage" icon="/usr/share/pixmaps/mirage.png">
+  <action name="Execute"><command>
+    <![CDATA[ mirage ]]>
+  </command></action>
+</item>
+<item label="mtPaint" icon="/usr/share/pixmaps/mtpaint.png">
+  <action name="Execute"><command>
+    <![CDATA[ mtpaint ]]>
+  </command></action>
+</item>
+</menu>
+<menu id="openbox-Internet"
+      label="Internet"
+      icon="/usr/share/icons/gnome/16x16/categories/applications-internet.png">
+<item label="Avahi SSH Server Browser" icon="/usr/share/icons/gnome/16x16/devices/network-wired.png">
+  <action name="Execute"><command>
+    <![CDATA[ /usr/bin/bssh]]>
+  </command></action>
+</item>
+<item label="Avahi VNC Server Browser" icon="/usr/share/icons/gnome/16x16/devices/network-wired.png">
+  <action name="Execute"><command>
+    <![CDATA[ /usr/bin/bvnc]]>
+  </command></action>
+</item>
+<item label="ELinks" icon="/usr/share/icons/gnome/16x16/mimetypes/html.png">
+  <action name="Execute"><command>
+    <![CDATA[xterm -e /usr/bin/elinks ]]>
+  </command></action>
+</item>
+<item label="Firefox" icon="/usr/share/icons/hicolor/16x16/apps/firefox.png">
+  <action name="Execute"><command>
+    <![CDATA[ firefox ]]>
+  </command></action>
+</item>
+<item label="Mangler">
+  <action name="Execute"><command>
+    <![CDATA[ mangler]]>
+  </command></action>
+</item>
+<item label="TeamViewer" icon="/opt/teamviewer/teamviewer/6/desktop/teamviewer.png">
+  <action name="Execute"><command>
+    <![CDATA[ /opt/teamviewer/teamviewer/6/bin/teamviewer]]>
+  </command></action>
+</item>
+<item label="Thunderbird" icon="/usr/share/icons/hicolor/16x16/apps/thunderbird.png">
+  <action name="Execute"><command>
+    <![CDATA[ thunderbird ]]>
+  </command></action>
+</item>
+<item label="Transmission" icon="/usr/share/icons/hicolor/16x16/apps/transmission.png">
+  <action name="Execute"><command>
+    <![CDATA[ transmission-gtk ]]>
+  </command></action>
+</item>
+<item label="Wuala" icon="/usr/share/icons/hicolor/64x64/apps/wuala.png">
+  <action name="Execute"><command>
+    <![CDATA[ wuala]]>
+  </command></action>
+</item>
+</menu>
+<menu id="openbox-Office"
+      label="Office"
+      icon="/usr/share/icons/gnome/16x16/categories/applications-office.png">
+<item label="Foxit Reader" icon="/usr/share/pixmaps/foxitreader.png">
+  <action name="Execute"><command>
+    <![CDATA[ foxitreader ]]>
+  </command></action>
+</item>
+<item label="LibreOffice " icon="/usr/share/icons/gnome/16x16/apps/libreoffice-startcenter.png">
+  <action name="Execute"><command>
+    <![CDATA[ libreoffice ]]>
+  </command></action>
+</item>
+<item label="LibreOffice Base" icon="/usr/share/icons/gnome/16x16/apps/libreoffice-base.png">
+  <action name="Execute"><command>
+    <![CDATA[ libreoffice --base ]]>
+  </command></action>
+</item>
+<item label="LibreOffice Calc" icon="/usr/share/icons/gnome/16x16/apps/libreoffice-calc.png">
+  <action name="Execute"><command>
+    <![CDATA[ libreoffice --calc ]]>
+  </command></action>
+</item>
+<item label="LibreOffice Draw" icon="/usr/share/icons/gnome/16x16/apps/libreoffice-draw.png">
+  <action name="Execute"><command>
+    <![CDATA[ libreoffice --draw ]]>
+  </command></action>
+</item>
+<item label="LibreOffice Impress" icon="/usr/share/icons/gnome/16x16/apps/libreoffice-impress.png">
+  <action name="Execute"><command>
+    <![CDATA[ libreoffice --impress ]]>
+  </command></action>
+</item>
+<item label="LibreOffice Math" icon="/usr/share/icons/gnome/16x16/apps/libreoffice-math.png">
+  <action name="Execute"><command>
+    <![CDATA[ libreoffice --math ]]>
+  </command></action>
+</item>
+<item label="LibreOffice Writer" icon="/usr/share/icons/gnome/16x16/apps/libreoffice-writer.png">
+  <action name="Execute"><command>
+    <![CDATA[ libreoffice --writer ]]>
+  </command></action>
+</item>
+</menu>
+<menu id="openbox-Other"
+      label="Other"
+      icon="/usr/share/icons/gnome/16x16/categories/applications-other.png">
+<item label="ARandR" icon="/usr/share/icons/gnome/16x16/devices/display.png">
+  <action name="Execute"><command>
+    <![CDATA[ arandr]]>
+  </command></action>
+</item>
+<item label="Adobe Flash Player" icon="/usr/share/icons/hicolor/16x16/apps/flash-player-properties.png">
+  <action name="Execute"><command>
+    <![CDATA[ flash-player-properties]]>
+  </command></action>
+</item>
+<item label="Customize Look and Feel" icon="/usr/share/icons/gnome/16x16/apps/preferences-desktop-theme.png">
+  <action name="Execute"><command>
+    <![CDATA[ lxappearance]]>
+  </command></action>
+</item>
+<item label="File Manager" icon="/usr/share/icons/gnome/16x16/apps/file-manager.png">
+  <action name="Execute"><command>
+    <![CDATA[ thunar-settings]]>
+  </command></action>
+</item>
+<item label="Openbox Configuration Manager" icon="/usr/share/pixmaps/obconf.png">
+  <action name="Execute"><command>
+    <![CDATA[ obconf ]]>
+  </command></action>
+</item>
+<item label="Preferred Applications" icon="/usr/share/icons/gnome/16x16/categories/preferences-desktop.png">
+  <action name="Execute"><command>
+    <![CDATA[ libfm-pref-apps]]>
+  </command></action>
+</item>
+<item label="PulseAudio Preferences" icon="/usr/share/icons/gnome/16x16/categories/preferences-desktop.png">
+  <action name="Execute"><command>
+    <![CDATA[ paprefs]]>
+  </command></action>
+</item>
+<item label="Removable Drives and Media" icon="/usr/share/icons/gnome/16x16/devices/drive-removable-media.png">
+  <action name="Execute"><command>
+    <![CDATA[ thunar-volman-settings]]>
+  </command></action>
+</item>
+<item label="dosbox Emulator" icon="/usr/share/pixmaps/dosbox.png">
+  <action name="Execute"><command>
+    <![CDATA[ dosbox]]>
+  </command></action>
+</item>
+</menu>
+<menu id="openbox-Development"
+      label="Programming"
+      icon="/usr/share/icons/gnome/16x16/categories/applications-development.png">
+<item label="CMake" icon="/usr/share/pixmaps/CMakeSetup32.png">
+  <action name="Execute"><command>
+    <![CDATA[ cmake-gui ]]>
+  </command></action>
+</item>
+<item label="OpenJDK Monitoring &amp; Management Console" icon="/usr/share/icons/hicolor/16x16/apps/java.png">
+  <action name="Execute"><command>
+    <![CDATA[ /usr/bin/jconsole]]>
+  </command></action>
+</item>
+<item label="OpenJDK Policy Tool" icon="/usr/share/icons/hicolor/16x16/apps/java.png">
+  <action name="Execute"><command>
+    <![CDATA[ /usr/bin/policytool]]>
+  </command></action>
+</item>
+<item label="Qt Assistant" icon="/usr/share/icons/hicolor/32x32/apps/assistant.png">
+  <action name="Execute"><command>
+    <![CDATA[ /usr/bin/assistant]]>
+  </command></action>
+</item>
+<item label="Qt Designer" icon="/usr/share/icons/hicolor/128x128/apps/designer.png">
+  <action name="Execute"><command>
+    <![CDATA[ /usr/bin/designer]]>
+  </command></action>
+</item>
+<item label="Qt Linguist" icon="/usr/share/icons/hicolor/16x16/apps/linguist.png">
+  <action name="Execute"><command>
+    <![CDATA[ /usr/bin/linguist]]>
+  </command></action>
+</item>
+</menu>
+<menu id="openbox-Multimedia"
+      label="Sound &amp; Video"
+      icon="/usr/share/icons/gnome/16x16/categories/applications-multimedia.png">
+<item label="Amarok" icon="/usr/share/icons/hicolor/16x16/apps/amarok.png">
+  <action name="Execute"><command>
+    <![CDATA[ amarok ]]>
+  </command></action>
+</item>
+<item label="Brasero" icon="/usr/share/icons/hicolor/16x16/apps/brasero.png">
+  <action name="Execute"><command>
+    <![CDATA[ brasero ]]>
+  </command></action>
+</item>
+<item label="GNOME MPlayer" icon="/usr/share/icons/hicolor/16x16/apps/gnome-mplayer.png">
+  <action name="Execute"><command>
+    <![CDATA[ gnome-mplayer ]]>
+  </command></action>
+</item>
+<item label="Movie Player" icon="/usr/share/icons/hicolor/16x16/apps/totem.png">
+  <action name="Execute"><command>
+    <![CDATA[ totem ]]>
+  </command></action>
+</item>
+<item label="PulseAudio Volume Control" icon="/usr/share/icons/gnome/16x16/apps/multimedia-volume-control.png">
+  <action name="Execute"><command>
+    <![CDATA[ pavucontrol]]>
+  </command></action>
+</item>
+<item label="QT V4L2 test Utility" icon="/usr/share/icons/hicolor/16x16/apps/qv4l2.png">
+  <action name="Execute"><command>
+    <![CDATA[ qv4l2]]>
+  </command></action>
+</item>
+<item label="TV-MAXE" icon="/usr/share/tv-maxe/tvmaxe.png">
+  <action name="Execute"><command>
+    <![CDATA[ tv-maxe]]>
+  </command></action>
+</item>
+<item label="VLC media player" icon="/usr/share/icons/hicolor/16x16/apps/vlc.png">
+  <action name="Execute"><command>
+    <![CDATA[ vlc ]]>
+  </command></action>
+</item>
+</menu>
+<menu id="openbox-System"
+      label="System Tools"
+      icon="/usr/share/icons/gnome/16x16/categories/applications-system.png">
+<item label="Avahi Zeroconf Browser" icon="/usr/share/icons/gnome/16x16/devices/network-wired.png">
+  <action name="Execute"><command>
+    <![CDATA[ /usr/bin/avahi-discover]]>
+  </command></action>
+</item>
+<item label="Bulk Rename" icon="/usr/share/icons/hicolor/16x16/apps/Thunar.png">
+  <action name="Execute"><command>
+    <![CDATA[ /usr/lib/Thunar/ThunarBulkRename ]]>
+  </command></action>
+</item>
+<item label="Htop" icon="/usr/share/pixmaps/htop.png">
+  <action name="Execute"><command>
+    <![CDATA[xterm -e htop]]>
+  </command></action>
+</item>
+<item label="Manage Printing" icon="/usr/share/icons/hicolor/16x16/apps/cups.png">
+  <action name="Execute"><command>
+    <![CDATA[ /usr/bin/xdg-open http://localhost:631/]]>
+  </command></action>
+</item>
+<item label="Nepomuk Backup">
+  <action name="Execute"><command>
+    <![CDATA[ nepomukbackup]]>
+  </command></action>
+</item>
+<item label="Nepomuk File Indexing Controller">
+  <action name="Execute"><command>
+    <![CDATA[ nepomukcontroller]]>
+  </command></action>
+</item>
+<item label="Oracle VM VirtualBox" icon="/usr/share/icons/hicolor/16x16/mimetypes/virtualbox.png">
+  <action name="Execute"><command>
+    <![CDATA[ VirtualBox ]]>
+  </command></action>
+</item>
+<item label="System Profiler and Benchmark" icon="/usr/share/hardinfo/pixmaps/logo.png">
+  <action name="Execute"><command>
+    <![CDATA[ hardinfo]]>
+  </command></action>
+</item>
+<item label="Terminator" icon="/usr/share/icons/hicolor/16x16/apps/terminator.png">
+  <action name="Execute"><command>
+    <![CDATA[ terminator]]>
+  </command></action>
+</item>
+<item label="Thunar File Manager" icon="/usr/share/icons/hicolor/16x16/apps/Thunar.png">
+  <action name="Execute"><command>
+    <![CDATA[ Thunar ]]>
+  </command></action>
+</item>
+<item label="mrxvt" icon="/usr/share/pixmaps/mrxvt.png">
+  <action name="Execute"><command>
+    <![CDATA[ mrxvt]]>
+  </command></action>
+</item>
+</menu>
+<menu id="openbox-Windows+Applications"
+      label="Windows Applications"
+      icon="/home/nkn/cxoffice/share/icons/cxmenu.xpm">
+<menu id="openbox-Veoh+Networks,+Inc"
+      label="Veoh Networks, Inc"
+      icon="/home/nkn/cxoffice/share/icons/cxmenu.xpm">
+<item label="Veoh Web Player Beta" icon="/home/nkn/.cxoffice/a/windata/StartMenu.C^5E3A^5Fusers^5Fcrossover^5FStart^2BMenu/Programs/Veoh+Networks,+Inc/Veoh+Web+Player+Beta.lnk.xpm">
+  <action name="Execute"><command>
+    <![CDATA[ "/home/nkn/.cxoffice/a/desktopdata/cxmenu/StartMenu.C^5E3A^5Fusers^5Fcrossover^5FStart^2BMenu/Programs/Veoh+Networks,+Inc/Veoh+Web+Player+Beta.lnk"]]>
+  </command></action>
+</item>
+</menu>
+</menu>
+<separator/>
+<menu id="settings" label="Preferences" icon="/usr/share/icons/gnome/16x16/categories/applications-system.png">
+			<menu id="obConfig" label="Openbox Config">
+				<item label="Edit autostart">
+					<action name="Execute">
+						<execute>
+							leafpad ~/.config/openbox/autostart
+						</execute>
+					</action>
+				</item>
+				<item label="GUI Menu Editor">
+					<action name="Execute">
+						<execute>
+							obmenu
+						</execute>
+					</action>
+				</item>
+				<item label="GUI Config Tool">
+					<action name="Execute">
+						<execute>
+							obconf
+						</execute>
+					</action>
+				</item>
+				<item label="Reconfigure">
+					<action name="Reconfigure"/>
+				</item>
+				<item label="Restart">
+					<action name="Restart"/>
+				</item>
+			</menu>
+			<item label="Edit .conkyrc">
+				<action name="Execute">
+					<execute>
+						leafpad ~/.conkyrc
+					</execute>
+				</action>
+			</item>
+			<item label="Choose Wallpaper">
+				<action name="Execute">
+					<execute>
+						nitrogen
+					</execute>
+				</action>
+			</item>
+			<item label="Edit /etc/rc.conf">
+				<action name="Execute">
+					<execute>
+						gksu leafpad /etc/rc.conf
+					</execute>
+				</action>
+			</item>
+			<item label="Input Device Preferences">
+				<action name="Execute">
+					<execute>
+						lxinput
+					</execute>
+				</action>
+			</item>
+			<item label="Screen Layout Editor">
+				<action name="Execute">
+					<execute>
+						arandr
+					</execute>
+				</action>
+			</item>
+			<item label="User Interface Settings">
+				<action name="Execute">
+					<execute>
+						lxappearance
+					</execute>
+				</action>
+			</item>
+		</menu>
+		<separator/>
+		<menu id="root-menu-185651" label="Session">
+			<item label="Hibernate">
+				<action name="Execute">
+					<execute>
+						sudo pm-hibernate
+					</execute>
+				</action>
+			</item>
+			<item label="Restart">
+				<action name="Execute">
+					<execute>
+						reboot
+					</execute>
+				</action>
+			</item>
+			<item label="Shutdown">
+				<action name="Execute">
+					<execute>
+						shutdown -h 0
+					</execute>
+				</action>
+			</item>
+		</menu>
+</menu>
+</openbox_menu>

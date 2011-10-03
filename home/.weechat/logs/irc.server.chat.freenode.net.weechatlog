@@ -1,0 +1,137 @@
+2011-09-24 20:21:26		irc: connecting to server chat.freenode.net/6667...
+2011-09-24 20:21:26		irc: connected to chat.freenode.net/6667 (86.65.39.15)
+2011-09-24 20:21:26	--	pratchett.freenode.net (pratchett.freenode.net): *** Looking up your hostname...
+2011-09-24 20:21:26	--	pratchett.freenode.net (pratchett.freenode.net): *** Checking Ident
+2011-09-24 20:21:26	--	pratchett.freenode.net (pratchett.freenode.net): *** No Ident response
+2011-09-24 20:21:26	--	pratchett.freenode.net (pratchett.freenode.net): *** Found your hostname
+2011-09-24 20:21:26		irc: nickname "nkn" is already in use, trying nickname #2 ("nkn1")
+2011-09-24 20:21:26	--	Welcome to the freenode Internet Relay Chat Network nkn1
+2011-09-24 20:21:26	--	Your host is pratchett.freenode.net[192.168.25.107/6667], running version ircd-seven-1.1.1
+2011-09-24 20:21:26	--	This server was created Wed Sep 14 2011 at 13:13:51 PDT
+2011-09-24 20:21:26	--	pratchett.freenode.net ircd-seven-1.1.1 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+2011-09-24 20:21:26	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnpstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2011-09-24 20:21:26	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2011-09-24 20:21:26	--	EXTBAN=$,arx WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2011-09-24 20:21:26	--	There are 289 users and 64374 invisible on 28 servers
+2011-09-24 20:21:26	--	36 :IRC Operators online
+2011-09-24 20:21:26	--	5 :unknown connection(s)
+2011-09-24 20:21:26	--	44966 :channels formed
+2011-09-24 20:21:26	--	I have 4320 clients and 1 servers
+2011-09-24 20:21:26	--	4320 4334 :Current local users 4320, max 4334
+2011-09-24 20:21:26	--	64663 73292 :Current global users 64663, max 73292
+2011-09-24 20:21:26	--	Highest connection count: 4335 (4334 clients) (74555 connections received)
+2011-09-24 20:21:26	--	- pratchett.freenode.net Message of the Day -
+2011-09-24 20:21:26	--	- Welcome to pratchett.freenode.net in Rennes, FR, EU.
+2011-09-24 20:21:26	--	- Thanks to: FSF-France (http://www.fsffrance.org) for sponsoring this server!
+2011-09-24 20:21:26	--	-
+2011-09-24 20:21:26	--	- PRATCHETT, TERRY (1948-).  Born in Buckinghamshire, England,
+2011-09-24 20:21:26	--	- Pratchett is the famous author of the Discworld series of
+2011-09-24 20:21:26	--	- novels and, more recently, an active Alzheimer's Disease awareness
+2011-09-24 20:21:26	--	- campaigner.
+2011-09-24 20:21:26	--	- You're using freenode, a service of Peer-Directed Projects
+2011-09-24 20:21:26	--	- Center Ltd (http://freenode.net/pdpc.shtml).
+2011-09-24 20:21:26	--	-
+2011-09-24 20:21:26	--	- PDPC's 2011 fundraiser launched on 14th February 2011. We would
+2011-09-24 20:21:26	--	- like to invite all users of freenode to get involved in the fun
+2011-09-24 20:21:26	--	- of our Valentine-themed fundraiser launch - see
+2011-09-24 20:21:26	--	- http://freenode.net/pdpc_valentine.shtml for more!
+2011-09-24 20:21:26	--	-
+2011-09-24 20:21:26	--	- On the subject of fundraisers, we'd like to thank our donors,
+2011-09-24 20:21:26	--	- hardware and bandwith sponsors and especially  The Gallery
+2011-09-24 20:21:26	--	- Project (http://gallery.menalto.com/) and our corporate sponsor
+2011-09-24 20:21:26	--	- Canonical Ltd (http://www.canonical.com) for the generous
+2011-09-24 20:21:26	--	- support.
+2011-09-24 20:21:26	--	-
+2011-09-24 20:21:26	--	- By connecting to freenode you indicate that you have read
+2011-09-24 20:21:26	--	- and agree to adhere to our policies and procedures as per
+2011-09-24 20:21:26	--	- the website (http://freenode.net). We would like to remind
+2011-09-24 20:21:26	--	- you that unauthorized public logging of channels on the
+2011-09-24 20:21:26	--	- network is prohibited. Public channel logging should only
+2011-09-24 20:21:26	--	- take place where the channel owner(s) has requested this
+2011-09-24 20:21:26	--	- and users of the channel are all made aware (if you are
+2011-09-24 20:21:26	--	- publically logging your channel, you may wish to keep a
+2011-09-24 20:21:26	--	- notice in topic and perhaps as a on-join message).
+2011-09-24 20:21:26	--	-
+2011-09-24 20:21:26	--	- By registering your nickname with Nickserv you agree that you
+2011-09-24 20:21:26	--	- are 13 years of age, or older. For more information about the
+2011-09-24 20:21:26	--	- Children's Online Privacy Protection Act please see their
+2011-09-24 20:21:26	--	- website at (http://www.coppa.org).
+2011-09-24 20:21:26	--	-
+2011-09-24 20:21:26	--	- freenode runs an open proxy scanner. Your use of the network
+2011-09-24 20:21:26	--	- indicates your acceptance of this policy. For details on
+2011-09-24 20:21:26	--	- freenode network policy, please take a look at our policy
+2011-09-24 20:21:26	--	- page (http://freenode.net/policy.shtml). Thank you for using
+2011-09-24 20:21:26	--	- the network!
+2011-09-24 20:21:26	--	-
+2011-09-24 20:21:26	--	- Don't forget to check out these other Peer-Directed Projects:
+2011-09-24 20:21:26	--	- FOSSCON [http://www.fosscon.org] and fossevents
+2011-09-24 20:21:26	--	- [http://www.fossevents.org], and soon we'll repeat last years
+2011-09-24 20:21:26	--	- success with Picnics for Geeks across the globe, more info at
+2011-09-24 20:21:26	--	- [http://geeknic.org]
+2011-09-24 20:21:26	--	-
+2011-09-24 20:21:26	--	- freenode is a service of Peer-Directed Projects Center Ltd,
+2011-09-24 20:21:26	--	- a not for profit organisation registered in England and Wales.
+2011-09-24 20:21:26	--	-
+2011-09-24 20:21:26	--	- If you support the work we do and wish to donate to the PDPC,
+2011-09-24 20:21:26	--	- you may do so over at http://freenode.net/pdpc_donations.shtml
+2011-09-24 20:21:26	--	-
+2011-09-24 20:21:26	--	- Thank you for using freenode!
+2011-09-24 20:21:26	--	-
+2011-09-24 20:21:26	--	- ***************************************************************
+2011-09-24 20:21:26	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2011-09-24 20:21:26	--	- ***************************************************************
+2011-09-24 20:21:26	--	End of /MOTD command.
+2011-09-24 20:21:26	--	User mode [+i] by nkn1
+2011-09-24 20:21:42		irc: disconnected from server
+2011-09-24 20:28:40		irc: connecting to server chat.freenode.net/7000 (SSL)...
+2011-09-24 20:28:40		gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2011-09-24 20:28:40	=!=	gnutls: peer's certificate is NOT trusted
+2011-09-24 20:28:40	=!=	gnutls: peer's certificate issuer is unknown
+2011-09-24 20:28:40		gnutls: receiving 2 certificates
+2011-09-24 20:28:40		 - certificate[1] info:
+2011-09-24 20:28:40		   - subject `OU=Domain Control Validated,OU=Gandi Standard Wildcard SSL,CN=*.freenode.net', issuer `C=FR,O=GANDI SAS,CN=Gandi Standard SSL CA', RSA key 2048 bits, signed using RSA-SHA1, activated `2011-01-14 00:00:00 UTC', expires `2012-01-14 23:59:59 UTC', SHA-1 fingerprint `acd50e69ad93f5db08fefb67180d871415858664'
+2011-09-24 20:28:40		 - certificate[2] info:
+2011-09-24 20:28:40		   - subject `C=FR,O=GANDI SAS,CN=Gandi Standard SSL CA', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signed using RSA-SHA1, activated `2008-10-23 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `a9f79883a075ce82d20d274d1368e876140d33b3'
+2011-09-24 20:28:40	=!=	irc: TLS handshake failed
+2011-09-24 20:28:40	=!=	irc: error: Error in the certificate.
+2011-09-24 20:28:40		irc: reconnecting to server in 10 seconds
+2011-09-24 20:28:50		irc: reconnecting to server...
+2011-09-24 20:28:50		irc: connecting to server chat.freenode.net/7000 (SSL)...
+2011-09-24 20:28:50		gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2011-09-24 20:28:50	=!=	gnutls: peer's certificate is NOT trusted
+2011-09-24 20:28:50	=!=	gnutls: peer's certificate issuer is unknown
+2011-09-24 20:28:50		gnutls: receiving 2 certificates
+2011-09-24 20:28:50		 - certificate[1] info:
+2011-09-24 20:28:50		   - subject `OU=Domain Control Validated,OU=Gandi Standard Wildcard SSL,CN=*.freenode.net', issuer `C=FR,O=GANDI SAS,CN=Gandi Standard SSL CA', RSA key 2048 bits, signed using RSA-SHA1, activated `2011-01-14 00:00:00 UTC', expires `2012-01-14 23:59:59 UTC', SHA-1 fingerprint `acd50e69ad93f5db08fefb67180d871415858664'
+2011-09-24 20:28:50		 - certificate[2] info:
+2011-09-24 20:28:50		   - subject `C=FR,O=GANDI SAS,CN=Gandi Standard SSL CA', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signed using RSA-SHA1, activated `2008-10-23 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `a9f79883a075ce82d20d274d1368e876140d33b3'
+2011-09-24 20:28:50	=!=	irc: TLS handshake failed
+2011-09-24 20:28:50	=!=	irc: error: Error in the certificate.
+2011-09-24 20:28:50		irc: reconnecting to server in 20 seconds
+2011-09-24 20:29:10		irc: reconnecting to server...
+2011-09-24 20:29:10		irc: connecting to server chat.freenode.net/7000 (SSL)...
+2011-09-24 20:29:10		gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2011-09-24 20:29:10	=!=	gnutls: peer's certificate is NOT trusted
+2011-09-24 20:29:10	=!=	gnutls: peer's certificate issuer is unknown
+2011-09-24 20:29:10		gnutls: receiving 2 certificates
+2011-09-24 20:29:10		 - certificate[1] info:
+2011-09-24 20:29:10		   - subject `OU=Domain Control Validated,OU=Gandi Standard Wildcard SSL,CN=*.freenode.net', issuer `C=FR,O=GANDI SAS,CN=Gandi Standard SSL CA', RSA key 2048 bits, signed using RSA-SHA1, activated `2011-01-14 00:00:00 UTC', expires `2012-01-14 23:59:59 UTC', SHA-1 fingerprint `acd50e69ad93f5db08fefb67180d871415858664'
+2011-09-24 20:29:10		 - certificate[2] info:
+2011-09-24 20:29:10		   - subject `C=FR,O=GANDI SAS,CN=Gandi Standard SSL CA', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signed using RSA-SHA1, activated `2008-10-23 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `a9f79883a075ce82d20d274d1368e876140d33b3'
+2011-09-24 20:29:10	=!=	irc: TLS handshake failed
+2011-09-24 20:29:10	=!=	irc: error: Error in the certificate.
+2011-09-24 20:29:10		irc: reconnecting to server in 40 seconds
+2011-09-24 20:29:50		irc: reconnecting to server...
+2011-09-24 20:29:50		irc: connecting to server chat.freenode.net/7000 (SSL)...
+2011-09-24 20:29:51		gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2011-09-24 20:29:51	=!=	gnutls: peer's certificate is NOT trusted
+2011-09-24 20:29:51	=!=	gnutls: peer's certificate issuer is unknown
+2011-09-24 20:29:51		gnutls: receiving 2 certificates
+2011-09-24 20:29:51		 - certificate[1] info:
+2011-09-24 20:29:51		   - subject `OU=Domain Control Validated,OU=Gandi Standard Wildcard SSL,CN=*.freenode.net', issuer `C=FR,O=GANDI SAS,CN=Gandi Standard SSL CA', RSA key 2048 bits, signed using RSA-SHA1, activated `2011-01-14 00:00:00 UTC', expires `2012-01-14 23:59:59 UTC', SHA-1 fingerprint `acd50e69ad93f5db08fefb67180d871415858664'
+2011-09-24 20:29:51		 - certificate[2] info:
+2011-09-24 20:29:51		   - subject `C=FR,O=GANDI SAS,CN=Gandi Standard SSL CA', issuer `C=US,ST=UT,L=Salt Lake City,O=The USERTRUST Network,OU=http://www.usertrust.com,CN=UTN-USERFirst-Hardware', RSA key 2048 bits, signed using RSA-SHA1, activated `2008-10-23 00:00:00 UTC', expires `2020-05-30 10:48:38 UTC', SHA-1 fingerprint `a9f79883a075ce82d20d274d1368e876140d33b3'
+2011-09-24 20:29:51	=!=	irc: TLS handshake failed
+2011-09-24 20:29:51	=!=	irc: error: Error in the certificate.
+2011-09-24 20:29:51		irc: reconnecting to server in 1 minute, 20 seconds
+2011-09-24 20:29:58		irc: disconnected from server

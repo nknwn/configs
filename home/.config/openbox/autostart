@@ -1,0 +1,12 @@
+stalonetray &
+conky -q &
+nitrogen --restore &
+#xcompmgr &
+redshiftgui &
+start-pulseaudio-x11 &
+udiskie &
+modem-manager &
+sudo ntpd -qg &
+urxvtd &
+mpd &
+xrdb /home/nkn/.Xresources &

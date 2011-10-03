@@ -1,0 +1,7 @@
+background black
+decorations all
+dockapp_mode simple
+icon_size 18
+skip_taskbar true
+sticky true
+window_layer top 

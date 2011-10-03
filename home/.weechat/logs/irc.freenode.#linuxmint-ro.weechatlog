@@ -1,0 +1,112 @@
+2011-09-24 20:41:45	-->	nkn1 (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-24 20:41:45	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-24 20:41:45	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-24 20:41:45	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn nkn1]
+2011-09-24 20:41:45	--	Channel #linuxmint-ro: 4 nicks (2 ops, 0 halfops, 0 voices, 2 normals)
+2011-09-24 20:41:49	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-24 20:42:13		irc: disconnected from server
+2011-09-24 21:37:33	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-24 21:37:33	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-24 21:37:33	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-24 21:37:33	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn daniyl nkn]
+2011-09-24 21:37:33	--	Channel #linuxmint-ro: 5 nicks (2 ops, 0 halfops, 0 voices, 3 normals)
+2011-09-24 21:37:37	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-24 21:37:44	daniyl	cum as putea sa instalez opera in lmde
+2011-09-24 21:37:50	daniyl	stiti
+2011-09-24 21:38:13	daniyl	folositi acesta varianta de linux mint
+2011-09-24 21:38:25	nkn	eu nu stiu, imi pare rau
+2011-09-24 21:38:37	nkn	nu exista un deb sau ceva de genu?
+2011-09-24 21:38:53	daniyl	am incercat cu sudo apt-get install opera
+2011-09-24 21:39:29	daniyl	imi instaleaza ceva dar nu gasesc in meniul internet nimik
+2011-09-24 21:39:44	nkn	din terminal ruleaza?
+2011-09-24 21:42:03	nkn	si ai incercat descarcand deb-ul de pe http://www.opera.com/browser/download/  ?
+2011-09-24 21:42:33	nkn	selectezi debian si dai download si o sa descarce un deb
+2011-09-24 21:42:51	nkn	http://www.opera.com/browser/download/?os=linux-x86-64&ver=11.51&local=y
+2011-09-24 21:43:04	nkn	link-ul ala pentru x86_64
+2011-09-24 21:43:14	nkn	primul era cu i386
+2011-09-24 21:47:36	daniyl	aha
+2011-09-24 21:47:43	daniyl	am sa-ncerc si asa
+2011-09-24 21:48:21	daniyl	dar nu stii in debian e aceeasi comanda ca in linux mint
+2011-09-24 21:48:44	daniyl	adica sudo apt-get install nume-program
+2011-09-24 21:49:24	nkn	ar trebui
+2011-09-24 21:49:32	nkn	whereis apt-get 
+2011-09-24 21:49:35	nkn	ce iti arata
+2011-09-24 21:51:41	nkn	cum mint/ubuntu sunt bazate pe debian ar trebui sa foloseasca tot apt-get
+2011-09-24 21:51:59	daniyl	command not found
+2011-09-24 21:52:30	nkn	http://www.debian.org/doc/manuals/debian-tutorial/ch-dpkg.html
+2011-09-24 21:52:39	nkn	din cate am citit acolo, da, foloseste apt-get
+2011-09-24 21:53:36	nkn	uite si pe http://wiki.debian.org/Opera
+2011-09-24 21:53:43	nkn	si acolo zice cum sa instalezi opera
+2011-09-24 21:55:20		irc: disconnected from server
+2011-09-24 21:55:46	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-24 21:55:46	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-24 21:55:46	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-24 21:55:46	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn daniyl nkn]
+2011-09-24 21:55:46	--	Channel #linuxmint-ro: 5 nicks (2 ops, 0 halfops, 0 voices, 3 normals)
+2011-09-24 21:55:50	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-24 21:56:52	daniyl	ok man merci
+2011-09-24 21:56:59	daniyl	am sa mai incerc
+2011-09-24 21:57:10	daniyl	esti nkn de pe ubuntu.ro
+2011-09-24 21:57:23	daniyl	esti ff activ acolo
+2011-09-24 21:57:36	daniyl	i-ai ajutat pe multi acolo
+2011-09-24 21:57:48	nkn	nu prea as zice ca sunt activ :P
+2011-09-24 21:58:02	nkn	mai ales de cand nu mai folosesc ubuntu :)
+2011-09-24 21:58:37	daniyl	acum folosesti linux mint
+2011-09-24 21:58:41	nkn	archlinux
+2011-09-24 21:58:43	daniyl	sau ce distributie
+2011-09-24 21:58:48	daniyl	aha
+2011-09-24 21:59:09	daniyl	ce as mai dori sa-ncerc ar fi mandriva
+2011-09-24 21:59:22	daniyl	ai incercat vreodata
+2011-09-24 21:59:24	nkn	pentru lmde cam trebuie sa-l prinzi pe condor ca el foloseste si stie mai multe
+2011-09-24 21:59:27	nkn	nu
+2011-09-24 21:59:50	daniyl	aha deci condor este cu lmde
+2011-09-24 21:59:58	nkn	am incercat doar ubuntu, mint, puppy, arch, suse, fedora, bodhi
+2011-09-24 22:01:08	daniyl	si el este aici pe chat
+2011-09-24 22:01:21	nkn	nu
+2011-09-24 22:01:25	nkn	a fost acum 1 ora 2
+2011-09-24 22:01:31	nkn	nick-ul e condor_
+2011-09-24 22:01:34	daniyl	nu man
+2011-09-24 22:01:43	daniyl	daca este din cand in cand
+2011-09-24 22:01:46	nkn	a da da
+2011-09-24 22:01:55	daniyl	nu tot timpul
+2011-09-24 22:02:13	nkn	pai doar nu el mereu zice pe mint ro sa mai intre lumea aici? :P
+2011-09-24 22:02:29	nkn	aici e mai putina lume fata de ubuntu ro dar se vorbeste mult mai mult
+2011-09-24 22:02:44	nkn	ubuntu-ro e foarte mort..cam mereu a fost
+2011-09-24 22:02:45	daniyl	ok am sa-ncerc sal mai stresez s pe el
+2011-09-24 22:02:59	nkn	nu stersezi pe nimeni
+2011-09-24 22:02:59	daniyl	adica te referi la chat
+2011-09-24 22:03:03	nkn	la irc, da
+2011-09-24 22:03:04	daniyl	aha
+2011-09-24 22:03:14	daniyl	e baiat de gasca sa-nteleg
+2011-09-24 22:03:21	nkn	da
+2011-09-24 22:03:36	nkn	Creationn nu prea e
+2011-09-24 22:03:46	nkn	:P
+2011-09-24 22:04:01	daniyl	ca mereu am impresia cand intru in amanunte despre ceva
+2011-09-24 22:04:10	daniyl	cu cineva ca il stresez
+2011-09-24 22:04:29	nkn	pai nu deaia e canalul asta? sa vorbim
+2011-09-24 22:04:49	daniyl	da man
+2011-09-24 22:05:12	daniyl	dar poate lumea are altceva de facut
+2011-09-24 22:05:28	nkn	atunci raspund mai greu sau au away, sau nu raspund :P
+2011-09-24 22:05:40	nkn	nimeni nu e obligat sa raspunda
+2011-09-24 22:05:56	nkn	asa ca nu prea ai cum sa stresezi
+2011-09-24 22:06:35	daniyl	ok observ de la tine ca aici in comunitatea linux mint sunt persoane ff binevoitoar
+2011-09-24 22:06:43	daniyl	e
+2011-09-24 22:07:14	nkn	eu unul as zice ca si in altele sunt
+2011-09-24 22:07:31	daniyl	da man asa-i
+2011-09-24 22:07:34	nkn	fiecare cu parearea lui :P
+2011-09-24 22:07:43	daniyl	si in alte comunitati sunt
+2011-09-24 22:08:16	daniyl	dar ce se aude despre linuxmint.ro
+2011-09-24 22:08:41	daniyl	se va mai lansa sau va mai dura pana la lansare
+2011-09-24 22:08:51	nkn	nu stiu..
+2011-09-24 22:09:00	nkn	e asa de destul de mult tim[
+2011-09-24 22:09:03	nkn	timp*
+2011-09-24 22:09:08	daniyl	aha
+2011-09-24 22:09:12	daniyl	bine man
+2011-09-24 22:09:21	daniyl	hai ca te las
+2011-09-24 22:09:33	daniyl	iti spun noapte buna
+2011-09-24 22:09:42	nkn	noapte buna
+2011-09-24 22:09:46	daniyl	si imi pare bine de cunostinta
+2011-09-24 22:09:50	nkn	la fel
+2011-09-24 22:11:56		[nkn away: a]
+2011-09-24 22:12:02		[nkn back: gone 00:00:06]
+2011-09-24 22:13:31		irc: disconnected from server

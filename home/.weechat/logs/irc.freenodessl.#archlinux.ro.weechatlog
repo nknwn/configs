@@ -1,0 +1,974 @@
+2011-09-24 21:14:55	-->	nkn1 (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-24 21:14:55	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-24 21:14:55	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-24 21:14:55	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn1 paullik phrik Romeo- sidro torl znull]
+2011-09-24 21:14:55	--	Channel #archlinux.ro: 14 nicks (1 op, 0 halfops, 0 voices, 13 normals)
+2011-09-24 21:14:55	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-24 21:15:43	--	You are now known as nkn
+2011-09-24 21:17:07		irc: disconnected from server
+2011-09-24 21:17:15	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-24 21:17:15	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-24 21:17:15	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-24 21:17:15	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn paullik phrik Romeo- sidro torl znull]
+2011-09-24 21:17:15	--	Channel #archlinux.ro: 14 nicks (1 op, 0 halfops, 0 voices, 13 normals)
+2011-09-24 21:17:16	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-24 21:19:40		irc: disconnected from server
+2011-09-24 21:20:37	-->	nkn1 (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-24 21:20:37	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-24 21:20:37	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-24 21:20:37	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn1 paullik phrik Romeo- sidro torl znull]
+2011-09-24 21:20:37	--	Channel #archlinux.ro: 14 nicks (1 op, 0 halfops, 0 voices, 13 normals)
+2011-09-24 21:20:37	--	Notice(hitchcock.freenode.net): [freenode-info] please register your nickname...don't forget to auto-identify! http://freenode.net/faq.shtml#nicksetup
+2011-09-24 21:20:37	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-24 21:21:07		irc: disconnected from server
+2011-09-24 21:22:58	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-24 21:22:58	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-24 21:22:58	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-24 21:22:58	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn paullik phrik Romeo- sidro torl znull]
+2011-09-24 21:22:58	--	Channel #archlinux.ro: 14 nicks (1 op, 0 halfops, 0 voices, 13 normals)
+2011-09-24 21:22:58	--	Notice(gibson.freenode.net): [freenode-info] channel trolls and no channel staff around to help? please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+2011-09-24 21:22:58	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-24 21:25:08		irc: disconnected from server
+2011-09-24 21:29:22	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-24 21:29:22	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-24 21:29:22	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-24 21:29:22	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn paullik phrik Romeo- sidro torl znull]
+2011-09-24 21:29:22	--	Channel #archlinux.ro: 14 nicks (1 op, 0 halfops, 0 voices, 13 normals)
+2011-09-24 21:29:22	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-24 21:30:01		irc: disconnected from server
+2011-09-24 21:31:45	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-24 21:31:45	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-24 21:31:45	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-24 21:31:45	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn paullik phrik Romeo- sidro torl znull]
+2011-09-24 21:31:45	--	Channel #archlinux.ro: 14 nicks (1 op, 0 halfops, 0 voices, 13 normals)
+2011-09-24 21:31:46	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-24 21:34:11		irc: disconnected from server
+2011-09-24 22:14:52	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-24 22:14:52	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-24 22:14:52	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-24 22:14:52	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn paullik phrik Romeo- torl znull]
+2011-09-24 22:14:52	--	Channel #archlinux.ro: 13 nicks (1 op, 0 halfops, 0 voices, 12 normals)
+2011-09-24 22:14:52	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-24 22:26:00		irc: disconnected from server
+2011-09-24 22:28:08	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-24 22:28:09	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-24 22:28:09	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-24 22:28:09	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn paullik phrik Romeo- torl znull]
+2011-09-24 22:28:09	--	Channel #archlinux.ro: 13 nicks (1 op, 0 halfops, 0 voices, 12 normals)
+2011-09-24 22:28:09	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-24 22:31:57		[nkn away: not around]
+2011-09-24 22:32:33		[nkn back: gone 00:00:36]
+2011-09-24 22:35:41		[nkn away: not around]
+2011-09-24 23:07:25		[nkn back: gone 00:31:44]
+2011-09-24 23:10:42		irc: disconnected from server
+2011-09-24 23:13:07	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-24 23:13:08	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-24 23:13:08	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-24 23:13:08	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn paullik phrik Romeo- torl znull]
+2011-09-24 23:13:08	--	Channel #archlinux.ro: 13 nicks (1 op, 0 halfops, 0 voices, 12 normals)
+2011-09-24 23:13:08	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-24 23:13:59	<--	paullik (~paullik@unaffiliated/paullik) has quit (Quit: paullik)
+2011-09-24 23:26:06	-->	adlight (~adlight@cl-86-125-177-159.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-24 23:29:50	<--	adlight (~adlight@cl-86-125-177-159.cablelink.mures.rdsnet.ro) has quit (Remote host closed the connection)
+2011-09-25 00:36:02	-->	micutz (~micutz@188.27.103.234) has joined #archlinux.ro
+2011-09-25 00:54:18		irc: disconnected from server
+2011-09-25 08:59:56	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-25 08:59:57	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-25 08:59:57	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-25 08:59:57	--	Nicks #archlinux.ro: [@ChanServ Amallya Burebista hando hyperutz ioni jackoneill nkn phrik torl znull]
+2011-09-25 08:59:57	--	Channel #archlinux.ro: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2011-09-25 08:59:57	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-25 09:00:12		irc: disconnected from server
+2011-09-25 09:00:26	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-25 09:00:26	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-25 09:00:26	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-25 09:00:26	--	Nicks #archlinux.ro: [@ChanServ Amallya Burebista hando hyperutz ioni jackoneill nkn phrik torl znull]
+2011-09-25 09:00:26	--	Channel #archlinux.ro: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2011-09-25 09:00:27	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-25 09:26:38		irc: disconnected from server
+2011-09-25 13:01:45	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-25 13:01:45	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-25 13:01:45	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-25 13:01:45	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni jackoneill micutz nkn paullik Romeo- sidro torl znull]
+2011-09-25 13:01:45	--	Channel #archlinux.ro: 13 nicks (1 op, 0 halfops, 0 voices, 12 normals)
+2011-09-25 13:01:45	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-25 13:04:34	-->	phrik (~archbot@archlinux/bot/phrik) has joined #archlinux.ro
+2011-09-25 13:21:32	<--	Romeo- (~romi@unaffiliated/romeo/x-000000001) has quit (Quit: Wer net fragt, hat's schon gesagt)
+2011-09-25 15:15:56	-->	starlays (~starlays@unaffiliated/starlays) has joined #archlinux.ro
+2011-09-25 15:16:02	starlays	buna ziua tuturor
+2011-09-25 15:16:29	starlays	cum pot da enable la bzip2 in php in conditiile in care am instalat php-ul prin intermediul pacman?
+2011-09-25 15:37:15	sidro	bzip e instalat?
+2011-09-25 15:43:01	ioni	e  de ajuns sa ai bzip2 instalat
+2011-09-25 15:49:25		irc: disconnected from server
+2011-09-25 15:52:01	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-25 15:52:02	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-25 15:52:02	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-25 15:52:02	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni jackoneill micutz nkn paullik phrik sidro starlays torl znull]
+2011-09-25 15:52:02	--	Channel #archlinux.ro: 14 nicks (1 op, 0 halfops, 0 voices, 13 normals)
+2011-09-25 15:52:02	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-25 15:57:39	<--	sidro (~sidro@86.120.61.72) has quit (Quit: Leaving)
+2011-09-25 16:32:37	-->	paullik1 (~paullik@188.24.237.12) has joined #archlinux.ro
+2011-09-25 16:35:37	<--	paullik (~paullik@unaffiliated/paullik) has quit (Ping timeout: 245 seconds)
+2011-09-25 16:48:19	<--	paullik1 (~paullik@188.24.237.12) has quit (Read error: Connection reset by peer)
+2011-09-25 16:48:57	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-09-25 18:49:21	<--	micutz (~micutz@188.26.251.81) has quit (Quit: Leaving)
+2011-09-25 19:01:49	-->	micutz (~micutz@188.26.251.81) has joined #archlinux.ro
+2011-09-25 19:07:01	<--	micutz (~micutz@188.26.251.81) has quit (Quit: Leaving)
+2011-09-25 20:13:55	-->	sidro (~sidro@86.120.61.72) has joined #archlinux.ro
+2011-09-25 20:40:50	-->	me345 (~me345@adsl-75-15-232-163.dsl.bkfd14.sbcglobal.net) has joined #archlinux.ro
+2011-09-25 20:46:13	-->	paullik1 (~paullik@188.24.237.107) has joined #archlinux.ro
+2011-09-25 20:49:29	<--	paullik (~paullik@unaffiliated/paullik) has quit (Ping timeout: 260 seconds)
+2011-09-25 20:50:22	--	paullik1 is now known as paullik
+2011-09-25 20:50:33	<--	paullik (~paullik@188.24.237.107) has quit (Changing host)
+2011-09-25 20:50:33	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-09-25 21:43:19		[nkn away: not around]
+2011-09-25 22:06:43	<--	me345 (~me345@adsl-75-15-232-163.dsl.bkfd14.sbcglobal.net) has quit (Read error: Connection reset by peer)
+2011-09-25 22:16:26	-->	wooptoo (~wooptoo@unaffiliated/wooptoo) has joined #archlinux.ro
+2011-09-25 22:16:35	-->	hannah_irina (~deepfreez@unaffiliated/hannahirina/x-7854734) has joined #archlinux.ro
+2011-09-25 22:16:59		[nkn back: gone 00:33:39]
+2011-09-25 22:17:25	<--	sidro (~sidro@86.120.61.72) has quit (Quit: Leaving)
+2011-09-25 22:27:35	-->	micutz (~micutz@188.26.251.81) has joined #archlinux.ro
+2011-09-25 22:37:02	<--	paullik (~paullik@unaffiliated/paullik) has quit (Quit: paullik)
+2011-09-25 22:44:24		irc: disconnected from server
+2011-09-26 07:53:38	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-26 07:53:38	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-26 07:53:38	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-26 07:53:38	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni jackoneill nkn phrik sidro torl znull]
+2011-09-26 07:53:38	--	Channel #archlinux.ro: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2011-09-26 07:53:50	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-26 08:31:16	-->	sayu (~shark@92.82.86.95) has joined #archlinux.ro
+2011-09-26 08:40:46		irc: disconnected from server
+2011-09-26 10:11:19	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-26 10:11:20	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-26 10:11:20	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-26 10:11:20	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn phrik sayu sidro torl znull]
+2011-09-26 10:11:20	--	Channel #archlinux.ro: 13 nicks (1 op, 0 halfops, 0 voices, 12 normals)
+2011-09-26 10:11:20	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-26 10:15:12	<--	hannah_irina (~deepfreez@unaffiliated/hannahirina/x-7854734) has quit (Read error: Connection reset by peer)
+2011-09-26 10:16:04	-->	hannah_irina (~deepfreez@188.173.22.251) has joined #archlinux.ro
+2011-09-26 10:17:48	<--	hannah_irina (~deepfreez@188.173.22.251) has quit (Changing host)
+2011-09-26 10:17:48	-->	hannah_irina (~deepfreez@unaffiliated/hannahirina/x-7854734) has joined #archlinux.ro
+2011-09-26 10:19:30	<--	hannah_irina (~deepfreez@unaffiliated/hannahirina/x-7854734) has quit (Remote host closed the connection)
+2011-09-26 10:35:50		irc: disconnected from server
+2011-09-26 10:39:08	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-26 10:39:08	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-26 10:39:08	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-26 10:39:08	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni jackoneill nkn phrik sayu sidro torl znull]
+2011-09-26 10:39:08	--	Channel #archlinux.ro: 12 nicks (1 op, 0 halfops, 0 voices, 11 normals)
+2011-09-26 10:39:08	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-26 10:42:32		irc: disconnected from server
+2011-09-26 10:44:00	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-26 10:44:01	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-26 10:44:01	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-26 10:44:01	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni jackoneill nkn phrik sayu sidro torl znull]
+2011-09-26 10:44:01	--	Channel #archlinux.ro: 12 nicks (1 op, 0 halfops, 0 voices, 11 normals)
+2011-09-26 10:44:01	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-26 10:54:55	<--	jackoneill (~jackoneil@unaffiliated/jackoneill) has quit (Ping timeout: 276 seconds)
+2011-09-26 10:56:12	-->	jackoneill (~jackoneil@unaffiliated/jackoneill) has joined #archlinux.ro
+2011-09-26 11:12:22		irc: disconnected from server
+2011-09-26 11:14:13	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-26 11:14:13	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-26 11:14:13	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-26 11:14:13	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni jackoneill nkn phrik sayu sidro torl znull]
+2011-09-26 11:14:13	--	Channel #archlinux.ro: 12 nicks (1 op, 0 halfops, 0 voices, 11 normals)
+2011-09-26 11:14:13	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-26 11:27:37	-->	hannah_irina (~deepfreez@unaffiliated/hannahirina/x-7854734) has joined #archlinux.ro
+2011-09-26 11:27:42	hannah_irina	sidro, e ramu nu?
+2011-09-26 11:27:58	sidro	da
+2011-09-26 11:28:04	sidro	pai e clar ai vazut si tu
+2011-09-26 11:28:13	sidro	a gasit errori in ram
+2011-09-26 11:28:13	hannah_irina	ca vreau sa instalez totul oki, pana cand trebuie sa apas acolo f8 mi se face ecran albastru si restart
+2011-09-26 11:28:38	sidro	cate placute de ram ai?
+2011-09-26 11:28:53	hannah_irina	1
+2011-09-26 11:28:56	sidro	nasol
+2011-09-26 11:29:03	sidro	trebuie schimbata
+2011-09-26 11:29:09	hannah_irina	mda
+2011-09-26 11:29:25	hannah_irina	ca am scanat si hddu cu hdd regenerator si a gasit 112 baduri
+2011-09-26 11:29:27	hannah_irina	si cica le-a rezolvat
+2011-09-26 11:29:53	hannah_irina	acuma am dat o formatare la hdd cu killdisk si sta de ieri noapte :)
+2011-09-26 11:29:55	hannah_irina	mai are cateva ore
+2011-09-26 11:30:18	sidro	daca ai si hardul busit schimba-l si pe ala
+2011-09-26 11:33:39	sidro	hannah_irina: esti pe ddr2?
+2011-09-26 11:35:54	sidro	hannah_irina: mai verifica o data hard-ul dupa ce termini operatiunea si vezi daca iti mai gaseste baduri
+2011-09-26 11:43:59		irc: disconnected from server
+2011-09-26 11:45:58	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-26 11:45:59	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-26 11:45:59	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-26 11:45:59	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn phrik sayu sidro torl znull]
+2011-09-26 11:45:59	--	Channel #archlinux.ro: 13 nicks (1 op, 0 halfops, 0 voices, 12 normals)
+2011-09-26 11:45:59	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-26 11:48:03	hannah_irina	nu stiu daca e ddr2 ca nu e compu meu
+2011-09-26 11:48:07	hannah_irina	ma uit dupa
+2011-09-26 11:49:08	sidro	ok
+2011-09-26 11:49:12	hannah_irina	ma duc sa vad daca a terminat :))
+2011-09-26 11:51:17	hannah_irina	88%
+2011-09-26 11:51:18	hannah_irina	mai e
+2011-09-26 11:52:20	hannah_irina	cine a inventat hiren's a fost un geniu
+2011-09-26 11:58:39	sidro	:)
+2011-09-26 12:08:03	hannah_irina	www.designromania.org ce parere ai?
+2011-09-26 12:08:10	hannah_irina	acuma scriu la articolele alea
+2011-09-26 12:10:46	hannah_irina	e site-ul sotului meu :)
+2011-09-26 12:11:18	sidro	esti maritata?
+2011-09-26 12:11:25	hannah_irina	da, da
+2011-09-26 12:11:38	<--	sayu (~shark@92.82.86.95) has quit (Ping timeout: 276 seconds)
+2011-09-26 12:13:40	sidro	iti faci reclama pe chan?
+2011-09-26 12:15:07	hannah_irina	nu, nu
+2011-09-26 12:15:17	hannah_irina	sa poate da
+2011-09-26 12:17:13	-->	wooptoo (~wooptoo@unaffiliated/wooptoo) has joined #archlinux.ro
+2011-09-26 12:21:09	sidro	:)
+2011-09-26 12:41:44	hannah_irina	http://designromania.org/articole-utile/windows/33-crearea-unui-backup-pentru-drivere
+2011-09-26 12:41:46	phrik	Title: Crearea unui backup pentru drivere | Design Romania - cu noi esti mai aproape de clientii tai (at designromania.org)
+2011-09-26 12:43:11	sidro	hannah_irina: te-ai gasit sa dai asta pe chan de linux
+2011-09-26 12:43:58	hannah_irina	=))
+2011-09-26 12:44:09	hannah_irina	pai daca aia de pe windows vorbesc de linxu
+2011-09-26 12:44:15	hannah_irina	merge
+2011-09-26 12:44:18	hannah_irina	schimb de experienta
+2011-09-26 12:45:18	sidro	spideroak ajunge
+2011-09-26 12:47:29	hannah_irina	oracle pe arch merge?
+2011-09-26 12:48:05	sidro	ce de la oracle?
+2011-09-26 12:48:12	sidro	DB-ul?
+2011-09-26 12:48:12	hannah_irina	sa fac serv de oracle
+2011-09-26 12:48:28	sidro	la db te referi?
+2011-09-26 12:48:36	hannah_irina	da
+2011-09-26 12:48:36	sidro	ca oracle are multe produse
+2011-09-26 12:48:47	sidro	incearca, ar trebui sa mearga
+2011-09-26 12:48:57	sidro	si faci design web in Win?
+2011-09-26 12:49:04	hannah_irina	nu eu
+2011-09-26 12:49:10	sidro	sotul
+2011-09-26 12:49:20	hannah_irina	eu doar scriu articolele acelea
+2011-09-26 12:49:21	sidro	e winowsist convins
+2011-09-26 12:49:34	hannah_irina	nu, nu
+2011-09-26 12:49:34	sidro	e windowsist convins
+2011-09-26 12:49:54	hannah_irina	foloseste arch l-a convins ioni :)) de ceva ani tot arch foloseste
+2011-09-26 12:50:07	sidro	:)
+2011-09-26 12:50:10	sidro	e bine
+2011-09-26 12:50:41	hannah_irina	ma bag sa scriu alt articol
+2011-09-26 12:50:46	sidro	despre ce?
+2011-09-26 12:51:17	hannah_irina	impiedicarea instalarii automate a actualizarilor la oprire de sistem
+2011-09-26 12:51:55	sidro	tot windows?
+2011-09-26 12:52:16	hannah_irina	yap
+2011-09-26 12:52:24	ioni	de ce ai face asta?
+2011-09-26 12:52:29	hannah_irina	cred co o sa bage si de linux sau bag eu, numai sa gasesc ce
+2011-09-26 12:52:31	hannah_irina	:)
+2011-09-26 12:52:35	ioni	vrei sa faci actualizari automate
+2011-09-26 12:52:55	hannah_irina	sa fie oprite
+2011-09-26 12:53:10	sidro	eu nu am inteles de ce nu se fac articole si pt. open-source
+2011-09-26 12:53:12	hannah_irina	ca multi au win piratat, si instaleaza actualizarile si nu ami merge
+2011-09-26 12:53:24	sidro	hannah_irina: asta e treaba lor
+2011-09-26 12:53:28	ioni	si uite asa i-au virusi...
+2011-09-26 12:53:32	ioni	*iau
+2011-09-26 12:53:32	hannah_irina	da
+2011-09-26 12:53:36	hannah_irina	asa e
+2011-09-26 12:53:50	sidro	ioni: nu mai pui ca folosesc ceva pirat
+2011-09-26 12:54:10	sidro	incurajarea la piraterie in loc de articole despre open-source
+2011-09-26 12:54:21	hannah_irina	:))
+2011-09-26 12:54:38	sidro	e josnic, dar daca o faci pt. bani
+2011-09-26 12:54:45	sidro	si traiesti din banii de acolo
+2011-09-26 12:54:50	sidro	poate se mai accepta
+2011-09-26 12:55:44	hannah_irina	ioni, cati bani ei ca sa instalezi un server linux, cu website pe el si securizat etc
+2011-09-26 12:55:45	hannah_irina	?
+2011-09-26 12:56:06	hannah_irina	sau alt fel de server...
+2011-09-26 12:56:10	ioni	imi propui o afacere?
+2011-09-26 12:56:33	hannah_irina	nu, nu
+2011-09-26 12:56:37	hannah_irina	doar intrebat asa
+2011-09-26 12:56:42	ioni	habar n-am
+2011-09-26 12:57:25	sidro	hannah_irina:  depinde
+2011-09-26 12:57:49	sidro	dar suna mai bine decat sa faci articole despre cum sa piratezi Windows
+2011-09-26 12:57:50	hannah_irina	uff
+2011-09-26 12:58:04	hannah_irina	bine, atunci scriu despre control panel
+2011-09-26 12:58:07	hannah_irina	brb revin
+2011-09-26 12:58:11	sidro	scrie scrie
+2011-09-26 12:58:26	sidro	ca o sa scrie altii despre arch
+2011-09-26 12:58:28	sidro	;)
+2011-09-26 12:59:49	hannah_irina	o stiu scriu si despre arch promit, doar sa imi zici despre ce
+2011-09-26 13:00:18	sidro	daca tot le aveti cu facutul de pagini web de ce naiba nu postati articole referitoare la cum se fac?
+2011-09-26 13:00:41	sidro	ai ce scrie despre Arch, nu cred ca trebuie sa iti dea cineva teme referitoare la Arch
+2011-09-26 13:01:22	sidro	m-ar inetresa mai mult articole referitoare la Web Design, Arch, script language etc
+2011-09-26 13:01:31	sidro	decat bullshit-ul de pe win
+2011-09-26 13:07:05	hannah_irina	http://designromania.org/articole-utile/windows/34-optimizarea-accesului-la-control-panel
+2011-09-26 13:07:06	phrik	Title: Optimizarea accesului la Control Panel | Design Romania - cu noi esti mai aproape de clientii tai (at designromania.org)
+2011-09-26 13:07:42	hannah_irina	o sa bagam, da si despre seo, web
+2011-09-26 13:08:55	sidro	m-ar interesa si ceva despre cum poti optimiza openbox
+2011-09-26 13:09:07	sidro	sau ceva despre awesome
+2011-09-26 13:09:32	sidro	hannah_irina: bagi?
+2011-09-26 13:11:46	ioni	bai
+2011-09-26 13:11:54	sidro	a?
+2011-09-26 13:12:01	ioni	mi-ati vazut ochelarii?
+2011-09-26 13:12:32	sidro	:)
+2011-09-26 13:12:44	sidro	sunt la  hannah_irina
+2011-09-26 13:13:07	ioni	hannah_irina, uita-te sub pat si vezi daca mi-am lasat ochelarii la tine
+2011-09-26 13:14:01	sidro	ioni: ai cont de google+?
+2011-09-26 13:16:02	ioni	da
+2011-09-26 13:18:57	hannah_irina	nu sunt la mine
+2011-09-26 13:19:03	hannah_irina	poate la vecina :)
+2011-09-26 13:19:23	ioni	vecina mea sau a ta?
+2011-09-26 13:19:26	hannah_irina	sidro, scriem si despre openbox
+2011-09-26 13:19:32	hannah_irina	ioni, a ta :)
+2011-09-26 13:19:53	ioni	s-ar putea
+2011-09-26 13:20:07	ioni	dar ultima data a venit ea aici deci pica...
+2011-09-26 13:20:23	hannah_irina	poate ti i-a luat ... ca sa te mai duci pe la ea
+2011-09-26 13:22:56	hannah_irina	plec la țoping revin în câteva ore
+2011-09-26 13:23:12	ioni	cateva ore?!
+2011-09-26 13:23:20	sidro	:)
+2011-09-26 13:23:23	hannah_irina	pai da
+2011-09-26 13:23:30	sidro	pana ii instaleaza lui vecina arch dureaza
+2011-09-26 13:23:40	sidro	:)
+2011-09-26 13:23:48	hannah_irina	recordul meu este de 7 ore la shopping
+2011-09-26 13:23:55	ioni	eu stau mai mult la casa decat sa-mi pun cumparaturile in cos
+2011-09-26 13:24:04	hannah_irina	ia sa il intrebi pe alex daca mai vine cu mine la cumparaturi
+2011-09-26 13:24:19	sidro	ioni: credeam ca te duci pe la vecina
+2011-09-26 13:24:20	sidro	:D
+2011-09-26 13:24:38	hannah_irina	o zi frumoasa in continuare
+2011-09-26 13:24:40	hannah_irina	pa-pa
+2011-09-26 13:24:48	sidro	te apuci de scris?
+2011-09-26 13:25:00	hannah_irina	nu, nu, plec la cumparaturi
+2011-09-26 13:25:21	sidro	:)
+2011-09-26 13:25:30	<--	hannah_irina (~deepfreez@unaffiliated/hannahirina/x-7854734) has quit
+2011-09-26 13:25:35	sidro	sper ca de data asta sa iti ia 8 ore
+2011-09-26 14:16:06		[nkn away: not around]
+2011-09-26 15:01:40	<--	sidro (~Ovidiu@82.137.13.150) has left #archlinux.ro
+2011-09-26 15:07:34	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-09-26 17:11:37	<--	paullik (~paullik@unaffiliated/paullik) has quit (Quit: paullik)
+2011-09-26 17:32:59	-->	hannah_irina (~deepfreez@unaffiliated/hannahirina/x-7854734) has joined #archlinux.ro
+2011-09-26 19:21:46		[nkn back: gone 05:05:40]
+2011-09-26 20:05:39	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-09-26 20:32:12	-->	micutz (~micutz@188.26.251.227) has joined #archlinux.ro
+2011-09-26 21:28:35	-->	Romeo- (~romi@dslb-188-104-144-052.pools.arcor-ip.net) has joined #archlinux.ro
+2011-09-26 21:28:35	<--	Romeo- (~romi@dslb-188-104-144-052.pools.arcor-ip.net) has quit (Changing host)
+2011-09-26 21:28:35	-->	Romeo- (~romi@unaffiliated/romeo/x-000000001) has joined #archlinux.ro
+2011-09-26 21:48:21	<--	Romeo- (~romi@unaffiliated/romeo/x-000000001) has quit (Quit: Wer net fragt, hat's schon gesagt)
+2011-09-26 21:59:11		[nkn away: not around]
+2011-09-26 22:18:42	<--	paullik (~paullik@unaffiliated/paullik) has quit (Quit: paullik)
+2011-09-26 22:49:35		[nkn back: gone 00:50:23]
+2011-09-27 00:03:43		irc: disconnected from server
+2011-09-27 00:14:30	-->	nkn (~nkn@82.137.15.101) has joined #archlinux.ro
+2011-09-27 00:14:30	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-27 00:14:30	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-27 00:14:30	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill micutz nkn phrik torl znull]
+2011-09-27 00:14:30	--	Channel #archlinux.ro: 12 nicks (1 op, 0 halfops, 0 voices, 11 normals)
+2011-09-27 00:14:30	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-27 00:15:32	<--	micutz (~micutz@188.26.251.227) has quit (Quit: Leaving)
+2011-09-27 00:15:39		irc: disconnected from server
+2011-09-27 00:17:17	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-27 00:17:18	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-27 00:17:18	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-27 00:17:18	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn phrik torl znull]
+2011-09-27 00:17:18	--	Channel #archlinux.ro: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2011-09-27 00:17:18	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-27 00:25:29	-->	micutz (~micutz@188.26.251.227) has joined #archlinux.ro
+2011-09-27 00:25:35	<--	micutz (~micutz@188.26.251.227) has quit (Client Quit)
+2011-09-27 00:30:54		irc: disconnected from server
+2011-09-27 08:17:32	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-27 08:17:32	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-27 08:17:32	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-27 08:17:32	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn phrik torl znull]
+2011-09-27 08:17:32	--	Channel #archlinux.ro: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2011-09-27 08:17:44	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-27 08:54:16		irc: disconnected from server
+2011-09-27 09:01:50	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-27 09:01:51	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-27 09:01:51	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-27 09:01:51	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn phrik torl znull]
+2011-09-27 09:01:51	--	Channel #archlinux.ro: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2011-09-27 09:01:51	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-27 09:37:03		irc: disconnected from server
+2011-09-27 09:46:50	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-27 09:46:50	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-27 09:46:50	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-27 09:46:50	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn phrik torl znull]
+2011-09-27 09:46:50	--	Channel #archlinux.ro: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2011-09-27 09:46:51	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-27 09:53:28		irc: disconnected from server
+2011-09-27 10:00:16	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-27 10:00:17	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-27 10:00:17	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-27 10:00:17	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni jackoneill nkn phrik torl znull]
+2011-09-27 10:00:17	--	Channel #archlinux.ro: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2011-09-27 10:00:17	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-27 10:48:27		irc: disconnected from server
+2011-09-27 11:25:01	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-27 11:25:02	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-27 11:25:02	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-27 11:25:02	--	Nicks #archlinux.ro: [@ChanServ Amallya hannah_irina hyperutz ioni jackoneill nkn phrik torl znull]
+2011-09-27 11:25:02	--	Channel #archlinux.ro: 10 nicks (1 op, 0 halfops, 0 voices, 9 normals)
+2011-09-27 11:25:04	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-27 11:26:29	-->	hando (~radu@ip72-222-166-227.ph.ph.cox.net) has joined #archlinux.ro
+2011-09-27 11:30:17	-->	radu (~radu@ip72-222-166-227.ph.ph.cox.net) has joined #archlinux.ro
+2011-09-27 11:32:15	<--	hando (~radu@ip72-222-166-227.ph.ph.cox.net) has quit (Ping timeout: 248 seconds)
+2011-09-27 11:44:00	-->	wooptoo (~wooptoo@unaffiliated/wooptoo) has joined #archlinux.ro
+2011-09-27 12:05:34	-->	hando (~radu@ip72-222-166-227.ph.ph.cox.net) has joined #archlinux.ro
+2011-09-27 12:05:36	<--	radu (~radu@ip72-222-166-227.ph.ph.cox.net) has quit (Read error: Connection reset by peer)
+2011-09-27 12:12:47	<--	hando (~radu@ip72-222-166-227.ph.ph.cox.net) has quit (Ping timeout: 248 seconds)
+2011-09-27 12:13:55	-->	hando (~radu@ip72-222-166-227.ph.ph.cox.net) has joined #archlinux.ro
+2011-09-27 12:20:56	-->	radu (~radu@ip72-222-166-227.ph.ph.cox.net) has joined #archlinux.ro
+2011-09-27 12:22:55	<--	hando (~radu@ip72-222-166-227.ph.ph.cox.net) has quit (Ping timeout: 248 seconds)
+2011-09-27 14:30:56	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-09-27 15:43:33	<--	paullik (~paullik@unaffiliated/paullik) has quit (Quit: paullik)
+2011-09-27 15:52:27		[nkn away: not around]
+2011-09-27 18:00:27	-->	sidro (~sidro@86.120.61.72) has joined #archlinux.ro
+2011-09-27 19:21:57	-->	Romeo- (~romi@unaffiliated/romeo/x-000000001) has joined #archlinux.ro
+2011-09-27 19:30:19	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-09-27 19:53:31	<--	Romeo- (~romi@unaffiliated/romeo/x-000000001) has quit (Remote host closed the connection)
+2011-09-27 19:54:13	-->	Romeo- (~romi@dslb-188-104-144-052.pools.arcor-ip.net) has joined #archlinux.ro
+2011-09-27 19:54:13	<--	Romeo- (~romi@dslb-188-104-144-052.pools.arcor-ip.net) has quit (Changing host)
+2011-09-27 19:54:13	-->	Romeo- (~romi@unaffiliated/romeo/x-000000001) has joined #archlinux.ro
+2011-09-27 20:55:57	-->	sayu (~shark@92.84.7.86) has joined #archlinux.ro
+2011-09-27 21:07:32	<--	sayu (~shark@92.84.7.86) has quit (Ping timeout: 258 seconds)
+2011-09-27 21:14:44		[nkn back: gone 05:22:17]
+2011-09-27 21:29:20	-->	micutz (~micutz@188.26.251.227) has joined #archlinux.ro
+2011-09-27 22:22:38	<--	paullik (~paullik@unaffiliated/paullik) has quit (Quit: paullik)
+2011-09-27 22:26:53	<--	micutz (~micutz@188.26.251.227) has quit (Quit: Leaving)
+2011-09-27 22:29:07	hannah_irina	wow
+2011-09-27 22:29:13	hannah_irina	am uitat laptopul deschis
+2011-09-27 22:29:28	jackoneill	muri bateria?
+2011-09-27 22:29:44	hannah_irina	nuu de cateva zile e aprins
+2011-09-27 22:29:59	hannah_irina	1 zi si 13 ore
+2011-09-27 22:30:10	jackoneill	2229  weechat     WeeChat uptime: 7 days 01:58:14, started on Tue, 20 Sep 2011
+2011-09-27 22:30:20	jackoneill	hehehe
+2011-09-27 22:30:26	hannah_irina	mda
+2011-09-27 22:34:40	<--	Romeo- (~romi@unaffiliated/romeo/x-000000001) has quit (Ping timeout: 248 seconds)
+2011-09-27 22:38:15	<--	sidro (~sidro@86.120.61.72) has quit (Quit: Leaving)
+2011-09-27 22:53:43	<--	hannah_irina (~deepfreez@unaffiliated/hannahirina/x-7854734) has quit (Read error: Connection reset by peer)
+2011-09-27 22:54:22	-->	hannah_irina (~deepfreez@188.173.22.251) has joined #archlinux.ro
+2011-09-27 23:01:34	<--	hannah_irina (~deepfreez@188.173.22.251) has quit (Changing host)
+2011-09-27 23:01:34	-->	hannah_irina (~deepfreez@unaffiliated/hannahirina/x-7854734) has joined #archlinux.ro
+2011-09-27 23:04:22	-->	Romeo- (~romi@unaffiliated/romeo/x-000000001) has joined #archlinux.ro
+2011-09-27 23:05:51	Romeo-	io
+2011-09-27 23:05:57	Romeo-	hopa
+2011-09-27 23:06:05	Romeo-	hanne si irine aparura
+2011-09-27 23:07:51	Romeo-	ioi ce uptime mic am:)
+2011-09-27 23:07:56	Romeo-	5 min
+2011-09-27 23:11:03	hannah_irina	buna
+2011-09-27 23:15:10	Romeo-	ceau
+2011-09-27 23:15:55	nkn	n-au nimic
+2011-09-27 23:15:59	nkn	:P
+2011-09-27 23:16:24	Romeo-	n-a,
+2011-09-27 23:16:28	Romeo-	la ce trebe
+2011-09-27 23:18:17	Romeo-	fete cu arch
+2011-09-27 23:29:44	<--	Romeo- (~romi@unaffiliated/romeo/x-000000001) has quit (Remote host closed the connection)
+2011-09-27 23:32:54	hannah_irina	mmm
+2011-09-27 23:33:03	hannah_irina	e problema cu tipul asta
+2011-09-27 23:36:15	wooptoo	 up 119 days
+2011-09-27 23:36:41	wooptoo	trișez, ca e routerul, dar si ala e tot cu linux :P
+2011-09-27 23:41:46	hannah_irina	:) hehe
+2011-09-27 23:41:57	hannah_irina	eu la server am vreo 6 zile
+2011-09-27 23:47:29	nkn	eu am 12 ore ca azi mi-am dat seama ca nu am pus modulele in kernel pentru modem...
+2011-09-27 23:54:42	hannah_irina	hiihihi
+2011-09-27 23:54:47	hannah_irina	aparu un film tare
+2011-09-27 23:54:52	ioni	ce film?
+2011-09-27 23:55:17	hannah_irina	Johnny.English.Reborn
+2011-09-27 23:55:39	hannah_irina	buna ioni
+2011-09-28 00:24:15		irc: disconnected from server
+2011-09-28 08:25:29	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-28 08:25:29	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-28 08:25:29	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-28 08:25:29	--	Nicks #archlinux.ro: [@ChanServ Amallya hyperutz ioni jackoneill nkn phrik radu torl znull]
+2011-09-28 08:25:29	--	Channel #archlinux.ro: 10 nicks (1 op, 0 halfops, 0 voices, 9 normals)
+2011-09-28 08:25:43	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-28 10:43:08		irc: disconnected from server
+2011-09-28 10:44:46	-->	nkn (~nkn@82.137.15.42) has joined #archlinux.ro
+2011-09-28 10:44:46	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-28 10:44:46	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-28 10:44:46	--	Nicks #archlinux.ro: [@ChanServ Amallya hyperutz ioni jackoneill nkn phrik radu torl znull]
+2011-09-28 10:44:46	--	Channel #archlinux.ro: 10 nicks (1 op, 0 halfops, 0 voices, 9 normals)
+2011-09-28 10:44:51	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-28 10:46:39		irc: disconnected from server
+2011-09-28 10:47:48	-->	nkn (~nkn@79.118.250.37) has joined #archlinux.ro
+2011-09-28 10:47:48	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-28 10:47:48	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-28 10:47:48	--	Nicks #archlinux.ro: [@ChanServ Amallya hyperutz ioni jackoneill nkn phrik radu torl znull]
+2011-09-28 10:47:48	--	Channel #archlinux.ro: 10 nicks (1 op, 0 halfops, 0 voices, 9 normals)
+2011-09-28 10:47:53	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-28 10:49:03		[nkn away: not around]
+2011-09-28 13:13:43	-->	wooptoo (~wooptoo@unaffiliated/wooptoo) has joined #archlinux.ro
+2011-09-28 14:00:22	-->	paullik (~paullik@188.24.237.107) has joined #archlinux.ro
+2011-09-28 14:01:04	<--	paullik (~paullik@188.24.237.107) has quit (Changing host)
+2011-09-28 14:01:04	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-09-28 14:13:54	<--	paullik (~paullik@unaffiliated/paullik) has quit (Read error: Operation timed out)
+2011-09-28 16:02:37	--	jackoneill is now known as nodame
+2011-09-28 16:38:24		[nkn back: gone 05:49:21]
+2011-09-28 18:15:30	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-09-28 18:56:37	-->	hannah_irina (~hannah@unaffiliated/hannahirina/x-7854734) has joined #archlinux.ro
+2011-09-28 19:08:30	-->	sidro (~sidro@86.120.61.72) has joined #archlinux.ro
+2011-09-28 19:20:14		irc: disconnected from server
+2011-09-28 20:04:18	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-28 20:04:18	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-28 20:04:18	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-28 20:04:18	--	Nicks #archlinux.ro: [@ChanServ Amallya hannah_irina hyperutz ioni nkn nodame paullik phrik radu torl wooptoo znull]
+2011-09-28 20:04:18	--	Channel #archlinux.ro: 13 nicks (1 op, 0 halfops, 0 voices, 12 normals)
+2011-09-28 20:04:18	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-28 20:47:29	-->	sayu (~shark@92.84.10.196) has joined #archlinux.ro
+2011-09-28 21:14:44	-->	Romeo- (~romi@dslb-188-110-104-065.pools.arcor-ip.net) has joined #archlinux.ro
+2011-09-28 21:14:44	<--	Romeo- (~romi@dslb-188-110-104-065.pools.arcor-ip.net) has quit (Changing host)
+2011-09-28 21:14:44	-->	Romeo- (~romi@unaffiliated/romeo/x-000000001) has joined #archlinux.ro
+2011-09-28 21:19:13	<--	sayu (~shark@92.84.10.196) has quit (Ping timeout: 258 seconds)
+2011-09-28 21:49:50	<--	paullik (~paullik@unaffiliated/paullik) has quit (Quit: paullik)
+2011-09-28 21:51:34	<--	Romeo- (~romi@unaffiliated/romeo/x-000000001) has quit (Quit: Wer net fragt, hat's schon gesagt)
+2011-09-28 22:01:38	-->	micutz (~micutz@188.26.251.227) has joined #archlinux.ro
+2011-09-28 23:27:08	<--	micutz (~micutz@188.26.251.227) has quit (Quit: Leaving)
+2011-09-28 23:30:13	hannah_irina	se pricepe cineva la css?
+2011-09-28 23:31:48	nodame	probabil
+2011-09-28 23:31:53	nodame	!ask
+2011-09-28 23:31:54	nodame	:p
+2011-09-28 23:31:54	phrik	Don't ask to ask, or ask if anyone is here, or if anyone is alive, or if anyone uses something. Just ask!
+2011-09-28 23:32:40	hannah_irina	http://www.designromania.org/power/index.php?option=com_content&view=article&id=80&Itemid=1 primu meu template de ma chinui sa il modific
+2011-09-28 23:32:43	phrik	Title: Welcome to the Frontpage (at www.designromania.org)
+2011-09-28 23:32:56	hannah_irina	nu gasesc in slideshow cum sa scot restrictia de <br>
+2011-09-28 23:33:06	hannah_irina	adica daca scriu cu br sau p , mi le baga tot pe aceeasi linie
+2011-09-28 23:34:32	nodame	hannah_irina: care parte a paginii?
+2011-09-28 23:34:52	nodame	de altfel, <br /> si <p> nu sunt css :)
+2011-09-28 23:35:22	hannah_irina	tu esti mai praf ca mine
+2011-09-28 23:35:23	hannah_irina	=))
+2011-09-28 23:35:30	nodame	harhar
+2011-09-28 23:35:37	ioni	heh
+2011-09-28 23:35:43	ioni	nodame, ce cauti aici?:P
+2011-09-28 23:35:47	hannah_irina	in css e restrictie pt br sau p si de aia
+2011-09-28 23:36:08	nodame	ioni: eh?
+2011-09-28 23:36:21	ioni	nodame, nu stiam ca esti roman
+2011-09-28 23:37:05	nodame	oh lol
+2011-09-28 23:37:30	hannah_irina	e elien
+2011-09-28 23:37:56	nodame	hannah_irina: pune codul pe vreun pastebin si zi unde-i problem
+2011-09-28 23:37:58	nodame	+a
+2011-09-28 23:38:14	hannah_irina	pai nu ai si tu un program sa vezi css-u?
+2011-09-28 23:38:29	nodame	da, l-am vazut
+2011-09-28 23:38:30	hannah_irina	firebug pt mozilla
+2011-09-28 23:38:45	wooptoo	mozarella fox
+2011-09-28 23:39:03	nodame	nu vazui nimic legat de <br /> sau <p>
+2011-09-28 23:39:58	nodame	hai ca-l deschisai in vim
+2011-09-28 23:40:09	hannah_irina	eu nu gasii nimic
+2011-09-28 23:40:13	hannah_irina	bine, da nici nu prea stiu ce caut
+2011-09-28 23:40:29	hannah_irina	ceva cu display sau  white-space, cred
+2011-09-28 23:41:09	nodame	unde vrei sa bagi <br /> si nu merge?
+2011-09-28 23:41:22	nodame	la "ce va oferim" sau...?
+2011-09-28 23:41:27	hannah_irina	in textu ala din slideshow
+2011-09-28 23:41:46	ioni	de ce ai folosi br ?
+2011-09-28 23:41:56	hannah_irina	sau p
+2011-09-28 23:42:03	ioni	fa toata aranjarea din css
+2011-09-28 23:42:06	hannah_irina	sa fie enter intre ele
+2011-09-28 23:42:09	hannah_irina	pai nu stiu unde
+2011-09-28 23:42:38	hannah_irina	adica nu stiu ce sa adaug acolo
+2011-09-28 23:42:58	nodame	unde vrei sa inceapa o linie noua, bagi <br />
+2011-09-28 23:43:13	nodame	daca vrei o linie goala intre paragrafe, bagi doua
+2011-09-28 23:43:27	nodame	sau pui paragrafele intre <p> si </p>
+2011-09-28 23:43:32		irc: disconnected from server
+2011-09-29 08:08:41	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 08:08:41	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-29 08:08:41	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-29 08:08:41	--	Nicks #archlinux.ro: [@ChanServ Amallya hyperutz ioni nkn nodame phrik radu torl yupal znull]
+2011-09-29 08:08:41	--	Channel #archlinux.ro: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2011-09-29 08:08:53	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-29 08:28:51	-->	hannah_irina (~hannah@unaffiliated/hannahirina/x-7854734) has joined #archlinux.ro
+2011-09-29 08:32:22	<--	yupal (~yupal@89.47.100.219) has quit (Quit: Leaving)
+2011-09-29 08:32:38	-->	yupal (~yupal@89.47.100.219) has joined #archlinux.ro
+2011-09-29 08:52:32	<--	yupal (~yupal@89.47.100.219) has quit (Ping timeout: 258 seconds)
+2011-09-29 09:06:16	-->	yupal (~yupal@89.47.100.219) has joined #archlinux.ro
+2011-09-29 09:29:20	<--	yupal (~yupal@89.47.100.219) has quit (Ping timeout: 258 seconds)
+2011-09-29 09:51:56	-->	danutHD (c2982a95@gateway/web/freenode/ip.194.152.42.149) has joined #archlinux.ro
+2011-09-29 09:52:31	danutHD	salut. E cineva cu wifi broadcom si arch pe x64?
+2011-09-29 10:03:57	nodame	danutHD: o fi cineva
+2011-09-29 10:05:23	danutHD	intrebam pentru ca vroiam sa stiu ce driver a folosit pentru wifi. Am instalat driverul conform wiki-ului si nu vad retele wireless in ciuda faptului ca radioul e pornit si interfata e ridicata
+2011-09-29 10:05:52	nodame	care l-ai instalat? broadcom-wl?
+2011-09-29 10:07:58	danutHD	b43 din aur
+2011-09-29 10:08:03	danutHD	cu broadcom-wl nu mi-a mers
+2011-09-29 10:08:09	danutHD	e vorba de o placa broadcom b4311
+2011-09-29 10:08:14	nodame	din aur? b43 e inclus in kernel
+2011-09-29 10:08:50	danutHD	b43-firmware-latest 5.100.138-1 din aur. Pe asta l-am pus.
+2011-09-29 10:10:12	nodame	aha
+2011-09-29 10:10:39	nodame	pai ce sa zic... vezi in dmesg, poate apare ceva mesaj cand scanezi
+2011-09-29 10:19:45	danutHD	nu apare nimic :(
+2011-09-29 10:32:04	nodame	ai incercat sa te conectezi la o retea pe care o cunosti deja?
+2011-09-29 10:33:57	danutHD	da
+2011-09-29 10:34:06	danutHD	atat cea de acasa cat si la serviciu
+2011-09-29 10:34:32	nodame	n-a mers huh?
+2011-09-29 10:36:06	danutHD	nu. Mai mult de atat, ca sa evit orice problema cu conectarea, am pus routerul sa nu mai ceara parola. Nici asa nu a mers :(
+2011-09-29 10:45:53	-->	wooptoo (~wooptoo@unaffiliated/wooptoo) has joined #archlinux.ro
+2011-09-29 10:51:20	<--	danutHD (c2982a95@gateway/web/freenode/ip.194.152.42.149) has quit (Ping timeout: 252 seconds)
+2011-09-29 10:51:45		[nkn away: movie]
+2011-09-29 10:51:50	nodame	ciudat ca apar erori
+2011-09-29 10:51:54	nodame	*ca nu
+2011-09-29 10:56:03	-->	danutHD (c2982a95@gateway/web/freenode/ip.194.152.42.149) has joined #archlinux.ro
+2011-09-29 10:56:34	danutHD	ok. Am fost idiot mai devreme. Am pus alt driver. In loc de b43-frimware-latest am pus b43-firmware si acum merge wifi
+2011-09-29 10:56:36	danutHD	:)
+2011-09-29 10:56:38	danutHD	mersi mult de ajutor
+2011-09-29 10:57:31	hannah_irina	foloseste cineva virtuemart?
+2011-09-29 11:12:55	ioni	danutHD, ia dai pe google search dupa b43
+2011-09-29 11:13:22	ioni	apoi uita-te la versiunile firmware si vezi cand trebuie folosit firmware-ul pe care il ai acum
+2011-09-29 11:13:40	nodame	ioni: you're slow@
+2011-09-29 11:13:42	nodame	!
+2011-09-29 11:13:54	nodame	pana ai ajuns tu, a rezolvat :p
+2011-09-29 11:17:39		[nkn away: not around]
+2011-09-29 11:22:00	ioni	still, is wrong :)
+2011-09-29 11:22:51	ioni	If you are using the b43 driver from 3.2 kernel or newer:
+2011-09-29 11:22:59	ioni	download version 5.100.138
+2011-09-29 11:23:07	ioni	If you are using the b43 driver from older kernel:
+2011-09-29 11:23:13	ioni	download version 5.10.56.27.3
+2011-09-29 11:24:15	wooptoo	apropo
+2011-09-29 11:24:26	wooptoo	e mai bun broadcom-wl decat b43?
+2011-09-29 11:30:41	ioni	eu n-am vazut nicio schimbare
+2011-09-29 11:30:52	hannah_irina	nodame iara ai intrat sa le lauzi si nu stii nimic?
+2011-09-29 11:30:54	hannah_irina	=))
+2011-09-29 11:30:55	hannah_irina	salut all
+2011-09-29 11:31:18	nodame	cand m-am laudat? O_o
+2011-09-29 11:31:28	hannah_irina	ma uit la el de ceva timp se baga in seama cu probleme si nu prea le are
+2011-09-29 11:31:29	hannah_irina	:))
+2011-09-29 11:40:15	ioni	hannah_irina, nodame se lauda cand esti tu prin preajma
+2011-09-29 11:40:33	ioni	cred ca vrea sa te impresioneze :)
+2011-09-29 11:43:11	nodame	ioni: n-ai inteles nimic :(
+2011-09-29 11:43:35	nodame	ioni: pe tine incerc sa te impresionez... :D
+2011-09-29 11:44:01	ioni	damn
+2011-09-29 11:44:15	ioni	imi trebuie un pahar cu apa
+2011-09-29 11:45:02	nodame	lol
+2011-09-29 11:48:48	danutHD	Repet greseala facuta. Am luat din aur b43-firmware-latest-5.100.138-1 cu care am avut problemele descrise
+2011-09-29 11:49:03	danutHD	dupa aia am incercat si b43-firmware-5.10.56.27.3-2
+2011-09-29 11:49:07	danutHD	cu care a mers perfect
+2011-09-29 11:49:11	danutHD	dovada ca acum vorbesc cu voi
+2011-09-29 11:49:26	danutHD	deci, ioni, ce este "still wrong" ??
+2011-09-29 11:51:01	ioni	ti-am zis deja
+2011-09-29 11:52:57	danutHD	asa. Si conform uname -r eu am 3.0-ARCH
+2011-09-29 11:54:02	ioni	atunci e ok :D
+2011-09-29 11:56:48	danutHD	n-am mai citit ce versiune e nevoie pentru fiecare kernel in parte. Stiam ca trebuie sa pun b43-firmware, am intrat in aur si am luat ce mi-a picat in soricel. Next time i`ll be careful
+2011-09-29 12:08:26	-->	epps (~epps@unaffiliated/epps) has joined #archlinux.ro
+2011-09-29 12:13:08	<--	hannah_irina (~hannah@unaffiliated/hannahirina/x-7854734) has quit (Ping timeout: 252 seconds)
+2011-09-29 12:24:18	-->	adlight (~adlight@79.119.210.142) has joined #archlinux.ro
+2011-09-29 12:36:34	<--	danutHD (c2982a95@gateway/web/freenode/ip.194.152.42.149) has quit (Ping timeout: 252 seconds)
+2011-09-29 12:46:05	<--	adlight (~adlight@79.119.210.142) has quit (Read error: Operation timed out)
+2011-09-29 14:02:32	-->	radu_ (~radu@ip72-222-166-227.ph.ph.cox.net) has joined #archlinux.ro
+2011-09-29 14:03:11	<--	epps (~epps@unaffiliated/epps) has quit (Ping timeout: 248 seconds)
+2011-09-29 14:04:42	-->	hannah_irina (~hannah@188.173.22.252) has joined #archlinux.ro
+2011-09-29 14:04:42	<--	hannah_irina (~hannah@188.173.22.252) has quit (Changing host)
+2011-09-29 14:04:42	-->	hannah_irina (~hannah@unaffiliated/hannahirina/x-7854734) has joined #archlinux.ro
+2011-09-29 14:04:47	<--	radu (~radu@ip72-222-166-227.ph.ph.cox.net) has quit (Ping timeout: 248 seconds)
+2011-09-29 14:07:51	-->	danutHD (c2982a95@gateway/web/freenode/ip.194.152.42.149) has joined #archlinux.ro
+2011-09-29 14:07:57	<--	danutHD (c2982a95@gateway/web/freenode/ip.194.152.42.149) has left #archlinux.ro
+2011-09-29 14:08:24	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-09-29 14:25:34	-->	epps (~epps@84.18.157.200) has joined #archlinux.ro
+2011-09-29 14:25:34	<--	epps (~epps@84.18.157.200) has quit (Changing host)
+2011-09-29 14:25:34	-->	epps (~epps@unaffiliated/epps) has joined #archlinux.ro
+2011-09-29 14:28:49	-->	danutHD (c2982a95@gateway/web/freenode/ip.194.152.42.149) has joined #archlinux.ro
+2011-09-29 14:40:55		[nkn back: gone 03:23:16]
+2011-09-29 14:47:46	-->	adlight (~adlight@cl-86-125-185-38.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 14:56:27	-->	adi7519 (~adlight@cl-86-125-185-38.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 14:57:26	<--	paullik (~paullik@unaffiliated/paullik) has quit (Quit: paullik)
+2011-09-29 15:17:25	<--	adlight (~adlight@cl-86-125-185-38.cablelink.mures.rdsnet.ro) has quit (Read error: Connection reset by peer)
+2011-09-29 15:17:26	<--	adi7519 (~adlight@cl-86-125-185-38.cablelink.mures.rdsnet.ro) has quit (Read error: Connection reset by peer)
+2011-09-29 15:35:08	<--	danutHD (c2982a95@gateway/web/freenode/ip.194.152.42.149) has quit (Ping timeout: 252 seconds)
+2011-09-29 16:08:44	<--	wooptoo (~wooptoo@unaffiliated/wooptoo) has quit (*.net *.split)
+2011-09-29 16:10:41	-->	wooptoo (~wooptoo@unaffiliated/wooptoo) has joined #archlinux.ro
+2011-09-29 16:23:06		[nkn away: not around]
+2011-09-29 16:57:06	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-09-29 17:24:58	-->	adlight (~adlight@cl-86-125-185-38.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 17:25:20	-->	adi7519 (~adlight@cl-86-125-185-38.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 17:39:30	<--	adi7519 (~adlight@cl-86-125-185-38.cablelink.mures.rdsnet.ro) has quit (Remote host closed the connection)
+2011-09-29 17:39:46	-->	adi7519 (~adlight@cl-86-125-185-38.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 17:40:54	<--	adlight (~adlight@cl-86-125-185-38.cablelink.mures.rdsnet.ro) has quit (Remote host closed the connection)
+2011-09-29 17:41:08	<--	adi7519 (~adlight@cl-86-125-185-38.cablelink.mures.rdsnet.ro) has quit (Client Quit)
+2011-09-29 17:41:24	-->	adlight (~adlight@cl-86-125-185-38.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 17:42:19	<--	adlight (~adlight@cl-86-125-185-38.cablelink.mures.rdsnet.ro) has quit (Remote host closed the connection)
+2011-09-29 17:46:51	-->	adlight (~adlight@cl-86-125-185-38.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 17:48:38	<--	adlight (~adlight@cl-86-125-185-38.cablelink.mures.rdsnet.ro) has quit (Remote host closed the connection)
+2011-09-29 17:59:15	<--	epps (~epps@unaffiliated/epps) has quit (Ping timeout: 260 seconds)
+2011-09-29 18:17:38		[nkn back: gone 01:54:32]
+2011-09-29 18:19:37	-->	sidro (~sidro@86.120.61.72) has joined #archlinux.ro
+2011-09-29 18:32:08	sidro	hannah_irina, mai ai probleme cu netul?
+2011-09-29 18:32:21	sidro	:)
+2011-09-29 18:36:43	-->	epps (~epps@84.18.157.200) has joined #archlinux.ro
+2011-09-29 18:36:43	<--	epps (~epps@84.18.157.200) has quit (Changing host)
+2011-09-29 18:36:43	-->	epps (~epps@unaffiliated/epps) has joined #archlinux.ro
+2011-09-29 19:29:13	-->	adlight (~adlight@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 19:52:54	<--	adlight (~adlight@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has quit (Remote host closed the connection)
+2011-09-29 20:17:44	-->	adlight (~adlight@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 20:23:06	<--	adlight (~adlight@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has quit (Remote host closed the connection)
+2011-09-29 20:24:12	-->	adlight (~adlight@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 20:27:00	-->	sayu (~shark@109.97.38.82) has joined #archlinux.ro
+2011-09-29 20:32:07	<--	adlight (~adlight@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has quit (Quit: Leaving)
+2011-09-29 20:32:24	-->	adlight (~adlight@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 20:32:31	<--	adlight (~adlight@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has quit (Read error: Connection reset by peer)
+2011-09-29 20:35:33	-->	adlight (~adlight@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 20:40:53	-->	dana_ (~dana@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 20:41:26	<--	dana_ (~dana@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has quit (Client Quit)
+2011-09-29 20:41:43	-->	dana_ (~dana@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 20:41:47	<--	dana_ (~dana@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has quit (Read error: Connection reset by peer)
+2011-09-29 20:42:03	-->	dana_ (~dana@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 20:42:35	<--	dana_ (~dana@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has quit (Client Quit)
+2011-09-29 20:43:28	<--	adlight (~adlight@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has quit (Remote host closed the connection)
+2011-09-29 20:43:58	-->	adlight (~dana@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 20:44:31	<--	adlight (~dana@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has quit (Client Quit)
+2011-09-29 20:44:53	-->	adlight (~adlight@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 20:57:29	<--	radu_ (~radu@ip72-222-166-227.ph.ph.cox.net) has quit (Quit: you enjoy being cannon fodder for the system?)
+2011-09-29 20:57:42		[nkn away: not around]
+2011-09-29 20:58:35	-->	Romeo- (~romi@unaffiliated/romeo/x-000000001) has joined #archlinux.ro
+2011-09-29 20:58:57	<--	Romeo- (~romi@unaffiliated/romeo/x-000000001) has quit (Client Quit)
+2011-09-29 20:59:03	-->	Romeo- (~romi@unaffiliated/romeo/x-000000001) has joined #archlinux.ro
+2011-09-29 20:59:44	<--	Romeo- (~romi@unaffiliated/romeo/x-000000001) has quit (Client Quit)
+2011-09-29 21:04:48	<--	sayu (~shark@109.97.38.82) has quit (Ping timeout: 244 seconds)
+2011-09-29 21:27:39	<--	sidro (~sidro@86.120.61.72) has quit (Quit: Leaving)
+2011-09-29 21:31:30	hannah_irina	ioni, nu stiu daca vrea sa ma impresioneze, ... dar daca a vrut... nu prea reuseste :)
+2011-09-29 21:31:55	<--	adlight (~adlight@cl-86-125-177-116.cablelink.mures.rdsnet.ro) has quit (Remote host closed the connection)
+2011-09-29 21:43:33	torl	http://i.imgur.com/Lsi3D.jpg
+2011-09-29 21:43:55		[nkn back: gone 00:46:13]
+2011-09-29 22:05:18	<--	paullik (~paullik@unaffiliated/paullik) has quit (Quit: paullik)
+2011-09-29 22:10:45	<--	epps (~epps@unaffiliated/epps) has quit (Ping timeout: 258 seconds)
+2011-09-29 22:23:24	-->	epps (~epps@unaffiliated/epps) has joined #archlinux.ro
+2011-09-29 22:23:24	<--	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has quit (Ping timeout: 258 seconds)
+2011-09-29 22:23:25		irc: disconnected from server
+2011-09-29 22:23:42	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-29 22:23:42	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-29 22:23:42	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-29 22:23:42	--	Nicks #archlinux.ro: [@ChanServ Amallya epps hannah_irina hyperutz ioni nkn nodame phrik torl wooptoo znull]
+2011-09-29 22:23:42	--	Channel #archlinux.ro: 12 nicks (1 op, 0 halfops, 0 voices, 11 normals)
+2011-09-29 22:23:46	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-29 23:05:46		irc: disconnected from server
+2011-09-30 09:16:13	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-09-30 09:16:13	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-09-30 09:16:13	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-09-30 09:16:13	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni nkn nodame phrik torl znull]
+2011-09-30 09:16:13	--	Channel #archlinux.ro: 10 nicks (1 op, 0 halfops, 0 voices, 9 normals)
+2011-09-30 09:16:13	--	Notice(barjavel.freenode.net): [freenode-info] channel flooding and no channel staff around to help? Please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+2011-09-30 09:16:25	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-09-30 09:31:15	-->	epps (~epps@unaffiliated/epps) has joined #archlinux.ro
+2011-09-30 11:25:00	-->	_ioni (~wonder@95.154.208.27) has joined #archlinux.ro
+2011-09-30 11:30:01	<--	phrik (~archbot@archlinux/bot/phrik) has quit (*.net *.split)
+2011-09-30 11:30:02	<--	Amallya (~Adyna@89.136.112.61) has quit (*.net *.split)
+2011-09-30 11:30:02	<--	hyperutz (~hyp@server3.maghost.ro) has quit (*.net *.split)
+2011-09-30 11:30:03	<--	epps (~epps@unaffiliated/epps) has quit (*.net *.split)
+2011-09-30 11:30:03	<--	hando (~radu@ip72-222-166-227.ph.ph.cox.net) has quit (*.net *.split)
+2011-09-30 11:30:04	<--	nodame (~jackoneil@unaffiliated/jackoneill) has quit (*.net *.split)
+2011-09-30 11:30:04	<--	znull (emi@unaffiliated/znull) has quit (*.net *.split)
+2011-09-30 11:30:07	<--	ioni (~wonder@archlinux/developer/wonder) has quit (*.net *.split)
+2011-09-30 11:30:07	<--	ChanServ (ChanServ@services.) has quit (*.net *.split)
+2011-09-30 11:33:46	-->	phrik (~archbot@archlinux/bot/phrik) has joined #archlinux.ro
+2011-09-30 11:33:46	-->	Amallya (~Adyna@89.136.112.61) has joined #archlinux.ro
+2011-09-30 11:33:46	-->	hyperutz (~hyp@server3.maghost.ro) has joined #archlinux.ro
+2011-09-30 11:36:15	<--	phrik (~archbot@archlinux/bot/phrik) has quit (*.net *.split)
+2011-09-30 11:36:16	<--	Amallya (~Adyna@89.136.112.61) has quit (*.net *.split)
+2011-09-30 11:36:16	<--	hyperutz (~hyp@server3.maghost.ro) has quit (*.net *.split)
+2011-09-30 11:38:15	--	_ioni is now known as ioni
+2011-09-30 11:40:10	-->	ChanServ (ChanServ@services.) has joined #archlinux.ro
+2011-09-30 11:40:10	--	Mode #archlinux.ro [+o ChanServ] by barjavel.freenode.net
+2011-09-30 11:40:10	-->	phrik (~archbot@archlinux/bot/phrik) has joined #archlinux.ro
+2011-09-30 11:40:10	-->	Amallya (~Adyna@89.136.112.61) has joined #archlinux.ro
+2011-09-30 11:40:10	-->	hyperutz (~hyp@server3.maghost.ro) has joined #archlinux.ro
+2011-09-30 11:41:01	-->	epps (~epps@84.18.157.200) has joined #archlinux.ro
+2011-09-30 11:41:01	-->	hando (~radu@ip72-222-166-227.ph.ph.cox.net) has joined #archlinux.ro
+2011-09-30 11:41:01	-->	nodame (~jackoneil@unaffiliated/jackoneill) has joined #archlinux.ro
+2011-09-30 11:41:01	-->	znull (emi@unaffiliated/znull) has joined #archlinux.ro
+2011-09-30 11:41:22	--	ioni is now known as Guest21370
+2011-09-30 11:42:42	<--	Guest21370 (~wonder@95.154.208.27) has quit (Changing host)
+2011-09-30 11:42:42	-->	Guest21370 (~wonder@archlinux/developer/wonder) has joined #archlinux.ro
+2011-09-30 11:43:13	--	Guest21370 is now known as ioni
+2011-09-30 11:48:21		[nkn away: movie]
+2011-09-30 13:29:12	-->	wooptoo (~wooptoo@unaffiliated/wooptoo) has joined #archlinux.ro
+2011-09-30 14:03:44	<--	epps (~epps@84.18.157.200) has quit (Ping timeout: 248 seconds)
+2011-09-30 14:18:29	-->	hannah_irina (~hannah@unaffiliated/hannahirina/x-7854734) has joined #archlinux.ro
+2011-09-30 15:39:15		[nkn back: gone 03:50:54]
+2011-09-30 16:23:09	-->	sayu (~shark@92.82.88.244) has joined #archlinux.ro
+2011-09-30 16:42:59	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-09-30 19:28:28	-->	sidro (~sidro@86.120.61.72) has joined #archlinux.ro
+2011-09-30 20:12:30	<--	sayu (~shark@92.82.88.244) has quit (Ping timeout: 260 seconds)
+2011-09-30 21:11:31	-->	Romeo- (~romi@dslb-188-110-104-078.pools.arcor-ip.net) has joined #archlinux.ro
+2011-09-30 21:11:31	<--	Romeo- (~romi@dslb-188-110-104-078.pools.arcor-ip.net) has quit (Changing host)
+2011-09-30 21:11:31	-->	Romeo- (~romi@unaffiliated/romeo/x-000000001) has joined #archlinux.ro
+2011-09-30 21:15:14	<--	Romeo- (~romi@unaffiliated/romeo/x-000000001) has quit (Client Quit)
+2011-09-30 21:15:22	-->	Romeo- (~romi@unaffiliated/romeo/x-000000001) has joined #archlinux.ro
+2011-09-30 21:53:29	<--	hannah_irina (~hannah@unaffiliated/hannahirina/x-7854734) has quit
+2011-09-30 22:49:17		[nkn away: not around]
+2011-09-30 23:02:49	<--	Romeo- (~romi@unaffiliated/romeo/x-000000001) has quit (Ping timeout: 252 seconds)
+2011-09-30 23:09:22	<--	sidro (~sidro@86.120.61.72) has quit (Quit: Leaving)
+2011-09-30 23:22:53		[nkn back: gone 00:33:35]
+2011-09-30 23:37:32	<--	wooptoo (~wooptoo@unaffiliated/wooptoo) has quit (Quit: Leaving.)
+2011-10-01 00:02:05	<--	paullik (~paullik@unaffiliated/paullik) has quit (Quit: paullik)
+2011-10-01 00:34:31		irc: disconnected from server
+2011-10-01 07:30:41	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-01 07:30:41	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-01 07:30:41	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-01 07:30:41	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni nkn nodame phrik Romeo- torl znull]
+2011-10-01 07:30:41	--	Channel #archlinux.ro: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2011-10-01 07:30:54	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-01 08:01:48	<--	Romeo- (~romi@unaffiliated/romeo/x-000000001) has quit (Ping timeout: 240 seconds)
+2011-10-01 10:32:15	-->	wooptoo (~wooptoo@unaffiliated/wooptoo) has joined #archlinux.ro
+2011-10-01 10:32:25	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-10-01 10:46:21	-->	Romeo- (~romi@dslb-188-110-101-112.pools.arcor-ip.net) has joined #archlinux.ro
+2011-10-01 10:46:21	<--	Romeo- (~romi@dslb-188-110-101-112.pools.arcor-ip.net) has quit (Changing host)
+2011-10-01 10:46:21	-->	Romeo- (~romi@unaffiliated/romeo/x-000000001) has joined #archlinux.ro
+2011-10-01 11:21:49	<--	paullik (~paullik@unaffiliated/paullik) has quit (Read error: Operation timed out)
+2011-10-01 11:50:05		irc: disconnected from server
+2011-10-01 11:50:54	-->	nkn (~nkn@79.118.250.37) has joined #archlinux.ro
+2011-10-01 11:50:54	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-01 11:50:54	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-01 11:50:54	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni nkn nodame phrik Romeo- torl wooptoo znull]
+2011-10-01 11:50:54	--	Channel #archlinux.ro: 12 nicks (1 op, 0 halfops, 0 voices, 11 normals)
+2011-10-01 11:50:54	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-01 12:18:56	<--	Romeo- (~romi@unaffiliated/romeo/x-000000001) has quit (Ping timeout: 244 seconds)
+2011-10-01 13:20:03		irc: disconnected from server
+2011-10-01 13:20:20	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-01 13:20:20	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-01 13:20:20	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-01 13:20:20	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni nkn nodame phrik torl wooptoo znull]
+2011-10-01 13:20:20	--	Channel #archlinux.ro: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2011-10-01 13:20:20	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-01 13:28:07		irc: disconnected from server
+2011-10-01 13:29:20	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-01 13:29:20	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-01 13:29:20	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-01 13:29:20	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni nkn nodame phrik torl wooptoo znull]
+2011-10-01 13:29:20	--	Channel #archlinux.ro: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2011-10-01 13:29:20	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-01 13:35:47		irc: disconnected from server
+2011-10-01 13:36:44	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-01 13:36:44	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-01 13:36:44	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-01 13:36:44	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni nkn nodame phrik torl wooptoo znull]
+2011-10-01 13:36:44	--	Channel #archlinux.ro: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2011-10-01 13:36:45	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-01 14:06:19		[nkn away: not around]
+2011-10-01 14:21:30	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-10-01 15:32:37		[nkn back: gone 01:26:18]
+2011-10-01 16:11:37	<--	paullik (~paullik@unaffiliated/paullik) has quit (Ping timeout: 245 seconds)
+2011-10-01 18:23:04	-->	micutz (~micutz@188.26.251.227) has joined #archlinux.ro
+2011-10-01 18:29:59	-->	me345 (~me345@75.15.232.163) has joined #archlinux.ro
+2011-10-01 19:44:30	-->	alondra (~alondra@89.40.149.74) has joined #archlinux.ro
+2011-10-01 19:44:42	--	alondra is now known as calvarr
+2011-10-01 19:54:20	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-10-01 20:10:17	<--	calvarr (~alondra@89.40.149.74) has quit (Quit: WeeChat 0.3.5)
+2011-10-01 20:32:25	-->	z0id (~z0id@unaffiliated/z0id) has joined #archlinux.ro
+2011-10-01 20:39:18	-->	sidro (~sidro@86.120.61.72) has joined #archlinux.ro
+2011-10-01 21:20:34	-->	Romeo- (~romi@dslb-188-110-101-112.pools.arcor-ip.net) has joined #archlinux.ro
+2011-10-01 21:20:34	<--	Romeo- (~romi@dslb-188-110-101-112.pools.arcor-ip.net) has quit (Changing host)
+2011-10-01 21:20:34	-->	Romeo- (~romi@unaffiliated/romeo/x-000000001) has joined #archlinux.ro
+2011-10-01 21:21:09	<--	Romeo- (~romi@unaffiliated/romeo/x-000000001) has quit (Remote host closed the connection)
+2011-10-01 21:25:59	<--	z0id (~z0id@unaffiliated/z0id) has quit (Remote host closed the connection)
+2011-10-01 21:29:40	<--	micutz (~micutz@188.26.251.227) has quit (Quit: Leaving)
+2011-10-01 21:33:33	<--	me345 (~me345@75.15.232.163) has quit (Read error: Connection reset by peer)
+2011-10-01 21:33:47	-->	me345 (~me345@75.15.232.163) has joined #archlinux.ro
+2011-10-01 22:13:41	<--	me345 (~me345@75.15.232.163) has quit (Read error: Connection reset by peer)
+2011-10-01 22:28:24	<--	wooptoo (~wooptoo@unaffiliated/wooptoo) has quit (Quit: Leaving.)
+2011-10-01 22:29:22		[nkn away: not around]
+2011-10-01 23:28:47	<--	torl (~torl@173.242.127.201) has quit (Quit: Bye bye..)
+2011-10-01 23:40:32		[nkn back: gone 01:11:09]
+2011-10-01 23:46:33	<--	sidro (~sidro@86.120.61.72) has quit (Quit: Leaving)
+2011-10-02 00:01:02	-->	micutz (~micutz@188.26.251.227) has joined #archlinux.ro
+2011-10-02 00:29:09		irc: disconnected from server
+2011-10-02 00:37:15	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-02 00:37:15	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-02 00:37:15	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-02 00:37:15	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni micutz nkn nodame paullik phrik znull]
+2011-10-02 00:37:15	--	Channel #archlinux.ro: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2011-10-02 00:37:15	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-02 00:37:55		irc: disconnected from server
+2011-10-02 08:00:08	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-02 08:00:09	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-02 08:00:09	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-02 08:00:09	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni nkn nodame phrik znull]
+2011-10-02 08:00:09	--	Channel #archlinux.ro: 9 nicks (1 op, 0 halfops, 0 voices, 8 normals)
+2011-10-02 08:00:20	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-02 08:33:53	<--	Amallya (~Adyna@89.136.112.61) has quit (Ping timeout: 260 seconds)
+2011-10-02 08:35:11	-->	Amallya (~Adyna@89.136.112.61) has joined #archlinux.ro
+2011-10-02 09:35:24	-->	sayu (~shark@92.84.14.193) has joined #archlinux.ro
+2011-10-02 09:53:38	-->	torl (~torl@79.117.229.199) has joined #archlinux.ro
+2011-10-02 10:26:25	-->	sidro (~sidro@86.120.61.72) has joined #archlinux.ro
+2011-10-02 10:37:53		irc: disconnected from server
+2011-10-02 10:38:52	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-02 10:38:53	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-02 10:38:53	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-02 10:38:53	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni nkn nodame phrik sayu sidro torl znull]
+2011-10-02 10:38:53	--	Channel #archlinux.ro: 12 nicks (1 op, 0 halfops, 0 voices, 11 normals)
+2011-10-02 10:38:53	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-02 10:46:51		irc: disconnected from server
+2011-10-02 10:48:21	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-02 10:48:21	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-02 10:48:21	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-02 10:48:21	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni nkn nodame phrik sayu sidro torl znull]
+2011-10-02 10:48:21	--	Channel #archlinux.ro: 12 nicks (1 op, 0 halfops, 0 voices, 11 normals)
+2011-10-02 10:48:21	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-02 11:03:06		irc: disconnected from server
+2011-10-02 11:04:46	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-02 11:04:46	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-02 11:04:46	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-02 11:04:46	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hyperutz ioni nkn nodame phrik sayu sidro torl znull]
+2011-10-02 11:04:46	--	Channel #archlinux.ro: 12 nicks (1 op, 0 halfops, 0 voices, 11 normals)
+2011-10-02 11:04:46	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-02 11:54:41	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-10-02 12:33:01	-->	wooptoo (~wooptoo@unaffiliated/wooptoo) has joined #archlinux.ro
+2011-10-02 13:19:50	-->	alondra (~alondra@89.40.149.74) has joined #archlinux.ro
+2011-10-02 13:19:50	--	alondra is now known as calvarr
+2011-10-02 13:50:01		irc: disconnected from server
+2011-10-02 13:50:15	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-02 13:50:16	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-02 13:50:17	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-02 13:50:17	--	Nicks #archlinux.ro: [@ChanServ Amallya calvarr hando hyperutz ioni nkn nodame paullik phrik sayu sidro torl wooptoo znull]
+2011-10-02 13:50:17	--	Channel #archlinux.ro: 15 nicks (1 op, 0 halfops, 0 voices, 14 normals)
+2011-10-02 13:50:19	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-02 14:01:28	<--	sidro (~sidro@86.120.61.72) has quit (Quit: Leaving)
+2011-10-02 14:06:48		irc: disconnected from server
+2011-10-02 14:08:54	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-02 14:08:54	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-02 14:08:54	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-02 14:08:54	--	Nicks #archlinux.ro: [@ChanServ Amallya calvarr hando hyperutz ioni nkn nodame paullik phrik sayu torl wooptoo znull]
+2011-10-02 14:08:54	--	Channel #archlinux.ro: 14 nicks (1 op, 0 halfops, 0 voices, 13 normals)
+2011-10-02 14:08:54	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-02 14:51:20	<--	sayu (~shark@92.84.14.193) has quit (Ping timeout: 276 seconds)
+2011-10-02 15:31:20	-->	z0id (~z0id@unaffiliated/z0id) has joined #archlinux.ro
+2011-10-02 17:03:59	<--	paullik (~paullik@unaffiliated/paullik) has quit (Ping timeout: 248 seconds)
+2011-10-02 17:04:56	-->	paullik (~paullik@188.24.237.59) has joined #archlinux.ro
+2011-10-02 17:05:06	<--	paullik (~paullik@188.24.237.59) has quit (Changing host)
+2011-10-02 17:05:06	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-10-02 17:05:17	-->	paullik1 (~paullik@188.24.237.59) has joined #archlinux.ro
+2011-10-02 17:05:38	<--	paullik1 (~paullik@188.24.237.59) has left #archlinux.ro
+2011-10-02 17:07:13	<--	paullik (~paullik@unaffiliated/paullik) has quit (Client Quit)
+2011-10-02 17:07:26	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-10-02 17:14:49	-->	paullik1 (~paullik@188.24.228.169) has joined #archlinux.ro
+2011-10-02 17:14:52	<--	paullik (~paullik@unaffiliated/paullik) has quit (Read error: No route to host)
+2011-10-02 17:24:50	-->	paullik2 (~paullik@188.24.236.34) has joined #archlinux.ro
+2011-10-02 17:25:08	<--	paullik1 (~paullik@188.24.228.169) has quit (Read error: Connection reset by peer)
+2011-10-02 17:33:58	<--	paullik2 (~paullik@188.24.236.34) has quit (Quit: paullik2)
+2011-10-02 18:02:02	-->	AlexFera (~AlexFera@f79-118-227-219.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-02 18:16:25	<--	z0id (~z0id@unaffiliated/z0id) has quit (Remote host closed the connection)
+2011-10-02 19:13:57	-->	hannah_irina (~hannah@unaffiliated/hannahirina/x-7854734) has joined #archlinux.ro
+2011-10-02 19:35:50	-->	paullik (~paullik@unaffiliated/paullik) has joined #archlinux.ro
+2011-10-02 20:02:46		irc: disconnected from server
+2011-10-02 20:03:12	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-02 20:03:12	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-02 20:03:12	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-02 20:03:12	--	Nicks #archlinux.ro: [@ChanServ AlexFera Amallya calvarr hando hannah_irina hyperutz ioni nkn nodame paullik phrik torl wooptoo znull]
+2011-10-02 20:03:12	--	Channel #archlinux.ro: 15 nicks (1 op, 0 halfops, 0 voices, 14 normals)
+2011-10-02 20:03:12	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-02 20:06:36		irc: disconnected from server
+2011-10-02 20:08:07	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-02 20:08:08	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-02 20:08:08	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-02 20:08:08	--	Nicks #archlinux.ro: [@ChanServ AlexFera Amallya calvarr hando hannah_irina hyperutz ioni nkn nodame paullik phrik torl wooptoo znull]
+2011-10-02 20:08:08	--	Channel #archlinux.ro: 15 nicks (1 op, 0 halfops, 0 voices, 14 normals)
+2011-10-02 20:08:08	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-02 20:29:37		irc: disconnected from server
+2011-10-02 20:31:31	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-02 20:31:31	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-02 20:31:31	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-02 20:31:31	--	Nicks #archlinux.ro: [@ChanServ AlexFera Amallya calvarr hando hannah_irina hyperutz ioni nkn nodame paullik phrik torl wooptoo znull]
+2011-10-02 20:31:31	--	Channel #archlinux.ro: 15 nicks (1 op, 0 halfops, 0 voices, 14 normals)
+2011-10-02 20:31:32	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-02 20:49:38	<--	calvarr (~alondra@89.40.149.74) has quit (Quit: WeeChat 0.3.5)
+2011-10-02 21:16:29		irc: disconnected from server
+2011-10-02 21:50:07	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-02 21:50:07	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-02 21:50:07	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-02 21:50:07	--	Nicks #archlinux.ro: [@ChanServ AlexFera Amallya hando hannah_irina hyperutz ioni nkn nodame paullik phrik sidro torl wooptoo znull]
+2011-10-02 21:50:07	--	Channel #archlinux.ro: 15 nicks (1 op, 0 halfops, 0 voices, 14 normals)
+2011-10-02 21:50:08	--	Channel created on Thu, 26 Feb 2009 20:44:53
+2011-10-02 22:00:56		[nkn away: not around]
+2011-10-02 22:23:11	<--	sidro (~sidro@86.120.61.72) has quit (Quit: Leaving)
+2011-10-02 22:34:20	hannah_irina	:) neatza
+2011-10-02 22:36:26	 *	ioni se uita pe geam
+2011-10-02 22:36:31	ioni	buna SEARA
+2011-10-02 22:38:43	hannah_irina	:) bună seara
+2011-10-02 22:40:48	hannah_irina	ce părere ai despre: Tableta grafica WACOM Bamboo Fun S Pen & Touch CTH-461-EN
+2011-10-02 22:54:47	<--	torl (~torl@79.117.229.199) has quit (Quit: WeeChat 0.3.5)
+2011-10-02 22:56:02		[nkn back: gone 00:55:05]
+2011-10-02 23:25:26	<--	paullik (~paullik@unaffiliated/paullik) has quit (Quit: paullik)
+2011-10-03 00:06:44	<--	wooptoo (~wooptoo@unaffiliated/wooptoo) has quit (Quit: Leaving.)
+2011-10-03 00:18:27		irc: disconnected from server
+2011-10-03 08:33:51	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #archlinux.ro
+2011-10-03 08:33:51	--	Topic for #archlinux.ro is "http://archlinux.ro  | mediul de instalare 2011.08.19 lansat -> http://archlinux.ro/stiri/47"
+2011-10-03 08:33:51	--	Topic set by ioni (~wonder@archlinux/developer/wonder) on Sat, 20 Aug 2011 12:22:06
+2011-10-03 08:33:51	--	Nicks #archlinux.ro: [@ChanServ Amallya hando hannah_irina hyperutz ioni nkn nodame phrik sidro znull]
+2011-10-03 08:33:51	--	Channel #archlinux.ro: 11 nicks (1 op, 0 halfops, 0 voices, 10 normals)
+2011-10-03 08:34:03	--	Channel created on Thu, 26 Feb 2009 20:44:53

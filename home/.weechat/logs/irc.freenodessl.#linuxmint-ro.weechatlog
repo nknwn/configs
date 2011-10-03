@@ -1,0 +1,2005 @@
+2011-09-24 21:14:55	-->	nkn1 (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-24 21:14:55	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-24 21:14:55	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-24 21:14:55	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn daniyl nkn1]
+2011-09-24 21:14:55	--	Channel #linuxmint-ro: 5 nicks (2 ops, 0 halfops, 0 voices, 3 normals)
+2011-09-24 21:14:59	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-24 21:15:43	--	You are now known as nkn
+2011-09-24 21:17:07		irc: disconnected from server
+2011-09-24 21:17:15	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-24 21:17:15	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-24 21:17:15	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-24 21:17:15	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn daniyl nkn]
+2011-09-24 21:17:15	--	Channel #linuxmint-ro: 5 nicks (2 ops, 0 halfops, 0 voices, 3 normals)
+2011-09-24 21:17:20	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-24 21:19:40		irc: disconnected from server
+2011-09-24 21:20:37	-->	nkn1 (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-24 21:20:37	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-24 21:20:37	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-24 21:20:37	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn daniyl nkn1]
+2011-09-24 21:20:37	--	Channel #linuxmint-ro: 5 nicks (2 ops, 0 halfops, 0 voices, 3 normals)
+2011-09-24 21:20:41	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-24 21:21:07		irc: disconnected from server
+2011-09-24 21:22:58	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-24 21:22:58	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-24 21:22:58	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-24 21:22:58	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn daniyl nkn]
+2011-09-24 21:22:58	--	Channel #linuxmint-ro: 5 nicks (2 ops, 0 halfops, 0 voices, 3 normals)
+2011-09-24 21:22:58	--	Notice(gibson.freenode.net): [freenode-info] channel flooding and no channel staff around to help? Please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+2011-09-24 21:23:02	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-24 21:25:08		irc: disconnected from server
+2011-09-24 21:29:22	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-24 21:29:22	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-24 21:29:22	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-24 21:29:22	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn daniyl nkn]
+2011-09-24 21:29:22	--	Channel #linuxmint-ro: 5 nicks (2 ops, 0 halfops, 0 voices, 3 normals)
+2011-09-24 21:29:22	--	Notice(hitchcock.freenode.net): [freenode-info] channel trolls and no channel staff around to help? please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+2011-09-24 21:29:26	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-24 21:30:01		irc: disconnected from server
+2011-09-24 21:31:45	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-24 21:31:45	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-24 21:31:45	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-24 21:31:45	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn daniyl nkn]
+2011-09-24 21:31:45	--	Channel #linuxmint-ro: 5 nicks (2 ops, 0 halfops, 0 voices, 3 normals)
+2011-09-24 21:31:49	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-24 21:34:11		irc: disconnected from server
+2011-09-24 22:14:52	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-24 22:14:52	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-24 22:14:52	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-24 22:14:52	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn daniyl nkn]
+2011-09-24 22:14:52	--	Channel #linuxmint-ro: 5 nicks (2 ops, 0 halfops, 0 voices, 3 normals)
+2011-09-24 22:14:56	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-24 22:17:23	Creationn	daniyl: ai opera in repo-urile ubuntu
+2011-09-24 22:17:35	Creationn	parca cele restricted sau cum li se zice
+2011-09-24 22:17:45	nkn	it's alive!!!
+2011-09-24 22:17:52	Creationn	it`s alive !!!!
+2011-09-24 22:17:55	Creationn	mu hahahahaha
+2011-09-24 22:17:56	Creationn	partz
+2011-09-24 22:17:59	Creationn	e de la fasole
+2011-09-24 22:18:04	nkn	o.O
+2011-09-24 22:18:06	nkn	eeew
+2011-09-24 22:18:10	Creationn	ma jucam quake wars
+2011-09-24 22:18:23	Creationn	nu prea ma simt atras de el
+2011-09-24 22:18:31	Creationn	cum sunt de urban terror sau nexuiz de exemplu
+2011-09-24 22:18:35	Creationn	sau assault cube
+2011-09-24 22:18:43	nkn	teeworlds :D
+2011-09-24 22:18:47	Creationn	neha
+2011-09-24 22:18:49	nkn	si mie imi place urban terror
+2011-09-24 22:18:54	Creationn	nici al nu ma atrage
+2011-09-24 22:19:00	Creationn	la rts sunt varza
+2011-09-24 22:19:05	Creationn	abia ce misca la red alert 2
+2011-09-24 22:19:11	nkn	am jcuat unpic, ador sniper
+2011-09-24 22:19:13	Creationn	dar de cand s-a schimbat ceva in wine
+2011-09-24 22:19:15	Creationn	nu mai merge
+2011-09-24 22:19:30	nkn	teeworlds nu e rts :o
+2011-09-24 22:20:01	nkn	si si eu sunt varza la rts, dar joc din cand in cand cu calvarr megaglest :P
+2011-09-24 22:20:03	Creationn	am vb de red alert 2
+2011-09-24 22:20:03	Creationn	;)
+2011-09-24 22:20:09	Creationn	nuuu
+2011-09-24 22:20:11	Creationn	nuuuu
+2011-09-24 22:20:17	Creationn	megaglest = pierdere de timp
+2011-09-24 22:20:30	Creationn	mi-a luat 2-3 ore sa fac acolo un meci cu AI
+2011-09-24 22:20:44	nkn	pfff dar esti tare
+2011-09-24 22:20:44	Creationn	parca setat pe easy
+2011-09-24 22:20:51	Creationn	sau ceva de genu
+2011-09-24 22:20:54	nkn	pe mine ma rupe in 5 min la easy
+2011-09-24 22:21:06	Creationn	mai este warzone 2100
+2011-09-24 22:21:13	Creationn	dar si aici AI-ul este prea bun
+2011-09-24 22:21:15	Creationn	chiar si la easy
+2011-09-24 22:21:16	Creationn	...
+2011-09-24 22:21:25	Creationn	in look sa fie mai noobi-sh
+2011-09-24 22:21:27	Creationn	e mai bun
+2011-09-24 22:21:34	Creationn	inseamna ca la hard e "godlike"
+2011-09-24 22:21:35	Creationn	:))
+2011-09-24 22:22:02	nkn	in megaglest parca e easy normal hard si ultra :))
+2011-09-24 22:22:26	<--	daniyl (~daniyl@79.112.10.83) has quit (Quit: Leaving)
+2011-09-24 22:22:27	Creationn	da
+2011-09-24 22:22:43	nkn	na ca l-ai speriat
+2011-09-24 22:22:47	Creationn	:))
+2011-09-24 22:23:25	Creationn	ma bag la un urban terror
+2011-09-24 22:23:32	Creationn	see ya tomorow
+2011-09-24 22:23:36	nkn	pa
+2011-09-24 22:23:44	<--	Creationn (~creatura@f79-118-249-6.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-09-24 22:26:00		irc: disconnected from server
+2011-09-24 22:28:09	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-24 22:28:09	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-24 22:28:09	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-24 22:28:09	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ nkn]
+2011-09-24 22:28:09	--	Channel #linuxmint-ro: 3 nicks (2 ops, 0 halfops, 0 voices, 1 normal)
+2011-09-24 22:28:13	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-24 22:31:57		[nkn away: not around]
+2011-09-24 22:32:34		[nkn back: gone 00:00:36]
+2011-09-24 22:35:41		[nkn away: not around]
+2011-09-24 23:07:26		[nkn back: gone 00:31:44]
+2011-09-24 23:10:42		irc: disconnected from server
+2011-09-24 23:13:08	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-24 23:13:08	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-24 23:13:08	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-24 23:13:08	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ nkn]
+2011-09-24 23:13:08	--	Channel #linuxmint-ro: 3 nicks (2 ops, 0 halfops, 0 voices, 1 normal)
+2011-09-24 23:13:16	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-25 00:06:49	<--	[XrCT]Creation (chupzach@217.18.70.226) has quit (Remote host closed the connection)
+2011-09-25 00:37:40	-->	[XrCT]Creation (creation@217.18.70.226) has joined #linuxmint-ro
+2011-09-25 00:42:19	<--	[XrCT]Creation (creation@217.18.70.226) has quit (Client Quit)
+2011-09-25 00:54:18		irc: disconnected from server
+2011-09-25 08:59:57	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-25 08:59:57	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-25 08:59:57	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-25 08:59:57	--	Nicks #linuxmint-ro: [@ChanServ [XrCT]Creation nkn]
+2011-09-25 08:59:57	--	Channel #linuxmint-ro: 3 nicks (1 op, 0 halfops, 0 voices, 2 normals)
+2011-09-25 09:00:05	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-25 09:00:12		irc: disconnected from server
+2011-09-25 09:00:27	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-25 09:00:27	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-25 09:00:27	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-25 09:00:27	--	Nicks #linuxmint-ro: [@ChanServ [XrCT]Creation nkn]
+2011-09-25 09:00:27	--	Channel #linuxmint-ro: 3 nicks (1 op, 0 halfops, 0 voices, 2 normals)
+2011-09-25 09:00:34	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-25 09:22:23	-->	Creationn (~creatura@f79-118-253-209.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-25 09:26:38		irc: disconnected from server
+2011-09-25 13:01:45	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-25 13:01:45	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-25 13:01:45	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-25 13:01:45	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn daniyl nkn]
+2011-09-25 13:01:45	--	Channel #linuxmint-ro: 5 nicks (2 ops, 0 halfops, 0 voices, 3 normals)
+2011-09-25 13:01:53	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-25 13:26:27	<--	Creationn (~creatura@f79-118-247-205.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-09-25 13:47:32	-->	Creationn (~creatura@f79-118-247-205.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-25 14:55:46	<--	daniyl (~daniyl@79.112.10.83) has quit (Quit: Leaving)
+2011-09-25 15:49:25		irc: disconnected from server
+2011-09-25 15:52:02	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-25 15:52:02	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-25 15:52:02	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-25 15:52:02	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn nkn]
+2011-09-25 15:52:02	--	Channel #linuxmint-ro: 4 nicks (2 ops, 0 halfops, 0 voices, 2 normals)
+2011-09-25 15:52:10	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-25 16:20:50	-->	condor_ (~condor@89.37.70.70) has joined #linuxmint-ro
+2011-09-25 16:21:04	condor_	Salutare lume buna!
+2011-09-25 16:22:57	nkn	salut
+2011-09-25 16:23:59	condor_	voi mai vizitati si alte canale, cumva? tot asa "activitate febrila" e ?
+2011-09-25 16:24:10	nkn	pfft
+2011-09-25 16:24:17	nkn	asta e cel mai activ...
+2011-09-25 16:24:35	condor_	nu se poate!!! chiar asa ?
+2011-09-25 16:24:43	nkn	bine, ar mai fi archlinux
+2011-09-25 16:24:47	nkn	care e cam ca asta
+2011-09-25 16:24:56	condor_	aha
+2011-09-25 16:25:21	condor_	pai unde sunt "zmeii" cu sute de mesaje de pe forum ?
+2011-09-25 16:26:11	nkn	nu le place irc
+2011-09-25 16:26:17	condor_	pe #ubuntu, tot asa e?
+2011-09-25 16:26:39	condor_	cred ca acolo o fi mai mult popor...
+2011-09-25 16:26:43	nkn	ala e mort
+2011-09-25 16:26:51	condor_	aaa, nu se poate!
+2011-09-25 16:26:56	nkn	de vreo 2 sau 3 ori mai multi ca aici
+2011-09-25 16:26:59	nkn	dar e MORT
+2011-09-25 16:27:22	nkn	rar mai intru un necunoscut si intreaba ceva, si ii raspund eu si pleaca
+2011-09-25 16:27:28	nkn	asta o data pe luna, chiar mai mult
+2011-09-25 16:27:36	nkn	pe archlinux.ro e cam ca aici
+2011-09-25 16:27:42	condor_	tot asa: zmei pe forum si "silence is golden"...
+2011-09-25 16:27:49	condor_	aha...
+2011-09-25 16:28:26	nkn	aici e mai activ ca pe archlinux intr-un fel
+2011-09-25 16:28:35	condor_	acolo m-as fi asteptat sa fie zumzet ca-ntr-un stup de albine...
+2011-09-25 16:28:51	nkn	acolo cand incep sa vorbeasca vorbesc de nu se mai opresc decat dupa multe multe ore :))
+2011-09-25 16:29:03	condor_	tot e ceva...
+2011-09-25 16:29:14	nkn	iar aici cam in fiecare zi se vorbeste dar nu cat pe archlinux.ro :))
+2011-09-25 16:29:20	condor_	la obiect sau parole de chat obisnuit ?
+2011-09-25 16:29:23	nkn	in rest, toate ie moarte
+2011-09-25 16:30:10	nkn	de toate
+2011-09-25 16:30:17	condor_	aha
+2011-09-25 16:30:21	nkn	in mare parte e la obiect, servere peste servere
+2011-09-25 16:30:28	nkn	eu nu le am cu servere :)
+2011-09-25 16:30:34	nkn	dar mai mereu e vorba de ele
+2011-09-25 16:31:28	condor_	am nimerit odata acolo si "se punea" de o intalnire la McDonald-ul din Unirii, parca...
+2011-09-25 16:31:44	nkn	pff..de-ar fi asa si in pitesti..
+2011-09-25 16:32:37	nkn	am inceput azi cu kernelul sa opresc una cate una..
+2011-09-25 16:32:56	nkn	e foarte enervant ca ia cam 20-40min compilarea...
+2011-09-25 16:33:00	condor_	bine, in Bucuresti e si baza LUG-ului...BLUG parca...am fost odata...era pe undeva cam in afara orasului...
+2011-09-25 16:33:54	condor_	este dar nici chiar una cate una...unde sunt chestii de hard mergi la gramada, ca sa zic asa...
+2011-09-25 16:34:48	nkn	aia da
+2011-09-25 16:34:53	condor_	viteza de comp. e realizata in mare parte de viteza hdd-ului
+2011-09-25 16:35:02	nkn	compilez in ram....
+2011-09-25 16:35:11	nkn	deci trebuia sa mearga totu repede..
+2011-09-25 16:35:17	nkn	totusi*
+2011-09-25 16:35:57	nkn	in arch /dev/shm este tmpfs in ram
+2011-09-25 16:35:58	condor_	ce procesor ai ? dual ?
+2011-09-25 16:36:08	nkn	nu stiu daca e la fel si in alte distributii
+2011-09-25 16:36:26	nkn	si doar dai link la folder-ul cu fisiere unde compilezi in ram si il va compila in ram
+2011-09-25 16:36:29	nkn	core 2 duo
+2011-09-25 16:36:31	nkn	1.66
+2011-09-25 16:36:44	condor_	aha...
+2011-09-25 16:37:27	condor_	eu am un singur procesor pe 64 de biti cu 3.06 GHz...
+2011-09-25 16:37:51	nkn	si al meu e de 64
+2011-09-25 16:37:58	condor_	e mai vechiutz compu
+2011-09-25 16:38:10	condor_	compu meu!
+2011-09-25 16:39:54	condor_	cat "iese" kernelul compilat ?
+2011-09-25 16:40:10	nkn	acum are 57mb instalat
+2011-09-25 16:40:20	nkn	pachetele au 12mb in total parca
+2011-09-25 16:40:21	condor_	aha
+2011-09-25 16:40:37	condor_	sursa ?!
+2011-09-25 16:41:14	condor_	e muult mai mare, nu se poate numai 12MB !
+2011-09-25 16:41:35	nkn	o secunda
+2011-09-25 16:42:01	Creationn	salutare baieti :)
+2011-09-25 16:42:04	condor_	la mine compilat aranjat are cca 1.6 GB
+2011-09-25 16:42:11	condor_	salut!
+2011-09-25 16:42:34	condor_	ce mai e pin Pitesti ?
+2011-09-25 16:43:24	Creationn	ce sa fie
+2011-09-25 16:43:25	Creationn	toamna
+2011-09-25 16:43:28	Creationn	brb
+2011-09-25 16:43:30	Creationn	un mic reboot
+2011-09-25 16:43:31	Creationn	:D
+2011-09-25 16:43:34	condor_	ce face SUSE ? revine la KDE 3.5 ?
+2011-09-25 16:43:36	<--	Creationn (~creatura@f79-118-247-205.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-09-25 16:46:00	nkn	nkn-> ls -s | grep linux-ck
+2011-09-25 16:46:00	nkn	 11248 linux-ck-3.0.4-3-i686.pkg.tar.xz
+2011-09-25 16:46:00	nkn	  4356 linux-ck-headers-3.0.4-3-i686.pkg.tar.xz
+2011-09-25 16:48:53	-->	Creationn (~creatura@f79-118-247-205.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-25 16:49:06	condor_	Creationn, wb!
+2011-09-25 16:49:24	Creationn	ms condor_
+2011-09-25 16:49:24	Creationn	:D
+2011-09-25 16:49:52	condor_	toamna in Pitesti fara miresme de prune...nu se poate !
+2011-09-25 16:50:04	Creationn	posibil
+2011-09-25 16:50:10	Creationn	la mine e mireasma de strugurir
+2011-09-25 16:50:11	Creationn	:D
+2011-09-25 16:50:20	condor_	buni si-aia!
+2011-09-25 16:50:35	Creationn	daaaa
+2011-09-25 16:50:38	Creationn	tu ce mai faci ?
+2011-09-25 16:50:45	condor_	mai ales daca sunt si de soi!
+2011-09-25 16:51:00	--	Mode #linuxmint-ro [+o Creationn] by ChanServ
+2011-09-25 16:51:14	--	Mode #linuxmint-ro [+oo condor_ nkn] by Creationn
+2011-09-25 16:51:27	@Creationn	mda
+2011-09-25 16:52:01	@condor_	uite m-am "chinuit" nitzel cu o instalare de arch linux si am ajuns la marea dilema: ce WM sa instalez...c-asa-i in arch...instalezi in text...
+2011-09-25 16:52:12	@Creationn	da stiu cum e
+2011-09-25 16:52:21	@Creationn	ziceam ca il incerc si eu in vbox dar n-am ajuns
+2011-09-25 16:52:22	@nkn	ce vrei!
+2011-09-25 16:52:30	@nkn	poti orice :P
+2011-09-25 16:52:47	@condor_	stiu, am vazut...
+2011-09-25 16:53:17	@condor_	ma bate gandul sa-ncerc totusi...GNOME-3.1 :P
+2011-09-25 16:53:50	@nkn	oricum ala e singurul gnome din arch
+2011-09-25 16:54:00	@nkn	arch nu are gnome2
+2011-09-25 16:54:11	@nkn	daca vrei ceva ca gnome2 instalezi mate, care e fork de la gnome2
+2011-09-25 16:54:11	@condor_	am fost pe site-ul GNOME si au acolo un distro de proba GNOME pe care-l incerci fara sa ai macar linux instalat
+2011-09-25 16:54:21	@nkn	e fedora si suse
+2011-09-25 16:54:51	@condor_	aha..
+2011-09-25 16:54:58	@Creationn	tre sa apara 3.2
+2011-09-25 16:54:59	@Creationn	:)
+2011-09-25 16:55:08	@Creationn	oricum parca ma atrage mai mult decat kde
+2011-09-25 16:55:25	@condor_	am vazut ca forteaza ubuntu spre gnome3.2
+2011-09-25 16:56:02	@Creationn	ubuntu are unity
+2011-09-25 16:56:07	@Creationn	la ce dracu baga gnome 3.2?
+2011-09-25 16:56:16	@Creationn	nu s-a lau dat nea mark ca nu mai vrea gnome
+2011-09-25 16:56:20	@Creationn	ci numai unity ?
+2011-09-25 16:56:25	@condor_	am incarcat si probat pe un stick GNOME-le ala de care ziceam si se pare ca-ncepe sa fie "mai fotogenic!"
+2011-09-25 16:56:28	@Creationn	britanic jegos ce e
+2011-09-25 16:57:06	@condor_	de ubuntu am aflat de pe DistroWatch...
+2011-09-25 16:57:55	@condor_	Creationn, te dai la GNOME ?...am vazut ca SUSE incearca iar KDE 3.5 !!
+2011-09-25 16:58:43	@Creationn	sa incerce
+2011-09-25 16:58:48	@Creationn	nu e acelasi kde 3.5
+2011-09-25 16:58:51	@Creationn	este reloaded
+2011-09-25 16:58:59	@Creationn	are baza tot in qt4
+2011-09-25 16:59:01	@Creationn	nu in qt3
+2011-09-25 16:59:07	@condor_	aha
+2011-09-25 16:59:13	@Creationn	aceeasi marie cu alta palarie
+2011-09-25 16:59:34	@condor_	mai sa fie...oameni seriosi!
+2011-09-25 17:00:07	@condor_	nkn, mate e misto ?
+2011-09-25 17:01:05	@nkn	e ca gnome2
+2011-09-25 17:01:15	@Creationn	este gnome 2 fara imbunatatiri
+2011-09-25 17:01:17	@nkn	https://wiki.archlinux.org/index.php/MATE
+2011-09-25 17:01:18	@condor_	aha..
+2011-09-25 17:01:19	@Creationn	de fapt
+2011-09-25 17:01:25	@Creationn	este gnome2 si atat
+2011-09-25 17:01:28	@Creationn	2.32
+2011-09-25 17:01:33	@Creationn	ultima versiune
+2011-09-25 17:01:54	@condor_	da, pai e ok atunci.
+2011-09-25 17:02:36	@condor_	nkn, eu te-ntrebam cata ajunge kernelul in /boot adica vmlinuz
+2011-09-25 17:03:07	@condor_	la mine e cca. 1.6 GB.
+2011-09-25 17:06:39	@nkn	o.O
+2011-09-25 17:06:50	@condor_	?!?!
+2011-09-25 17:06:56	@nkn	cat are /boot?
+2011-09-25 17:07:17	@condor_	vmlinuz din /boot are cca 1.6 GB
+2011-09-25 17:08:06	@nkn	hm...
+2011-09-25 17:08:27	@nkn	nkn-> ls -s
+2011-09-25 17:08:28	@nkn	total 21700
+2011-09-25 17:08:28	@nkn	  12 grub                                4 memtest86+
+2011-09-25 17:08:28	@nkn	3584 initramfs-linux-ck-fallback.img     4 syslinux
+2011-09-25 17:08:28	@nkn	1968 initramfs-linux-ck.img              0 vmlinuz26-ck
+2011-09-25 17:08:28	@nkn	9444 initramfs-linux-fallback.img     2296 vmlinuz-linux
+2011-09-25 17:08:28	@nkn	2136 initramfs-linux.img              2252 vmlinuz-linux-ck
+2011-09-25 17:08:33	@condor_	cred ca cresesc cu trei ordine de marime...MB !!!
+2011-09-25 17:08:45	@nkn	atunci la mine are 2.2mb...
+2011-09-25 17:09:36	@condor_	ai dreptate, am gresit eu la "exprimare"...e clar ! e vorba de 1.6 MB !!!
+2011-09-25 17:12:09	@condor_	am scos toata incarcatura aia infernala de drivere audio, video, net si cate si mai cate...
+2011-09-25 17:13:28	@condor_	am lasat numai ce am eu si le-am "bagat" in module...de ex. imprimanta o bag doar cand am nevoie...pletura de fonte la fel...
+2011-09-25 17:13:36	@Creationn	misto asa
+2011-09-25 17:13:39	@Creationn	ai un kernel mic
+2011-09-25 17:13:48	@condor_	da
+2011-09-25 17:13:55	@Creationn	eu am kernel default
+2011-09-25 17:14:00	@Creationn	cu toate driverele
+2011-09-25 17:14:08	@condor_	cel cu care vine distro...
+2011-09-25 17:14:15	@Creationn	da
+2011-09-25 17:14:32	@Creationn	abia astept la gnome 3 sa vad appleturile din gnome 2
+2011-09-25 17:14:40	@Creationn	care mai nou se numesc extensii
+2011-09-25 17:14:46	@condor_	ei le pun fiindca se adreseaza unui orizont larg de arhitecturi, nu ?
+2011-09-25 17:15:01	@Creationn	orice distributie face asa
+2011-09-25 17:15:02	@Creationn	:)
+2011-09-25 17:15:06	@Creationn	exemplu debian
+2011-09-25 17:15:11	@condor_	stiu, asa e...normal!
+2011-09-25 17:15:19	@Creationn	suporta toate arhitecturile de la i386 incoace
+2011-09-25 17:15:26	@condor_	mai ales ... windoze...
+2011-09-25 17:15:44	@Creationn	da
+2011-09-25 17:15:45	@condor_	acolo e un adevarat talcioc in kernel
+2011-09-25 17:16:19	@Creationn	va mai fi unul cu uefi
+2011-09-25 17:16:27	@Creationn	pe calculatoarele windows ready
+2011-09-25 17:16:33	@condor_	in arch le ia in considerare numai pe cele 686
+2011-09-25 17:17:00	@Creationn	si noobuntu face la fel
+2011-09-25 17:17:06	@Creationn	numai de la i686 in sus
+2011-09-25 17:17:11	@condor_	!!!
+2011-09-25 17:19:27	@condor_	discutam mai devreme cu nkn si-mi spunea ca acest canal e printre cele mai active dintre cele ro!
+2011-09-25 17:19:42	@Creationn	nu stiu
+2011-09-25 17:19:45	@Creationn	cat de activ este
+2011-09-25 17:19:48	@Creationn	dar e mai viu ca altele
+2011-09-25 17:19:58	@condor_	sa vina odata iarna sa se mai stranga oamenii pe langa case...
+2011-09-25 17:20:30	@condor_	sa-si mai cumpere oarece calculatoare cu linux pe ele!
+2011-09-25 17:23:06	@Creationn	:))
+2011-09-25 17:23:10	@Creationn	n-ai sa vezi
+2011-09-25 17:23:17	@Creationn	lumea e preocupata de ziua de maine
+2011-09-25 17:23:17	@condor_	crezi?
+2011-09-25 17:24:42	@condor_	eu ma uit ca "ziua de maine" e tot mai populata cu masini ce n-a vazut Parisu'...
+2011-09-25 17:27:13	@condor_	eu am o...bicla !...merg cu ea la fix cum prind un ceas-doo(!) libere...
+2011-09-25 17:27:57	@Creationn	deh
+2011-09-25 17:28:01	@Creationn	asta e lumea
+2011-09-25 17:28:01	@nkn	eu vreau..dar sunt prea scumpe
+2011-09-25 17:28:01	@Creationn	:)
+2011-09-25 17:28:30	@condor_	scumpe, cine ?
+2011-09-25 17:28:37	@condor_	bicla ?
+2011-09-25 17:28:39	@nkn	da
+2011-09-25 17:29:12	@nkn	bicicletele sunt scumpe..
+2011-09-25 17:29:19	@condor_	gasesti pe net destul de "fotogenice" si ca marfa si ca pret!
+2011-09-25 17:30:28	@condor_	eu am gasit un DHS-TREKKING cu 320 de lei...
+2011-09-25 17:30:41	@Creationn	eu nici pe bicla nu stiu sa merg
+2011-09-25 17:30:42	@Creationn	:)
+2011-09-25 17:30:47	@nkn	:))
+2011-09-25 17:30:48	@condor_	ha!
+2011-09-25 17:30:53	@condor_	nu se poate!
+2011-09-25 17:31:06	@Creationn	cand eram mic am incercat dar nu m-am prins bine de ea si gravitatia a facut restul
+2011-09-25 17:31:12	@Creationn	de atunci nu stiu de ce nu am incercat
+2011-09-25 17:31:20	@Creationn	probabil din cauza loviturii de la genuchi
+2011-09-25 17:31:51	@condor_	eu am invatat sa merg pe un camp care avea o poteca intr-un "lan" de urzici!!!
+2011-09-25 17:31:58	@Creationn	tare
+2011-09-25 17:31:58	@Creationn	:D
+2011-09-25 17:32:07	@condor_	motivant, ce mai!
+2011-09-25 17:32:27	@nkn	:))
+2011-09-25 17:32:57	@Creationn	norocul tau ca nu ai prob cu urzicile
+2011-09-25 17:34:40	@condor_	o singura data am cazut si atunci eram imbracat! apoi a urmat, la indemnul "instructorului" (o gagica) sa merg doar in chilotzi! va dati seama ca n-am mai cazut, ca ala eram!!!
+2011-09-25 17:35:30	@nkn	:))
+2011-09-25 17:35:47	@Creationn	pervers instructor
+2011-09-25 17:36:25	@condor_	e mai nasol ca-n oras se circula greu...prin parcuri nu prea e voie...
+2011-09-25 17:36:47	@Creationn	da, asa  e
+2011-09-25 17:36:51	@nkn	daca merge asa nu vad de ce
+2011-09-25 17:37:03	@nkn	pff....am gresit canalul
+2011-09-25 17:37:04	@Creationn	cel putin in pitesti e din cauza alora cu skate-uri
+2011-09-25 17:37:13	@Creationn	ca biciclistii aveau voie
+2011-09-25 17:39:07	@condor_	l-am intrebat pe amicul meu, avocatul, daca e fo lege in chestiune si mi-a aratat ca-n lege scrie ca se poate circula prin parcuri cu bicla cu "conditia sa nu stanjenesti pietonii care se plimba" !
+2011-09-25 17:39:28	@Creationn	adica sa mergi pe langa ea nu pe ea
+2011-09-25 17:39:31	@Creationn	da stiu faza
+2011-09-25 17:39:37	@condor_	e ceva!
+2011-09-25 17:39:47	@Creationn	uite tocmai ce imi creez un mediu de 20gb pentru open suse factory
+2011-09-25 17:39:56	@Creationn	un fel de distributie in stadiu experiemental
+2011-09-25 17:40:04	@condor_	aham...
+2011-09-25 17:40:27	@Creationn	acum ca stiu ca gnome 3 si kde merg sub open suse
+2011-09-25 17:40:33	@Creationn	pot experimenta si mai departe
+2011-09-25 17:40:37	@Creationn	cu lxde si xfce
+2011-09-25 17:40:40	@condor_	excellent!
+2011-09-25 17:40:42	@Creationn	alaturi de kde si gnome 3
+2011-09-25 17:40:43	@Creationn	:))
+2011-09-25 17:40:52	@Creationn	adica toate cele 4 desktopuri
+2011-09-25 17:41:16	@condor_	lxde mi se pare ca e un openbox cu fatza schimbata...
+2011-09-25 17:41:24	@Creationn	de vreme ce xfce este un gnome 2 mai mic
+2011-09-25 17:41:30	@condor_	asa e...
+2011-09-25 17:41:30	@Creationn	ma gandeam sa il cercetez si pe el
+2011-09-25 17:41:39	@Creationn	chiar daca gnome 2 moare
+2011-09-25 17:41:42	@Creationn	xfce va dainui
+2011-09-25 17:41:58	@Creationn	daca e sa ma atraga parca parca ma vad ca trec la el :D
+2011-09-25 17:42:01	@condor_	da...mi se pare ca-l "tzine" un francez...
+2011-09-25 17:42:10	@condor_	sau gresesc eu?
+2011-09-25 17:42:11	@Creationn	un francis
+2011-09-25 17:42:17	@Creationn	un francais ?
+2011-09-25 17:42:23	@Creationn	tres bien mon ami
+2011-09-25 17:42:26	@condor_	asa!
+2011-09-25 17:42:34	@condor_	wow!
+2011-09-25 17:42:56	@Creationn	numai win xp sub vbox mai are 20gb pe hdd
+2011-09-25 17:43:01	@Creationn	ca si imagine de lucru
+2011-09-25 17:43:07	@Creationn	noroc ca e hdd extern :))
+2011-09-25 17:43:09	@condor_	asa de mult?
+2011-09-25 17:43:22	@Creationn	da
+2011-09-25 17:43:28	@Creationn	pai daca e sa am 4 desktopuri
+2011-09-25 17:43:29	@Creationn	:)
+2011-09-25 17:43:37	@Creationn	tre sa aflu ce dependinte trage dupa el
+2011-09-25 17:43:51	@condor_	de, obrazul subtziiireee...
+2011-09-25 17:45:01	@Creationn	cred ca fac un net install
+2011-09-25 17:45:12	@Creationn	ca o sa pun numai repo-uri factory
+2011-09-25 17:46:24	@condor_	net install e sfant in orice situatie...
+2011-09-25 17:46:50	@condor_	totul e sa ai o legatura net mai ca lumea
+2011-09-25 17:46:58	@Creationn	da
+2011-09-25 17:46:59	@Creationn	stiu
+2011-09-25 17:47:05	@Creationn	parca in vbox merge mai lent
+2011-09-25 17:47:11	@Creationn	din cauza ca e cva virtualizat
+2011-09-25 17:47:19	@condor_	eu sunt pe o retea de cartier si merge ok!
+2011-09-25 17:47:55	@nkn	netul meu e cel mai ciudat!
+2011-09-25 17:48:06	@nkn	normal merge cu maxim 400kb
+2011-09-25 17:48:08	@condor_	zo ?
+2011-09-25 17:48:23	@nkn	daca dau drumu la radio pe internet, sau un video pe youtube urca si merge cu 9mb
+2011-09-25 17:48:23	@condor_	rds-ul?
+2011-09-25 17:48:40	@condor_	ha!
+2011-09-25 17:48:45	@nkn	pana opresc radio sau pana cand termina de descarcat video de pe youtube
+2011-09-25 17:49:16	@condor_	pai nu asa trebuie? sa faca treaba!
+2011-09-25 17:49:19	@Creationn	nkn: ti-a facut figuri azi netul ?
+2011-09-25 17:49:26	@nkn	nu
+2011-09-25 17:50:01	@nkn	dar tu unde stai? ca vad ca avem aceeasi clasa de ip
+2011-09-25 17:51:20	@Creationn	teilor
+2011-09-25 17:51:30	@Creationn	peste strada de conti
+2011-09-25 17:51:45	@nkn	aha...nici o idee unde e conti asta :))
+2011-09-25 17:57:38	@Creationn	google it
+2011-09-25 17:58:46	@Creationn	opensuse vrea btrfs
+2011-09-25 17:58:49	@Creationn	interesant
+2011-09-25 17:58:53	@Creationn	fedora l-a amanat
+2011-09-25 17:59:51	@nkn	wtf, n-am mai vazut acel loc
+2011-09-25 18:05:13	@Creationn	ma rog
+2011-09-25 18:05:16	@Creationn	atunci alt reper
+2011-09-25 18:05:18	@Creationn	sanovital
+2011-09-25 18:06:09	@Creationn	de ala ai auzit ? :))
+2011-09-25 18:06:42	@nkn	x.x
+2011-09-25 18:07:44	@condor_	eu stau in apropiere de Arena Nationala (cu mult cantatul gazon!)
+2011-09-25 18:08:30	@nkn	teilor e strada care duce spre padurea trivale?
+2011-09-25 18:13:38	@Creationn	da, aia e strada
+2011-09-25 18:13:41	@Creationn	condor_: o daaaa
+2011-09-25 18:13:45	@Creationn	de s-a dezintegrat
+2011-09-25 18:14:02	@condor_	 aha
+2011-09-25 18:14:10	@condor_	pe GoogleEarth street view: 44*25'59.00" N  26*09'22.18" E
+2011-09-25 18:16:38	@Creationn	e cel mai de ... rahat stadion
+2011-09-25 18:16:48	@Creationn	a supt o gramada de bani si nu e bun de nimic
+2011-09-25 18:16:57	@Creationn	ca orice chestie din romania care suge dar nu produce
+2011-09-25 18:16:58	@Creationn	;))
+2011-09-25 18:17:50	@condor_	fara o aerisire cat de cat...s-au facut de doo parale!
+2011-09-25 18:18:20	@condor_	gazon de ...golf iar nu de fotbal!
+2011-09-25 18:20:17	@condor_	e mai prost de cat cel vechi...facut cu cca 55 de ani in urma!
+2011-09-25 18:21:27	@Creationn	mult mai prost
+2011-09-25 18:26:50	@Creationn	in romania tot ce e nou e facut aiurea
+2011-09-25 18:26:57	@Creationn	se vede clar asta
+2011-09-25 18:27:04	@condor_	trebuie sa ma retrag. au venit niste pretenari pe la mine! pe unul dintre ei l-am "imbolnavit" de linux si vine mai des sa-si "acordeze" laptop-ul...
+2011-09-25 18:27:08	@Creationn	mege bine netinstall
+2011-09-25 18:27:17	@Creationn	:))
+2011-09-25 18:27:19	@Creationn	frumos
+2011-09-25 18:27:21	@nkn	:))
+2011-09-25 18:27:23	@nkn	bafta!
+2011-09-25 18:27:25	@condor_	o seara buna in continuare! bye !
+2011-09-25 18:27:26	@Creationn	spor
+2011-09-25 18:27:27	@Creationn	!
+2011-09-25 18:27:30	@Creationn	au revoir
+2011-09-25 18:27:32	<--	condor_ (~condor@89.37.70.70) has left #linuxmint-ro ("all is well when ends well...")
+2011-09-25 18:27:32	@Creationn	:P
+2011-09-25 19:02:21	@nkn	am facut pe unu sa treaca pe arch :P
+2011-09-25 19:02:50	@nkn	si-a inviat un laptop pe care mergea prost ubuntu minimal, si acum a pus arch si pe desktop in loc de 10.10 :P
+2011-09-25 19:05:33	@Creationn	:))
+2011-09-25 19:05:42	@Creationn	esti un adevarat convertor
+2011-09-25 19:05:50	@nkn	si multi de pe forumul ubuntu vad ca incep sa incerce arch :))
+2011-09-25 19:05:54	@nkn	:))
+2011-09-25 19:06:04	@Creationn	sa fie sa il incerc si eu ca sa fii si mai happy
+2011-09-25 19:06:05	@Creationn	:))
+2011-09-25 19:06:12	@nkn	da :))
+2011-09-25 19:06:26	@nkn	dar stiu ca tu nu o sa lasi suse :P
+2011-09-25 19:06:30	@nkn	asa ca...meh
+2011-09-25 19:06:54	@Creationn	;))
+2011-09-25 19:07:06	@Creationn	abia am terminat de instalat suse factory
+2011-09-25 19:07:12	@nkn	ce face
+2011-09-25 19:07:15	@Creationn	acum tre sa ajustez repo-urile si sa fac upgrade
+2011-09-25 19:07:30	@Creationn	este cea mai noua versiune de opensuse in stadiu de development
+2011-09-25 19:07:39	@Creationn	macar aici pot testa ce imi mai trece prin cap
+2011-09-25 19:07:55	@nkn	de ce nu poti testa si in altele?
+2011-09-25 19:08:18	@Creationn	pe moment ma intereseaza in suse ca am idee despre ce face distributia
+2011-09-25 19:08:23	@Creationn	la restul ar fi mine field
+2011-09-25 19:08:23	@Creationn	:D
+2011-09-25 19:08:47	@nkn	ma refeream la alte versiuni de suse :)
+2011-09-25 19:09:19	@Creationn	pai factory asta e viitoarea versiune de open suse
+2011-09-25 19:09:22	@Creationn	anume 12.1
+2011-09-25 19:10:14	@nkn	da dar nu poti instala ce iti trece prin cap in versiunea stabila?
+2011-09-25 19:11:02	@Creationn	pai daca e sa iasa ceva urat sa nu raman in pom
+2011-09-25 19:11:18	@Creationn	asa pe factory aflu cat de bine merge pe ceva mai putin stable
+2011-09-25 19:11:29	@nkn	oh
+2011-09-25 19:50:24	@Creationn	1131 de pachete de actualizat
+2011-09-25 19:50:24	@Creationn	:D
+2011-09-25 19:50:32	@nkn	xD
+2011-09-25 19:50:34	@nkn	multe
+2011-09-25 19:50:38	@Creationn	factory asta e un fel de rolling release
+2011-09-25 19:50:41	@Creationn	doar ca mai instabil
+2011-09-25 19:50:53	@Creationn	mult mai instabil decat versisorul sau cuminte tumbleweed
+2011-09-25 19:50:55	@Creationn	pe care il am eu
+2011-09-25 19:51:00	@Creationn	d`aia nici nu e pus pe masina reala
+2011-09-25 19:51:18	@Creationn	scuza-ma
+2011-09-25 19:51:19	@Creationn	1217
+2011-09-25 19:51:20	@Creationn	:D
+2011-09-25 19:51:25	@Creationn	a mai adaugat si niste dependinte
+2011-09-25 19:51:28	@Creationn	ca le uitase
+2011-09-25 19:51:29	@Creationn	:))
+2011-09-25 19:51:32	@nkn	:))
+2011-09-25 19:54:00	@Creationn	dupa actualizari
+2011-09-25 19:54:12	@Creationn	care in mediu virtual vor dura cam o ora
+2011-09-25 19:54:17	@Creationn	sper eu mai putin
+2011-09-25 19:54:22	@Creationn	ma bag sa ma joc
+2011-09-25 19:54:26	@Creationn	maine ma apuc de testat
+2011-09-25 19:54:29	@Creationn	kde 4.7.1
+2011-09-25 19:54:31	@nkn	ce joci
+2011-09-25 19:54:33	@Creationn	cel mai recent
+2011-09-25 19:54:38	@Creationn	gnome 3.1
+2011-09-25 19:54:42	@Creationn	lxde si xfce
+2011-09-25 19:54:43	@Creationn	:))
+2011-09-25 19:54:46	@Creationn	fac 4 desktopuri
+2011-09-25 19:54:49	@Creationn	pai cred ca urban terror
+2011-09-25 20:30:24	-->	daniyl (~daniyl@79.112.10.83) has joined #linuxmint-ro
+2011-09-25 20:31:31	<--	daniyl (~daniyl@79.112.10.83) has quit (Client Quit)
+2011-09-25 21:43:20		[nkn away: not around]
+2011-09-25 21:50:32	-->	daniyl (~daniyl@79.112.10.83) has joined #linuxmint-ro
+2011-09-25 22:03:14	<--	[XrCT]Creation (chupzach@217.18.70.226) has quit (Quit: Bu-bye !!!)
+2011-09-25 22:07:01	<--	daniyl (~daniyl@79.112.10.83) has quit (Quit: Leaving)
+2011-09-25 22:14:40	-->	[XrCT]Creation (charis@217.18.70.226) has joined #linuxmint-ro
+2011-09-25 22:17:00		[nkn back: gone 00:33:39]
+2011-09-25 22:35:51	<--	Creationn (~creatura@f79-118-247-205.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-09-25 22:44:24		irc: disconnected from server
+2011-09-26 07:53:38	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-26 07:53:38	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-26 07:53:38	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-26 07:53:38	--	Nicks #linuxmint-ro: [@ChanServ [XrCT]Creation nkn]
+2011-09-26 07:53:38	--	Channel #linuxmint-ro: 3 nicks (1 op, 0 halfops, 0 voices, 2 normals)
+2011-09-26 07:53:58	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-26 08:40:46		irc: disconnected from server
+2011-09-26 10:11:20	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-26 10:11:20	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-26 10:11:20	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-26 10:11:20	--	Nicks #linuxmint-ro: [@ChanServ [XrCT]Creation Creationn nkn]
+2011-09-26 10:11:20	--	Channel #linuxmint-ro: 4 nicks (1 op, 0 halfops, 0 voices, 3 normals)
+2011-09-26 10:11:28	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-26 10:25:22	<--	Creationn (~creatura@f79-118-237-222.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-09-26 10:35:50		irc: disconnected from server
+2011-09-26 10:39:08	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-26 10:39:08	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-26 10:39:08	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-26 10:39:08	--	Nicks #linuxmint-ro: [@ChanServ [XrCT]Creation nkn]
+2011-09-26 10:39:08	--	Channel #linuxmint-ro: 3 nicks (1 op, 0 halfops, 0 voices, 2 normals)
+2011-09-26 10:39:16	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-26 10:42:32		irc: disconnected from server
+2011-09-26 10:44:01	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-26 10:44:01	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-26 10:44:01	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-26 10:44:01	--	Nicks #linuxmint-ro: [@ChanServ [XrCT]Creation nkn]
+2011-09-26 10:44:01	--	Channel #linuxmint-ro: 3 nicks (1 op, 0 halfops, 0 voices, 2 normals)
+2011-09-26 10:44:10	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-26 11:12:22		irc: disconnected from server
+2011-09-26 11:14:13	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-26 11:14:13	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-26 11:14:13	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-26 11:14:13	--	Nicks #linuxmint-ro: [@ChanServ [XrCT]Creation nkn]
+2011-09-26 11:14:13	--	Channel #linuxmint-ro: 3 nicks (1 op, 0 halfops, 0 voices, 2 normals)
+2011-09-26 11:14:21	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-26 11:43:59		irc: disconnected from server
+2011-09-26 11:45:59	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-26 11:45:59	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-26 11:45:59	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-26 11:45:59	--	Nicks #linuxmint-ro: [@ChanServ [XrCT]Creation nkn]
+2011-09-26 11:45:59	--	Channel #linuxmint-ro: 3 nicks (1 op, 0 halfops, 0 voices, 2 normals)
+2011-09-26 11:46:07	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-26 11:54:34	-->	Creationn (~creatura@f79-118-250-36.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-26 14:16:06		[nkn away: not around]
+2011-09-26 15:15:15	<--	[XrCT]Creation (charis@217.18.70.226) has quit (Quit: Bu-bye !!!)
+2011-09-26 15:57:39	-->	[XrCT]Creation (creation@217.18.70.226) has joined #linuxmint-ro
+2011-09-26 15:58:05	-->	xuser1 (~x-man@92.80.182.49) has joined #linuxmint-ro
+2011-09-26 15:58:12	xuser1	salut
+2011-09-26 15:58:18	xuser1	:)
+2011-09-26 16:08:17	--	Mode #linuxmint-ro [+o [XrCT]Creation] by ChanServ
+2011-09-26 16:08:31	--	Mode #linuxmint-ro [+ooo Creationn nkn xuser1] by [XrCT]Creation
+2011-09-26 16:08:32	--	Mode #linuxmint-ro [+ooo Creationn nkn xuser1] by [XrCT]Creation
+2011-09-26 16:17:18	@xuser1	primul meu linux wallpaper 3d facut in blender http://gnome-look.org/content/show.php/linux+3D+office+wallpaper?content=145565
+2011-09-26 16:18:05	@xuser1	:-D
+2011-09-26 17:02:24	<--	xuser1 (~x-man@92.80.182.49) has quit (Quit: Leaving.)
+2011-09-26 17:21:46	-->	daniyl (~daniyl@79.112.9.129) has joined #linuxmint-ro
+2011-09-26 17:35:43	daniyl	sal da condor a mai intrat astazzi
+2011-09-26 17:35:47	daniyl	pe aici
+2011-09-26 17:45:59	@Creationn	salut daniyl
+2011-09-26 17:46:00	@Creationn	nu
+2011-09-26 17:46:03	@Creationn	a fost ieri
+2011-09-26 17:46:16	daniyl	aha ok
+2011-09-26 17:46:32	daniyl	merci ca aveam ceva sa-l intreb despre lmde
+2011-09-26 17:46:46	daniyl	ca am inteles ca el este expertul in lmde
+2011-09-26 17:55:52	@Creationn	inteleg
+2011-09-26 17:57:52	daniyl	te pricepi si tu
+2011-09-26 17:59:51	@Creationn	am folosit linux mint cam 6 luni acum sunt pe opensuse
+2011-09-26 18:00:05	@Creationn	lmde deloc
+2011-09-26 18:00:11	@Creationn	deci nu cred ca te-as putea ajuta prea mult
+2011-09-26 18:00:15	@Creationn	nkn: esti ?
+2011-09-26 18:01:03	daniyl	aha
+2011-09-26 18:01:13	daniyl	esti pe opensuse
+2011-09-26 18:01:40	@Creationn	da, am revenit pe open suse dupa o pauza cu linux mint :)
+2011-09-26 18:01:48	daniyl	si cum ti se pare opensuse
+2011-09-26 18:02:08	daniyl	e greoi asa
+2011-09-26 18:02:18	@Creationn	pai am experienta cu el vreo 5 ani
+2011-09-26 18:02:20	daniyl	sau e destul de accesibil
+2011-09-26 18:02:22	@Creationn	asa ca sunt obisnuit cu el
+2011-09-26 18:02:30	daniyl	aha
+2011-09-26 18:02:34	@Creationn	pai depinde ce vrei de la sistem de operare
+2011-09-26 18:02:44	daniyl	unincepator s-ar descurca
+2011-09-26 18:02:57	daniyl	e ca sa vreau
+2011-09-26 18:03:04	daniyl	utilizator normal
+2011-09-26 18:03:14	daniyl	net muzica filme chat
+2011-09-26 18:03:15	daniyl	mess
+2011-09-26 18:03:17	@Creationn	aha
+2011-09-26 18:03:25	daniyl	d-astea
+2011-09-26 18:03:34	daniyl	libreoffice
+2011-09-26 18:03:37	@Creationn	pai eu zic ca te-ai descurca, eventual te documentezi despre distributie , incerci in virtual box
+2011-09-26 18:03:40	@Creationn	si asa inveti
+2011-09-26 18:03:44	@Creationn	are toate astea
+2011-09-26 18:04:04	daniyl	dar am auzit ca opensuse are si variante care se cumpara
+2011-09-26 18:04:14	daniyl	sau programe
+2011-09-26 18:04:30	@Creationn	da
+2011-09-26 18:04:32	daniyl	nu stiu exact
+2011-09-26 18:04:41	@Creationn	suse linux desktop si suse linux enterprise server
+2011-09-26 18:04:45	@Creationn	alea sunt pe bani
+2011-09-26 18:04:50	@Creationn	openSUSE este gratis
+2011-09-26 18:04:56	daniyl	aha
+2011-09-26 18:05:55	daniyl	este comunitate si in romania
+2011-09-26 18:06:07	@Creationn	da, este, dar este mica
+2011-09-26 18:06:21	daniyl	au forum ceva
+2011-09-26 18:06:26	@Creationn	http://www.suseromania.ro/
+2011-09-26 18:06:29	@Creationn	da, au forum
+2011-09-26 18:06:42	@Creationn	documentatie aici: http://doc.opensuse.org/
+2011-09-26 18:06:44	daniyl	ok
+2011-09-26 18:06:53	daniyl	nu stiu ce sa zic
+2011-09-26 18:06:59	@Creationn	cel mai bine poti invata un sistem de operare, indiferent de natura lui in virtaul box
+2011-09-26 18:07:05	@Creationn	vbox te scuteste de probleme
+2011-09-26 18:07:11	daniyl	poate am sa-ncrc
+2011-09-26 18:07:14	@Creationn	in caz ca gresesti
+2011-09-26 18:07:37	daniyl	mi-e mi se pare greu lmde dapoi opensuse
+2011-09-26 18:07:56	@Creationn	http://creationn.wordpress.com/tutoriale-video/ aici ai tutoriale video cu mai multe distributii linux printre care si opensuse
+2011-09-26 18:08:08	@Creationn	fiecare arata cum sunt instalate distributiile
+2011-09-26 18:08:32	@Creationn	ai si lmde
+2011-09-26 18:08:50	daniyl	si astea de suntpe bani ce au asa special
+2011-09-26 18:08:59	@Creationn	care ?
+2011-09-26 18:10:05	daniyl	suse linux si suse linux enterprise
+2011-09-26 18:10:25	@Creationn	pai au suport tehnic mai lung, ca si update-uri
+2011-09-26 18:10:49	@Creationn	in rest nu stiu ce mai are in plus, ca nu ma interesat sa fiu sincer
+2011-09-26 18:10:57	@Creationn	parca si call center dedicat
+2011-09-26 18:11:05	@Creationn	ptr clienti
+2011-09-26 18:18:08	<--	daniyl (~daniyl@79.112.9.129) has quit (Ping timeout: 248 seconds)
+2011-09-26 18:35:56	<--	Creationn (~creatura@f79-118-250-36.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-09-26 18:40:52	-->	Creationn (~creatura@f79-118-250-36.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-26 19:21:04	--	Mode #linuxmint-ro [+o Creationn] by nkn
+2011-09-26 19:21:21	@Creationn	ms ms
+2011-09-26 19:21:46		[nkn back: gone 05:05:40]
+2011-09-26 19:21:54	@nkn	cu neplacere!
+2011-09-26 19:30:57	@Creationn	dar desigur
+2011-09-26 19:44:00	@nkn	>.>
+2011-09-26 19:46:02	<--	Creationn (~creatura@f79-118-250-36.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-09-26 19:49:29	-->	Creationn (~creatura@f79-118-250-36.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-26 19:54:37	--	Mode #linuxmint-ro [+o Creationn] by nkn
+2011-09-26 21:55:16	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-09-26 21:57:37	@nkn	Creationn: acum am citit ce s-a scris, ce vroiai? :P
+2011-09-26 21:59:11		[nkn away: not around]
+2011-09-26 22:05:02	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-09-26 22:21:21	@Creationn	nimic
+2011-09-26 22:21:26	@Creationn	era vb de daniyl :))
+2011-09-26 22:21:28	@Creationn	dar a iesit
+2011-09-26 22:21:36	@Creationn	mai revine el
+2011-09-26 22:21:41	<--	Creationn (~creatura@f79-118-250-36.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-09-26 22:49:35		[nkn back: gone 00:50:23]
+2011-09-27 00:03:43		irc: disconnected from server
+2011-09-27 00:14:30	-->	nkn (~nkn@82.137.15.101) has joined #linuxmint-ro
+2011-09-27 00:14:30	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-27 00:14:30	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-27 00:14:30	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ nkn]
+2011-09-27 00:14:30	--	Channel #linuxmint-ro: 3 nicks (2 ops, 0 halfops, 0 voices, 1 normal)
+2011-09-27 00:14:38	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-27 00:15:39		irc: disconnected from server
+2011-09-27 00:17:18	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-27 00:17:18	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-27 00:17:18	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-27 00:17:18	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ nkn]
+2011-09-27 00:17:18	--	Channel #linuxmint-ro: 3 nicks (2 ops, 0 halfops, 0 voices, 1 normal)
+2011-09-27 00:17:27	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-27 00:30:54		irc: disconnected from server
+2011-09-27 08:17:32	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-27 08:17:32	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-27 08:17:32	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-27 08:17:32	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ nkn]
+2011-09-27 08:17:32	--	Channel #linuxmint-ro: 3 nicks (2 ops, 0 halfops, 0 voices, 1 normal)
+2011-09-27 08:17:32	--	Notice(pratchett.freenode.net): [freenode-info] channel flooding and no channel staff around to help? Please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+2011-09-27 08:17:52	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-27 08:45:40	-->	Creationn (~creatura@f79-118-216-194.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-27 08:54:16		irc: disconnected from server
+2011-09-27 09:01:51	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-27 09:01:51	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-27 09:01:51	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-27 09:01:51	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn nkn]
+2011-09-27 09:01:51	--	Channel #linuxmint-ro: 4 nicks (2 ops, 0 halfops, 0 voices, 2 normals)
+2011-09-27 09:02:00	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-27 09:37:03		irc: disconnected from server
+2011-09-27 09:46:51	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-27 09:46:51	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-27 09:46:51	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-27 09:46:51	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn nkn]
+2011-09-27 09:46:51	--	Channel #linuxmint-ro: 4 nicks (2 ops, 0 halfops, 0 voices, 2 normals)
+2011-09-27 09:46:58	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-27 09:53:28		irc: disconnected from server
+2011-09-27 10:00:17	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-27 10:00:17	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-27 10:00:17	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-27 10:00:17	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn nkn]
+2011-09-27 10:00:17	--	Channel #linuxmint-ro: 4 nicks (2 ops, 0 halfops, 0 voices, 2 normals)
+2011-09-27 10:00:25	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-27 10:48:27		irc: disconnected from server
+2011-09-27 11:25:03	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-27 11:25:03	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-27 11:25:03	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-27 11:25:03	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn nkn]
+2011-09-27 11:25:03	--	Channel #linuxmint-ro: 4 nicks (2 ops, 0 halfops, 0 voices, 2 normals)
+2011-09-27 11:25:11	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-27 15:43:35	-->	xuser1 (~x-man@92.80.182.253) has joined #linuxmint-ro
+2011-09-27 15:52:27		[nkn away: not around]
+2011-09-27 17:31:50	<--	xuser1 (~x-man@92.80.182.253) has quit (Quit: Leaving.)
+2011-09-27 17:40:51	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-09-27 19:19:44	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-09-27 21:14:45		[nkn back: gone 05:22:17]
+2011-09-27 22:06:45	<--	Creationn (~creatura@f79-118-216-194.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-09-28 00:24:15		irc: disconnected from server
+2011-09-28 08:25:31	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-28 08:25:31	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-28 08:25:31	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-28 08:25:31	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ nkn]
+2011-09-28 08:25:31	--	Channel #linuxmint-ro: 3 nicks (2 ops, 0 halfops, 0 voices, 1 normal)
+2011-09-28 08:25:51	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-28 10:43:08		irc: disconnected from server
+2011-09-28 10:44:47	-->	nkn (~nkn@82.137.15.42) has joined #linuxmint-ro
+2011-09-28 10:44:47	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-28 10:44:47	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-28 10:44:47	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ nkn]
+2011-09-28 10:44:47	--	Channel #linuxmint-ro: 3 nicks (2 ops, 0 halfops, 0 voices, 1 normal)
+2011-09-28 10:44:59	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-28 10:46:39		irc: disconnected from server
+2011-09-28 10:47:49	-->	nkn (~nkn@79.118.250.37) has joined #linuxmint-ro
+2011-09-28 10:47:49	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-28 10:47:49	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-28 10:47:49	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ nkn]
+2011-09-28 10:47:49	--	Channel #linuxmint-ro: 3 nicks (2 ops, 0 halfops, 0 voices, 1 normal)
+2011-09-28 10:48:01	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-28 10:49:03		[nkn away: not around]
+2011-09-28 13:31:13	-->	Creationn (~creatura@f79-118-218-93.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-28 16:24:33	<--	Creationn (~creatura@f79-118-218-93.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-09-28 16:31:04	-->	Creationn (~creatura@f79-118-218-93.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-28 16:38:25		[nkn back: gone 05:49:21]
+2011-09-28 18:05:18	-->	xuser1 (~x-man@92.85.251.8) has joined #linuxmint-ro
+2011-09-28 18:11:16	<--	xuser1 (~x-man@92.85.251.8) has quit (Quit: Leaving.)
+2011-09-28 19:20:14		irc: disconnected from server
+2011-09-28 20:04:18	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-28 20:04:18	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-28 20:04:18	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-28 20:04:18	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn nkn]
+2011-09-28 20:04:18	--	Channel #linuxmint-ro: 4 nicks (2 ops, 0 halfops, 0 voices, 2 normals)
+2011-09-28 20:04:26	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-28 20:29:18	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-09-28 20:31:08	daniyl	sal spuneti-mi si mie cum instalez virtualbox in lmde
+2011-09-28 20:31:49	nkn	nu e ppa?
+2011-09-28 20:33:37	nkn	http://wiki.debian.org/VirtualBox
+2011-09-28 20:34:09	nkn	ai si deb pe site pentru squeeze si lenny
+2011-09-28 20:34:14	nkn	https://www.virtualbox.org/wiki/Linux_Downloads
+2011-09-28 20:34:33	nkn	si ai si ppa..
+2011-09-28 20:37:00	daniyl	pot sa-l instalez varianta pentru squeeze
+2011-09-28 21:06:14	daniyl	multumesc
+2011-09-28 21:29:58	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-09-28 22:24:55	<--	Creationn (~creatura@f79-118-218-93.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-09-28 22:28:23	-->	trilogy (~trilogy@188.26.241.198) has joined #linuxmint-ro
+2011-09-28 22:38:29	<--	trilogy (~trilogy@188.26.241.198) has quit (Quit: WeeChat 0.3.4)
+2011-09-28 23:43:32		irc: disconnected from server
+2011-09-29 08:08:41	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-29 08:08:42	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-29 08:08:42	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-29 08:08:42	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ daniyl nkn]
+2011-09-29 08:08:42	--	Channel #linuxmint-ro: 4 nicks (2 ops, 0 halfops, 0 voices, 2 normals)
+2011-09-29 08:09:01	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-29 08:38:32	daniyl	sal
+2011-09-29 08:38:57	daniyl	nkn stii cumva cum as pute instala tv-maxe in lmde
+2011-09-29 08:39:09	daniyl	din ppa
+2011-09-29 08:39:13	nkn	din ppa..
+2011-09-29 08:39:27	daniyl	nu stiu cum sa aduc ppa-ul in sofware sources
+2011-09-29 08:39:51	nkn	pai te duci pe launchpad si copiezi ppa-ul si ii dai copy si paste
+2011-09-29 08:39:52	daniyl	da ca din .deb imi spune ca nu are dependinta sp-auth
+2011-09-29 08:40:04	nkn	sp-auth poti instala separat
+2011-09-29 08:40:58	daniyl	pai am dat in terminal sudo add-apt-repository ppa:venerix/blug
+2011-09-29 08:41:15	daniyl	si spune ca nu gaseste sursele
+2011-09-29 08:42:32	nkn	http://code.google.com/p/sopcast-player/downloads/detail?name=sp-auth_3.0.1_i386.deb&can=1&q=
+2011-09-29 08:42:46	nkn	instaleaza sp-auth de acolo si tv-maxe din sursa
+2011-09-29 08:43:00	nkn	ca deb-ul de tv-maxe e foarte vechi
+2011-09-29 08:43:31	daniyl	pai nu imi aduce sursa
+2011-09-29 08:43:54	nkn	o descarci de pe site-ul lui si il compilezi..
+2011-09-29 08:44:13	daniyl	aha
+2011-09-29 08:44:17	daniyl	am inteles
+2011-09-29 08:44:21	nkn	exista deb 0.06.3 dar ultima versiune este 0.06.4 care are doar sursa
+2011-09-29 08:45:01	nkn	dar daca aveai mint normal sau ubuntu mergea ppa-ul lui v3n3rix ca are pachete doar pentru ubuntu
+2011-09-29 08:45:45	daniyl	deci pentru lmde nu merge ppa-ul lui venerix
+2011-09-29 08:47:07	nkn	pai nu te-ai uitat jos la pachete ca scrie doar ubuntu
+2011-09-29 08:47:48	nkn	eu am incercat sa fac pachet deb din sursa dar mereu imi da eroare ca ii lipseste naiba stie ce..
+2011-09-29 08:48:31	daniyl	aha deci este o problema ceva
+2011-09-29 08:48:37	daniyl	ok merci
+2011-09-29 08:49:08	nkn	nu e problema, ca v3n3rix mereu a putut, dar eu nu stiu cum, nu imi iese
+2011-09-29 08:49:49	nkn	dar il poti instala compiland din sursa
+2011-09-29 08:49:54	nkn	defapt daca iei arhiva asta
+2011-09-29 08:50:00	nkn	http://code.google.com/p/tv-maxe/downloads/detail?name=tv-maxe-0.06.4.tar.gz&can=2&q=
+2011-09-29 08:50:09	nkn	e standalone, nu trebuie sa-l instalezi
+2011-09-29 08:50:56	nkn	dar vezi sa ai instalat sp-auth pentru link-urile care folosesc sopcast, restul care nu il folosesc o sa mearga si fara
+2011-09-29 08:52:18	-->	Creationn (~creatura@f79-118-219-75.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-29 08:52:52	nkn	s-a trezit creatura :))
+2011-09-29 08:53:28	nkn	cred ca manca oameni la mic dejun :P
+2011-09-29 08:53:42	nkn	ce porcarie, nu merge google....
+2011-09-29 08:54:28	nkn	uite sp-auth versiune mai noua .deb   http://code.google.com/p/sopcast-player/downloads/detail?name=sp-auth_3.2.6_all.deb&can=4&q=
+2011-09-29 09:27:22	Creationn	:))
+2011-09-29 09:27:38	Creationn	sunt treaz de mult nea knn ;))
+2011-09-29 09:32:22	nkn	mda te cred, trebuie mancati in timp ce dorm sau ceva de genu, daca nu fug :))
+2011-09-29 09:34:08	Creationn	nuuu
+2011-09-29 09:34:09	Creationn	te inseli
+2011-09-29 09:34:14	Creationn	am mancata acum 3 luni
+2011-09-29 09:34:16	Creationn	acum diger
+2011-09-29 09:34:18	Creationn	lent
+2011-09-29 09:34:25	Creationn	:D
+2011-09-29 09:35:14	nkn	:))
+2011-09-29 10:19:41	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-09-29 10:51:45		[nkn away: movie]
+2011-09-29 11:17:39		[nkn away: not around]
+2011-09-29 14:40:56		[nkn back: gone 03:23:16]
+2011-09-29 15:20:08	<--	Creationn (~creatura@f79-118-219-75.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-09-29 15:23:51	-->	Creationn (~creatura@f79-118-219-75.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-29 16:01:37	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-09-29 16:07:57	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-09-29 16:23:06		[nkn away: not around]
+2011-09-29 16:27:33	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-09-29 16:37:43	-->	xuser1 (~x-man@92.80.145.251) has joined #linuxmint-ro
+2011-09-29 17:07:33	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-09-29 17:21:11	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-09-29 17:37:30	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-09-29 18:17:38		[nkn back: gone 01:54:32]
+2011-09-29 18:36:44	<--	xuser1 (~x-man@92.80.145.251) has quit (Quit: Leaving.)
+2011-09-29 18:59:28	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-09-29 19:08:46	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-09-29 19:10:02	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-09-29 20:00:13	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-09-29 20:11:44	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-09-29 20:24:39	-->	condor__ (~condor@89.37.70.70) has joined #linuxmint-ro
+2011-09-29 20:24:53	condor__	sal lume!
+2011-09-29 20:27:04	condor__	slaba miscarea!
+2011-09-29 20:27:38	nkn	salut
+2011-09-29 20:28:28	condor__	ce se mai aude fratilor? vad ca e cam tacere...se rezolva oarece probleme ?
+2011-09-29 20:29:10	condor__	pe forum e la fel...
+2011-09-29 20:29:15	nkn	eu ma joc megaglest
+2011-09-29 20:29:20	Creationn	:))
+2011-09-29 20:29:29	Creationn	si iar te bat aia nkn
+2011-09-29 20:29:46	condor__	eram convins! cam asta e treba!
+2011-09-29 20:29:55	nkn	online Creationn 
+2011-09-29 20:30:15	Creationn	even worst
+2011-09-29 20:30:30	Creationn	joc placut sa ai
+2011-09-29 20:30:33	Creationn	:)
+2011-09-29 20:30:47	nkn	am in echipa pe cineva care stie sa joace si pe unul care nici macar nu trimite 1 sa ajute cand suntem atacati...
+2011-09-29 20:31:00	Creationn	cel mai bine asa
+2011-09-29 20:31:00	Creationn	:D
+2011-09-29 20:31:02	Creationn	drama maxima
+2011-09-29 20:32:15	condor__	obscuritate absoluta! ... cocana perfida ma induse-se in eroare!  (din "O noapte furtunoasa")
+2011-09-29 20:32:21	condor__	cocoana*
+2011-09-29 20:32:56	Creationn	salut condor__
+2011-09-29 20:33:04	Creationn	eu unul ma bag sa ma joc un urban terror sau quake wars
+2011-09-29 20:33:09	Creationn	bun si demo-ul la ceva
+2011-09-29 20:33:16	Creationn	see ya guys around
+2011-09-29 20:33:20	condor__	sal! s-a facut oarece tuica anu' asta?
+2011-09-29 20:34:07	Creationn	habar n-am n-am
+2011-09-29 20:34:12	Creationn	condor__:  sau nkn
+2011-09-29 20:34:32	Creationn	ajutati-l voi pe daniyl sa instaleze tvmaxe sub mint debian edition
+2011-09-29 20:34:34	nkn	eu am tuica, dar nu stiu daca s-a facut anu asta
+2011-09-29 20:34:42	nkn	i-am zis de dimineata cum...
+2011-09-29 20:34:52	condor__	ok, spor la treaba in cazul asta
+2011-09-29 20:35:02	Creationn	nkn: ... nu stiu atunci
+2011-09-29 20:35:19	condor__	ce e aea...tvmaxe ?
+2011-09-29 20:36:05	nkn	uitete pe forumul ubuntu
+2011-09-29 20:36:24	nkn	program de vazut tv online pe linux
+2011-09-29 20:36:26	nkn	foarte bun
+2011-09-29 20:36:27	condor__	aoleo...e-asa de naspa?
+2011-09-29 20:37:16	nkn	adica
+2011-09-29 20:37:17	condor__	sa vad ce dracie mai e si aea...:P
+2011-09-29 20:37:27	nkn	e foarte bun, foarte folositor
+2011-09-29 20:37:35	condor__	pai daca e pe ubuntuuu...
+2011-09-29 20:37:37	nkn	iar daca ai ubuntu/mint e usor de instalat
+2011-09-29 20:37:46	nkn	ca are v3n3rix ppa pentru el
+2011-09-29 20:37:52	condor__	am LMDE...
+2011-09-29 20:37:54	nkn	daca ai arch, a pus v3n3rix in aur
+2011-09-29 20:38:22	nkn	pentru lmde trebuie sa instalezi sp-auth si sa compilezi programul..sau sa iei versiunea standalone
+2011-09-29 20:38:45	nkn	ca nu e pachet pentru debian, 
+2011-09-29 20:38:55	condor__	aha...ok, ms!
+2011-09-29 20:39:16	nkn	e un deb, dar nu stiu cum merge pe debian
+2011-09-29 20:39:21	nkn	e de la o versiune anterioara
+2011-09-29 20:39:59	condor__	incerc o compilare...sa nu-mi ceara dependente multe ca-l dau dreq!
+2011-09-29 20:40:25	nkn	sp-auth, vlc, mplayer, si nu mai stiu
+2011-09-29 20:40:28	nkn	astea sunt principale
+2011-09-29 20:40:56	condor__	ai fun link, ceva...ca mi-e cam peste mana sa intru pe un site de...ubuntu...
+2011-09-29 20:41:09	nkn	dai google
+2011-09-29 20:41:14	nkn	tv-maxe
+2011-09-29 20:41:17	condor__	ok, asa da!
+2011-09-29 20:41:38	condor__	once again, tnx!
+2011-09-29 20:41:40	nkn	si sp-auth, ca si ala o sa-ti trebuiasca
+2011-09-29 20:42:23	nkn	sp-auth e pentru adresele de sopcast
+2011-09-29 20:42:51	condor__	aha, multam!
+2011-09-29 20:45:27	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-09-29 20:57:42		[nkn away: not around]
+2011-09-29 21:39:40	condor__	nb tuturor! bye!
+2011-09-29 21:39:44	<--	condor__ (~condor@89.37.70.70) has left #linuxmint-ro ("all is well when ends well...")
+2011-09-29 21:43:55		[nkn back: gone 00:46:13]
+2011-09-29 22:23:25	<--	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has quit (Ping timeout: 258 seconds)
+2011-09-29 22:23:25		irc: disconnected from server
+2011-09-29 22:23:42	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-29 22:23:43	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-29 22:23:43	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-29 22:23:43	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn nkn]
+2011-09-29 22:23:43	--	Channel #linuxmint-ro: 4 nicks (2 ops, 0 halfops, 0 voices, 2 normals)
+2011-09-29 22:23:54	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-29 22:32:06	<--	Creationn (~creatura@f79-118-219-75.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-09-29 23:05:46		irc: disconnected from server
+2011-09-30 09:16:13	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-30 09:16:13	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-09-30 09:16:13	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-09-30 09:16:13	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ nkn]
+2011-09-30 09:16:13	--	Channel #linuxmint-ro: 3 nicks (2 ops, 0 halfops, 0 voices, 1 normal)
+2011-09-30 09:16:33	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-09-30 09:44:00	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-09-30 09:45:29	-->	Creationn (~creatura@f79-118-218-226.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-30 09:52:14	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-09-30 10:32:11	<--	Creationn (~creatura@f79-118-218-226.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-09-30 10:42:40	-->	Creationn (~creatura@f79-118-218-226.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-30 11:22:33	-->	Creationn1 (~creatura@f79-118-218-226.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-09-30 11:30:06	<--	Creationn (~creatura@f79-118-218-226.pitesti.rdsnet.ro) has quit (*.net *.split)
+2011-09-30 11:30:07	<--	ChanServ (ChanServ@services.) has quit (*.net *.split)
+2011-09-30 11:39:42	-->	ChanServ (ChanServ@services.) has joined #linuxmint-ro
+2011-09-30 11:39:42	--	Mode #linuxmint-ro [+o ChanServ] by barjavel.freenode.net
+2011-09-30 11:48:21		[nkn away: movie]
+2011-09-30 15:39:18		[nkn back: gone 03:50:54]
+2011-09-30 16:05:40	--	Creationn1 is now known as Creationn
+2011-09-30 16:05:52	--	Mode #linuxmint-ro [+oo Creationn nkn] by [XrCT]Creation
+2011-09-30 17:09:27	-->	xuser1 (~x-man@92.85.246.83) has joined #linuxmint-ro
+2011-09-30 18:13:40	<--	xuser1 (~x-man@92.85.246.83) has quit (Ping timeout: 256 seconds)
+2011-09-30 19:36:14	-->	xuser1 (~x-man@92.85.246.70) has joined #linuxmint-ro
+2011-09-30 20:02:36	<--	xuser1 (~x-man@92.85.246.70) has quit (Quit: Leaving.)
+2011-09-30 22:20:32	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-09-30 22:30:42	<--	Creationn (~creatura@f79-118-218-226.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-09-30 22:39:45	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-09-30 22:40:29	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-09-30 22:47:53	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-09-30 22:49:18		[nkn away: not around]
+2011-09-30 23:22:54		[nkn back: gone 00:33:35]
+2011-10-01 00:34:31		irc: disconnected from server
+2011-10-01 07:30:42	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-01 07:30:42	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-01 07:30:42	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-01 07:30:42	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ nkn]
+2011-10-01 07:30:42	--	Channel #linuxmint-ro: 3 nicks (2 ops, 0 halfops, 0 voices, 1 normal)
+2011-10-01 07:31:02	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-01 08:15:45	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-10-01 08:33:16	-->	Creationn (~creatura@79.118.253.125) has joined #linuxmint-ro
+2011-10-01 08:53:16	-->	xuser1 (~x-man@92.82.243.130) has joined #linuxmint-ro
+2011-10-01 09:25:09	xuser1	salut
+2011-10-01 09:35:31	<--	Creationn (~creatura@79.118.253.125) has quit (Quit: Leaving.)
+2011-10-01 09:41:42	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-10-01 09:48:48	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-10-01 09:52:17	nkn	salut
+2011-10-01 10:21:30	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-10-01 10:37:38	<--	xuser1 (~x-man@92.82.243.130) has quit (Quit: Leaving.)
+2011-10-01 11:50:06		irc: disconnected from server
+2011-10-01 11:50:54	-->	nkn (~nkn@79.118.250.37) has joined #linuxmint-ro
+2011-10-01 11:50:54	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-01 11:50:54	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-01 11:50:54	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ nkn]
+2011-10-01 11:50:54	--	Channel #linuxmint-ro: 3 nicks (2 ops, 0 halfops, 0 voices, 1 normal)
+2011-10-01 11:51:02	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-01 13:06:12	-->	Creationn (~creatura@f79-118-251-254.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-01 13:20:03		irc: disconnected from server
+2011-10-01 13:20:20	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-01 13:20:20	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-01 13:20:20	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-01 13:20:20	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn nkn]
+2011-10-01 13:20:20	--	Channel #linuxmint-ro: 4 nicks (2 ops, 0 halfops, 0 voices, 2 normals)
+2011-10-01 13:20:20	--	Notice(pratchett.freenode.net): [freenode-info] if you're at a conference and other people are having trouble connecting, please mention it to staff: http://freenode.net/faq.shtml#gettinghelp
+2011-10-01 13:20:29	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-01 13:28:07		irc: disconnected from server
+2011-10-01 13:29:20	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-01 13:29:20	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-01 13:29:20	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-01 13:29:20	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn nkn]
+2011-10-01 13:29:20	--	Channel #linuxmint-ro: 4 nicks (2 ops, 0 halfops, 0 voices, 2 normals)
+2011-10-01 13:29:29	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-01 13:35:47		irc: disconnected from server
+2011-10-01 13:36:44	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-01 13:36:44	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-01 13:36:44	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-01 13:36:44	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn nkn]
+2011-10-01 13:36:44	--	Channel #linuxmint-ro: 4 nicks (2 ops, 0 halfops, 0 voices, 2 normals)
+2011-10-01 13:36:53	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-01 13:37:16	-->	trilogy (~trilogy@86.104.61.126) has joined #linuxmint-ro
+2011-10-01 13:40:43	<--	trilogy (~trilogy@86.104.61.126) has quit (Client Quit)
+2011-10-01 14:06:19		[nkn away: not around]
+2011-10-01 15:32:37		[nkn back: gone 01:26:18]
+2011-10-01 17:29:55	nkn	Creationn: este beta nu ma in doiesc ca pe viitor v
+2011-10-01 17:30:04	nkn	in doiesc? nu e legat?
+2011-10-01 17:31:52	nkn	la tine pe blog
+2011-10-01 17:32:38	nkn	la articolul cu desura
+2011-10-01 18:09:42	Creationn	acum ma uit
+2011-10-01 18:09:55	Creationn	miroea prea bine a peste cand am creat articolul :))
+2011-10-01 18:10:29	Creationn	done nkn
+2011-10-01 18:10:31	Creationn	:)
+2011-10-01 18:10:36	Creationn	ms
+2011-10-01 18:10:43	nkn	da ma ce naiba ca si la mine miroase a peste de vreo 3 ore :))
+2011-10-01 18:10:54	-->	condor__ (~condor@89.37.70.70) has joined #linuxmint-ro
+2011-10-01 18:11:08	condor__	salut lume!
+2011-10-01 18:11:21	nkn	salut
+2011-10-01 18:11:47	condor__	ce se mai aude ?
+2011-10-01 18:12:11	Creationn	salut condor__
+2011-10-01 18:12:19	Creationn	cica a aparut beta 2 de la noobuntu
+2011-10-01 18:12:26	Creationn	merge unity si sub vbox din ce vad eu
+2011-10-01 18:12:29	nkn	m-am lasat de lxterminal si am trecut la urxvt :P
+2011-10-01 18:12:36	nkn	noobuntu?
+2011-10-01 18:12:44	Creationn	ubuntu
+2011-10-01 18:12:46	Creationn	asa ii zic eu
+2011-10-01 18:12:51	nkn	noob :))
+2011-10-01 18:12:51	Creationn	sau maneaua linux
+2011-10-01 18:12:57	Creationn	daca vrei tu :))
+2011-10-01 18:13:05	condor__	noob e o extensie sau ce?
+2011-10-01 18:13:10	nkn	da
+2011-10-01 18:13:17	condor__	am aflat o treaba naspa rau...e zvon sau va fi realitate...
+2011-10-01 18:13:21	nkn	deriva de la newbie
+2011-10-01 18:13:26	nkn	care e incepator
+2011-10-01 18:13:50	condor__	http://www.linuxjournal.com/content/microsoft%E2%80%99s-take-uefi-may-impede-linux-and-that%E2%80%99s-being-polite
+2011-10-01 18:13:55	nkn	dar ca sa iti bati joc de un incepator, de un newbie ii zici noob sau nub sau n00b, etc
+2011-10-01 18:14:45	condor__	in linux si noi am fost newbies...
+2011-10-01 18:14:46	nkn	e veche stirea
+2011-10-01 18:15:02	condor__	este dar nasoala...
+2011-10-01 18:15:23	Creationn	da este veche condor__ si eu am zis despre asta condor__
+2011-10-01 18:15:35	Creationn	ideea e ca pc-urile care vin cu windows preinstalat
+2011-10-01 18:15:37	Creationn	o sa sufere
+2011-10-01 18:15:45	Creationn	dar daca il faci pe bucati nu prea vad cum
+2011-10-01 18:15:53	Creationn	uimitor noobuntu are suport ptr uefi
+2011-10-01 18:15:59	condor__	sa speram ca marile puteri ale lumii vor reactiona
+2011-10-01 18:16:02	Creationn	din ce am gasit pe google o data
+2011-10-01 18:16:11	nkn	grub2 are...nu ubuntu
+2011-10-01 18:16:14	Creationn	prevad niste procese antitrust
+2011-10-01 18:16:15	Creationn	:))
+2011-10-01 18:16:35	Creationn	nkn: da, el grub2
+2011-10-01 18:16:42	condor__	cum au mai fost si cum a platit la greu micro$...
+2011-10-01 18:16:53	Creationn	https://help.ubuntu.com/community/UEFIBooting
+2011-10-01 18:17:21	condor__	de 30 de ani terorizeaza lumea vanzand tabla-nmultirii...
+2011-10-01 18:18:00	Creationn	personal la laptoape vad mai rau faza cu uefi
+2011-10-01 18:18:13	Creationn	oricum daca cumperi pc din bucati si nu cu windows preinstalat
+2011-10-01 18:18:17	Creationn	nu prea ai avea probleme
+2011-10-01 18:18:21	nkn	mai frumos https://wiki.archlinux.org/index.php/GRUB2#UEFI_systems
+2011-10-01 18:18:49	nkn	oricum o sa se gaseasca un workaround
+2011-10-01 18:19:02	Creationn	nkn: da se va gasi
+2011-10-01 18:19:04	Creationn	si in plus
+2011-10-01 18:19:14	Creationn	uefi e pain in hte ass ptr incepatori
+2011-10-01 18:19:19	Creationn	la cate comenzi tre sa dea
+2011-10-01 18:19:19	condor__	si barem daca ar sti acest individ sa afle in asea zisul sau SO cat face de ex.: 2^64 ... din povestea sahului...
+2011-10-01 18:19:34	condor__	bill gates adica
+2011-10-01 18:19:36	Creationn	si pasi de urmat mai ales in terminal
+2011-10-01 18:20:13	Creationn	pana atunci sunt sigur ca vom avea un grub2 ca  lumea
+2011-10-01 18:20:22	Creationn	si distributii linux care isi vor crea certificate proprii
+2011-10-01 18:20:32	Creationn	sa nu mai zic de workarounds precum a zis nkn
+2011-10-01 18:20:41	Creationn	deci condor__ calme-toi mon ami :D
+2011-10-01 18:20:51	condor__	stiu si eu?
+2011-10-01 18:21:22	Creationn	au reusit crackerii sa faca imagi iso cu apple ptr amd si nu se poate face ceva ptr uefi
+2011-10-01 18:21:23	Creationn	:)
+2011-10-01 18:21:25	Creationn	ar fi aiurea
+2011-10-01 18:21:33	condor__	MAC-ul e sistem inchis din toate p.d.v.-urile...treaba lor...
+2011-10-01 18:22:18	condor__	pai daca va fi cod scris in HARDWARE...ce-i faci?
+2011-10-01 18:22:25	nkn	https://bbs.archlinux.ro/viewtopic.php?pid=1821#p1821
+2011-10-01 18:22:58	nkn	http://en.wikipedia.org/wiki/AACS_encryption_key_controversy
+2011-10-01 18:23:34	Creationn	nkn: intelegem ca esti fan arch deci mai cauta si pe alte tarlale despre asa ceva :P
+2011-10-01 18:23:36	nkn	asa cum zice si pe forum, posibil sa fie cum s-a mai intamplat, scrie pe wikipedia
+2011-10-01 18:24:59	nkn	vroiam sa arat cum s-a zis pe forum acolo ca posibil sa fie cum s-a mai intamplat in 2007 si ce s-a intamplat scrie pe link-ul din post si pe cel care l-am scris eu aici de pe wikipedia
+2011-10-01 18:25:56	condor__	intre timp au mai citit si cei de la ms cate ceva, nu?
+2011-10-01 18:26:49	condor__	ms se bazeaza pe masa bigota de (l)useri de win...
+2011-10-01 18:26:54	Creationn	vad ca sidro este si pe acolo
+2011-10-01 18:26:55	Creationn	:)
+2011-10-01 18:27:23	Creationn	condor__: intre timp microshit se justifica ca , cheilor lor nu blocheaza instalarea altor sisteme de operare
+2011-10-01 18:27:28	condor__	vor da buzna la w8 si-atunci sa te tii...
+2011-10-01 18:27:41	Creationn	http://www.h-online.com/open/news/item/Microsoft-responds-to-secure-boot-accusations-Update-1349170.html
+2011-10-01 18:28:20	condor__	sunt convins ca si-au pregatit "artileria" cand au pornit pe drumul asta...
+2011-10-01 18:30:14	Creationn	normal
+2011-10-01 18:30:32	Creationn	ca se vb de arch pe aici de cand am zis ca il incerc sub vbox nu am ajuns
+2011-10-01 18:30:38	Creationn	am pus opensuse factory :))
+2011-10-01 18:31:11	condor__	si cred ca vor mai fi si alte episoade precum cel de la Budapesta...cu ouale...
+2011-10-01 18:34:08	Creationn	nu il stiu ...
+2011-10-01 18:34:11	Creationn	care e treab?
+2011-10-01 18:34:14	Creationn	*treaba
+2011-10-01 18:34:59	condor__	pai a fost data scena petrecuta la Univ. din Budapesta si pe youtube...
+2011-10-01 18:35:14	condor__	daca ceri ceva gen Steve Ballmer...
+2011-10-01 18:36:21	Creationn	inteleg
+2011-10-01 18:36:28	Creationn	baieti eu unul ma bag sa ma mai joc
+2011-10-01 18:36:32	Creationn	ne mai auzim
+2011-10-01 18:36:38	condor__	spor!
+2011-10-01 18:36:45	Creationn	ms fain
+2011-10-01 18:36:46	Creationn	la fel si tie
+2011-10-01 18:37:10	Creationn	PS: din nou 3 oameni fac cat 10 pe canalul asta la numar de linii scris in circa 10 minute
+2011-10-01 18:38:16	nkn	mda :))
+2011-10-01 18:38:22	nkn	dar mai mult voi
+2011-10-01 18:38:50	nkn	spor la joc
+2011-10-01 18:39:16	condor__	Ballmer egged in Budapest...
+2011-10-01 18:40:15	condor__	http://www.youtube.com/watch?v=mtBQ4UCXQeo
+2011-10-01 18:41:12	nkn	ma duc sa imi iau ceva de mancare
+2011-10-01 18:47:01	condor__	nkn, esti pe "coverta"?
+2011-10-01 18:52:11	nkn	ce e aia
+2011-10-01 18:52:37	condor__	coverta?
+2011-10-01 18:52:43	nkn	da
+2011-10-01 18:52:49	condor__	puntea oricarui vapor...
+2011-10-01 18:53:07	condor__	in jargonul marinaresc...
+2011-10-01 18:53:23	nkn	....nu il stiu
+2011-10-01 18:54:35	condor__	lasa asta; eu tot incerc sa aleg un WM pt. arch-ul pe care l-am instalat cu probleme legate de porcaria aia de pulse-audio...
+2011-10-01 18:55:12	nkn	probleme? mie imi merge bine pulseaudio
+2011-10-01 18:55:18	condor__	pe LMDE am reusit sa-l scot definitiv si sa-l inlocuiesc cu alsa curat...
+2011-10-01 18:55:24	nkn	mereu am folosit pulseaudio
+2011-10-01 18:55:50	condor__	da, in aparenta...sunt unele aplicatiicare sufera la greu din cauza lui...
+2011-10-01 18:55:56	nkn	in arch merge alsa proaspat instalat sistemul
+2011-10-01 18:56:11	nkn	doar ca e pe mute volumul
+2011-10-01 18:56:45	condor__	am deschis alsamixer pt. asta...
+2011-10-01 18:57:10	condor__	si am deschis MM-urile...
+2011-10-01 18:57:23	nkn	si instaleaza si alsa-utils alsa-oss alsa-plugins
+2011-10-01 18:58:00	condor__	pana la coada am reusit dar cu greu...
+2011-10-01 18:58:23	condor__	la LMDE mergea nasol acest hibrid idiot...
+2011-10-01 18:58:39	condor__	s-au mai plans multi pe forum de pulse...
+2011-10-01 18:59:01	nkn	eu mereu am folosit pulse, la ubuntu ca vroiam sunet din alte tty in timp ce eram in alte tty si din toate sa se auda sunet in toate
+2011-10-01 18:59:16	condor__	da...
+2011-10-01 18:59:30	nkn	si acum in arch la fel, ca mai deschis un joc 2 in alt tty sau mai multe WM in acelasi timp in alte tty
+2011-10-01 18:59:35	condor__	erai logat root pe un tte, pe altul ca user...
+2011-10-01 18:59:39	nkn	nu
+2011-10-01 18:59:44	nkn	script
+2011-10-01 19:00:04	condor__	tty*
+2011-10-01 19:01:02	condor__	inseamna ca ai memorie la greu ...
+2011-10-01 19:01:10	condor__	RAM...
+2011-10-01 19:01:50	nkn	in ubuntu trebuia modificat un fisier ca sa poata orice utilizator sa deschida tty
+2011-10-01 19:02:03	nkn	2gb..
+2011-10-01 19:02:28	condor__	ohooo! asta e!
+2011-10-01 19:02:44	condor__	eu am 1/2 GB !!!
+2011-10-01 19:02:55	condor__	sunt mai modest...
+2011-10-01 19:02:57	nkn	in alt tty poti deschide doar WM
+2011-10-01 19:03:19	nkn	poti sa ai pe unu DE+WM, dar restul doar WM
+2011-10-01 19:03:43	nkn	mie 2gb imi ajunge perfect
+2011-10-01 19:04:00	condor__	eu nu-mi permit cu 512 MB...
+2011-10-01 19:04:06	nkn	nu vreau mai putin si mai mult nu am nevoie
+2011-10-01 19:04:21	nkn	ba da
+2011-10-01 19:04:40	nkn	dar conteaza ce folosesti..
+2011-10-01 19:05:12	condor__	oricum, pe mine nu ma pasioneaza capitolul jocuri pe pc...
+2011-10-01 19:05:23	nkn	ai putea deschide openbox fluxbox si xmonad
+2011-10-01 19:05:34	nkn	sau openbox xmonad dwm awesomewm
+2011-10-01 19:05:44	nkn	toate sunt doar WM
+2011-10-01 19:06:14	nkn	oricum sa deschizi joc in alt tty nu e nevoie sa ai WM sau DE in acel nou tty
+2011-10-01 19:07:40	nkn	dar poti deschide mai multe WM in diferite tty ca sa vezi cum e fiecare
+2011-10-01 19:08:25	condor__	se poate...eu lucrez in programare pe pc si ma deconectez cu cate un film...
+2011-10-01 19:10:19	condor__	partea naspa e ca dupa ce scriu si verific un program in linux, trebuie sa-l trec pe API-ul din vindoze
+2011-10-01 19:10:47	condor__	am clienti mai mult in win asa ca...
+2011-10-01 19:10:56	nkn	mhm..
+2011-10-01 19:11:36	nkn	si le testezi in wine sau cum
+2011-10-01 19:12:14	condor__	nu...am o droaga mai veke pe care am un w...
+2011-10-01 19:12:26	nkn	a
+2011-10-01 19:13:22	condor__	lucrez pe ala in Visual C++...
+2011-10-01 19:18:20	condor__	in arch am incercat...gnome-le...pe care l-am sters dupa o juma de ora...apoi am "bagat" KDE-ul...la fel...
+2011-10-01 19:18:56	nkn	arch are doar gnome3, gnome2 e mate
+2011-10-01 19:21:54	condor__	de fapt, pt. lucru folosesc modul text asa ca n-am probleme...editez in vim dupa care compilez si testez programele...interfata grafica o pun pe xp-ul de pe droaga...acolo am ms-visualc++
+2011-10-01 19:24:24	condor__	ok, trebuie sa ma retrag in sanul familiei iubitoare...sunt cerut cu insistenta...seara buna in continuare!
+2011-10-01 19:24:38	nkn	la fel
+2011-10-01 19:24:45	condor__	bye!
+2011-10-01 19:24:50	<--	condor__ (~condor@89.37.70.70) has left #linuxmint-ro ("all is well when ends well...")
+2011-10-01 19:44:30	-->	alondra (~alondra@89.40.149.74) has joined #linuxmint-ro
+2011-10-01 19:44:42	--	alondra is now known as calvarr
+2011-10-01 20:10:17	<--	calvarr (~alondra@89.40.149.74) has quit (Quit: WeeChat 0.3.5)
+2011-10-01 22:27:09	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-10-01 22:29:23		[nkn away: not around]
+2011-10-01 22:31:46	<--	daniyl (~daniyl@79.112.27.183) has quit (Client Quit)
+2011-10-01 22:41:23	<--	Creationn (~creatura@f79-118-251-254.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-10-01 23:40:33		[nkn back: gone 01:11:09]
+2011-10-02 00:29:09		irc: disconnected from server
+2011-10-02 00:37:15	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-02 00:37:15	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-02 00:37:15	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-02 00:37:15	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ nkn]
+2011-10-02 00:37:15	--	Channel #linuxmint-ro: 3 nicks (2 ops, 0 halfops, 0 voices, 1 normal)
+2011-10-02 00:37:15	--	Notice(leguin.freenode.net): [freenode-info] channel flooding and no channel staff around to help? Please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+2011-10-02 00:37:23	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-02 00:37:55		irc: disconnected from server
+2011-10-02 08:00:09	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-02 08:00:09	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-02 08:00:09	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-02 08:00:09	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ nkn]
+2011-10-02 08:00:09	--	Channel #linuxmint-ro: 3 nicks (2 ops, 0 halfops, 0 voices, 1 normal)
+2011-10-02 08:00:28	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-02 09:19:48	-->	Creationn (~creatura@f79-118-218-70.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-02 09:31:06	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-10-02 09:52:35	daniyl	nkn
+2011-10-02 09:52:44	nkn	daniyl
+2011-10-02 09:52:49	daniyl	am si eu o problema
+2011-10-02 09:53:03	daniyl	nu pot sa deschid radiotray in ubuntu
+2011-10-02 09:53:17	nkn	ce zice
+2011-10-02 09:53:32	daniyl	daniyl@daniyl:~$ radiotray
+2011-10-02 09:53:32	daniyl	Loading configuration...
+2011-10-02 09:53:32	daniyl	/home/daniyl/.local/share/radiotray/bookmarks.xml
+2011-10-02 09:53:32	daniyl	/home/daniyl/.local/share/radiotray/config.xml
+2011-10-02 09:53:32	daniyl	Traceback (most recent call last):
+2011-10-02 09:53:33	daniyl	  File "/usr/bin/radiotray", line 15, in <module>
+2011-10-02 09:53:37	daniyl	    radiotray.main(sys.argv[1:])
+2011-10-02 09:53:39	daniyl	  File "/usr/lib/pymodules/python2.6/radiotray/radiotray.py", line 33, in main
+2011-10-02 09:53:41	daniyl	    RadioTray()
+2011-10-02 09:53:43	daniyl	  File "/usr/lib/pymodules/python2.6/radiotray/RadioTray.py", line 52, in __init__
+2011-10-02 09:53:45	daniyl	    self.cfg_provider.loadFromFile()
+2011-10-02 09:53:47	daniyl	  File "/usr/lib/pymodules/python2.6/radiotray/XmlConfigProvider.py", line 35, in loadFromFile
+2011-10-02 09:53:49	daniyl	    self.root = etree.parse(self.filename).getroot()
+2011-10-02 09:53:51	daniyl	  File "lxml.etree.pyx", line 2692, in lxml.etree.parse (src/lxml/lxml.etree.c:49594)
+2011-10-02 09:53:53	daniyl	  File "parser.pxi", line 1500, in lxml.etree._parseDocument (src/lxml/lxml.etree.c:71364)
+2011-10-02 09:53:55	daniyl	  File "parser.pxi", line 1529, in lxml.etree._parseDocumentFromURL (src/lxml/lxml.etree.c:71647)
+2011-10-02 09:53:57	daniyl	  File "parser.pxi", line 1429, in lxml.etree._parseDocFromFile (src/lxml/lxml.etree.c:70742)
+2011-10-02 09:53:59	daniyl	  File "parser.pxi", line 975, in lxml.etree._BaseParser._parseDocFromFile (src/lxml/lxml.etree.c:67740)
+2011-10-02 09:54:02	daniyl	  File "parser.pxi", line 539, in lxml.etree._ParserContext._handleParseResultDoc (src/lxml/lxml.etree.c:63824)
+2011-10-02 09:54:07	daniyl	  File "parser.pxi", line 625, in lxml.etree._handleParseResult (src/lxml/lxml.etree.c:64745)
+2011-10-02 09:54:09	daniyl	  File "parser.pxi", line 565, in lxml.etree._raiseParseError (src/lxml/lxml.etree.c:64088)
+2011-10-02 09:54:11	daniyl	lxml.etree.XMLSyntaxError: Document is empty, line 1, column 1
+2011-10-02 09:54:13	daniyl	daniyl@daniyl:~$
+2011-10-02 09:54:15	daniyl	asta zice in consola
+2011-10-02 09:54:17	daniyl	l-am dezinstalat cu
+2011-10-02 09:54:19	daniyl	sudo apt-get purge radiotray
+2011-10-02 09:54:21	daniyl	sudo apt-get install radiotray
+2011-10-02 09:54:28	daniyl	si tot nu vrea sa porneasca
+2011-10-02 09:55:26	nkn	purge in apt-get nu functioneaza mereu bine, e mai bine cu aptitude, dar dupa ce ai dat purge, uitete si in ~/.config/ dupa vreun fisier de configurare pentru radiotray, director sau ceva de genu si sterge
+2011-10-02 09:56:23	daniyl	adica ce comanda sa dau
+2011-10-02 09:56:32	nkn	acum il ai instalat?
+2011-10-02 09:56:58	daniyl	sudo aptitude purge radiotray
+2011-10-02 09:57:05	daniyl	da il am instalat
+2011-10-02 09:57:25	nkn	sterge ~/.local/share/radiotray/bookmarks.xml
+2011-10-02 09:57:41	nkn	si ~/.local/share/radiotray/config.xml
+2011-10-02 09:57:55	nkn	merge dupa ce sterge acele 2 fisiere?
+2011-10-02 09:58:46	daniyl	aha  acum sa vad ce se-ntampla
+2011-10-02 09:58:53	nkn	mai exact, dai " rm ~/.local/share/radiotray/bookmarks.xml ~/.local/share/radiotray/config.xml "
+2011-10-02 09:59:04	nkn	si vezi daca merge
+2011-10-02 09:59:43	daniyl	si ca sa-l sterg si sa-l reinstalez ce trebuie sa fac
+2011-10-02 10:00:03	nkn	pai vezi daca merge dupa ce ai sters acele 2 fisiere
+2011-10-02 10:00:06	daniyl	sudo aptitude purge radiotray
+2011-10-02 10:00:10	nkn	da
+2011-10-02 10:00:36	nkn	si trebuie sa verifici si ~/.config/ pentru fisiere sau director de la radiotray ca poate nu il sterge
+2011-10-02 10:00:58	daniyl	a deci comanda asta ar merge mai bine in locul sudo apt get purge radiotray
+2011-10-02 10:01:31	nkn	dai " rm /home/USER/.local/share/radiotray/bookmarks.xml /home/USER/.local/share/radiotray/config.xml "  in terminal si apoi vezi daca merge radiotray
+2011-10-02 10:01:37	nkn	da, e mai recomandat aptitude
+2011-10-02 10:01:53	daniyl	da man merge cum ai spus tu
+2011-10-02 10:01:59	daniyl	a pornit acu
+2011-10-02 10:02:02	nkn	ok
+2011-10-02 10:02:33	daniyl	merci si scuze de deranj
+2011-10-02 10:02:38	nkn	nu e deranj
+2011-10-02 10:10:44	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-10-02 10:37:53		irc: disconnected from server
+2011-10-02 10:38:53	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-02 10:38:53	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-02 10:38:53	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-02 10:38:53	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn nkn]
+2011-10-02 10:38:53	--	Channel #linuxmint-ro: 4 nicks (2 ops, 0 halfops, 0 voices, 2 normals)
+2011-10-02 10:39:01	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-02 10:46:51		irc: disconnected from server
+2011-10-02 10:48:21	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-02 10:48:21	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-02 10:48:21	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-02 10:48:21	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn nkn]
+2011-10-02 10:48:21	--	Channel #linuxmint-ro: 4 nicks (2 ops, 0 halfops, 0 voices, 2 normals)
+2011-10-02 10:48:29	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-02 11:03:06		irc: disconnected from server
+2011-10-02 11:04:46	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-02 11:04:46	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-02 11:04:46	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-02 11:04:46	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ Creationn nkn]
+2011-10-02 11:04:46	--	Channel #linuxmint-ro: 4 nicks (2 ops, 0 halfops, 0 voices, 2 normals)
+2011-10-02 11:04:54	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-02 11:44:25	Creationn	ce este radiotray ?
+2011-10-02 11:46:42	nkn	programel de radio
+2011-10-02 11:46:54	nkn	il rulezi si pune o iconita in tray
+2011-10-02 11:47:20	nkn	si de acolo poti porni radio din statiile implicite sau adauga noi statii
+2011-10-02 11:47:20	Creationn	pai si kradio ce are ?
+2011-10-02 11:47:31	nkn	statii adica adrese..ca e internet radio
+2011-10-02 11:47:31	Creationn	sau nu e soft ptr tv tuner ?
+2011-10-02 11:47:37	Creationn	am inteles
+2011-10-02 11:47:52	nkn	e ceva ce poti face si cu multe alte programe
+2011-10-02 11:48:08	nkn	dar lumea il prefera pe ala pentru ca e doar pentru radio si nu ia multa memorie
+2011-10-02 11:48:21	nkn	si e usor de folosit
+2011-10-02 11:49:06	nkn	in sfarsit am inteles si eu cum se foloseste screen si dvtm :P
+2011-10-02 11:49:28	Creationn	screen e usor de folosit
+2011-10-02 11:49:33	Creationn	dvtm n-am auzit de el
+2011-10-02 11:49:48	nkn	ruland screen, dvtm x2, finch, htop, mpd+ncmpcpp, mc, weechat   ia in total 90mb ram
+2011-10-02 11:50:01	nkn	dvtm e tilling pentru tty
+2011-10-02 11:50:10	nkn	tilling pentru virtual terminal
+2011-10-02 11:51:11	nkn	imparti ecranul in mai multe terminale..cam cum faci in terminator
+2011-10-02 11:51:22	nkn	dar asta in tty
+2011-10-02 11:52:29	Creationn	nu prea m-am bagat tare pe partea de terminal
+2011-10-02 11:52:42	Creationn	screen, irssi, pine, un mc din cand in cand si cam atat
+2011-10-02 11:52:42	Creationn	:P
+2011-10-02 11:52:52	nkn	e frumoasa si stabila si super lightweight :)
+2011-10-02 11:55:16	Creationn	misto dvtm
+2011-10-02 11:55:32	Creationn	e ca si cum as trece cat mai mult pe partea de terminal
+2011-10-02 11:55:57	Creationn	mpd+ncmpcpp un fel de winamp din ce vad aici
+2011-10-02 11:55:58	Creationn	not bad
+2011-10-02 11:55:59	Creationn	:)
+2011-10-02 11:56:21	nkn	mpd e in daemon
+2011-10-02 11:56:34	nkn	si ncmpcpp se foloseste de el
+2011-10-02 11:56:55	Creationn	weechat exista si ptr terminal ?
+2011-10-02 11:57:03	nkn	weechat e doar pentru terminal
+2011-10-02 11:57:12	nkn	e irc
+2011-10-02 11:57:50	nkn	e cam ca screen+irssi+niste pluginuri
+2011-10-02 11:58:37	nkn	e mult mai frumos weechat decat irssi, parerea mea
+2011-10-02 11:58:50	Creationn	sa vad daca il am in repo-uri
+2011-10-02 11:59:00	nkn	si am la el si un plugin frumos care face un bip cand mi se scrie numele in chat :P
+2011-10-02 11:59:07	Creationn	:))
+2011-10-02 11:59:12	Creationn	"mirc" fashion
+2011-10-02 11:59:25	nkn	pot sa schimb sunetul :P ca lenea e prea mare
+2011-10-02 11:59:33	nkn	dar*
+2011-10-02 11:59:56	Creationn	:))
+2011-10-02 12:00:00	nkn	iar mirc nu am folosit niciodata
+2011-10-02 12:00:25	nkn	pe vremea cand era lumea cu mirc eu tot 486 aveam :))
+2011-10-02 12:00:46	Creationn	n-am dvtm
+2011-10-02 12:00:59	nkn	eh ce vremuri...frumoasele jocuri de ms dos care si acum le mai am cu dosbox :))
+2011-10-02 12:01:14	Creationn	htop, mpd+ncmpcpp, am
+2011-10-02 12:01:17	nkn	http://www.brain-dump.org/projects/dvtm/
+2011-10-02 12:01:25	Creationn	finch de asemenea ca e din pidgin
+2011-10-02 12:01:37	Creationn	weechat am
+2011-10-02 12:01:49	Creationn	cred ca ma joc cu ele azi :))
+2011-10-02 12:01:52	Creationn	sa le invat
+2011-10-02 12:01:53	nkn	in arch nu se instaleaza cu pidgin :) poti avea pidgin fara finch si invers
+2011-10-02 12:02:13	nkn	eh sa-mi zici daca nu sti ceva :P
+2011-10-02 12:02:22	Creationn	in suse sunt pachete separate
+2011-10-02 12:02:36	nkn	eu nu intelegeam cum e cu C-a si dastea in screen
+2011-10-02 12:02:51	nkn	acum stiu, C-a + c pentru un nou screen
+2011-10-02 12:03:03	nkn	in dvtm ai C-g + c pentru nou terminal
+2011-10-02 12:03:15	nkn	si C-g + numar pentru numatul terminalului
+2011-10-02 12:03:27	nkn	C-g + space ca sa schimbi tilling-ul
+2011-10-02 12:04:01	nkn	daca ai vazut dwm, xmonad, awesomewm, si alte WM de genul asta sti ce e tilling :)
+2011-10-02 12:04:23	Creationn	nop nu stiu ce
+2011-10-02 12:04:26	Creationn	*ce sunt
+2011-10-02 12:04:28	Creationn	dar hei
+2011-10-02 12:04:34	Creationn	"how hard can it be?"
+2011-10-02 12:04:35	Creationn	=))
+2011-10-02 12:05:11	nkn	pentru acele WM trebuie sa sti hackel..eu mereu am vrut sa incerc dwm dar nu ma pricep sa-l personalizez
+2011-10-02 12:05:28	nkn	si nu prea vreau sa stai sa invat limbajul ala..xmonad am folosit
+2011-10-02 12:05:48	nkn	dar la fel, cu configuratia implicita ca nu prea am stiut sa-l personalizez
+2011-10-02 12:06:20	Creationn	cand nu ai habar si defaulturile sunt bune
+2011-10-02 12:06:21	Creationn	:)
+2011-10-02 12:06:27	Creationn	eu unul asa fac cu orice soft
+2011-10-02 12:06:30	Creationn	apoi treptat il modific
+2011-10-02 12:06:44	nkn	da, dar nu stiam cum...:)
+2011-10-02 12:07:09	Creationn	da, asta asa e :D
+2011-10-02 12:07:14	Creationn	dar inveti pe parcurs
+2011-10-02 12:07:28	nkn	e pe forumul de arch topic pentru fiecare plin cu configuri de la utilizatori dar nici nu stiu cum sa pe pun in config-ul meu..
+2011-10-02 12:07:32	nkn	si asa ca l-am lasat
+2011-10-02 12:08:04	Creationn	i-al pe cel mai usor
+2011-10-02 12:08:28	nkn	eh, daca te uiti o sa intelegi ce zic :))
+2011-10-02 12:09:01	nkn	la mine cel default are un config.h, pe forum vezi cu mai multe fisiere si patchuri...
+2011-10-02 12:09:03	--	Mode #linuxmint-ro [+o Creationn] by ChanServ
+2011-10-02 12:09:13	--	Mode #linuxmint-ro [+o nkn] by Creationn
+2011-10-02 12:09:58	@Creationn	sunt pe gnome 3
+2011-10-02 12:10:07	@Creationn	si vad ca un joc precum quake wars nu prea se pupa cu el
+2011-10-02 12:10:18	@Creationn	ce inseamna sa nu fie pachet creat special ptr distributie linux
+2011-10-02 12:10:24	@Creationn	ci unul generic
+2011-10-02 12:10:35	@nkn	mda cum e si doom3..
+2011-10-02 12:11:15	@nkn	de fiecare daca cand am incercat, si din surse si din "versiunea" de linux mereu am avut probleme cu sunetul
+2011-10-02 12:12:24	@Creationn	ma faci curios sa il incerc si eu
+2011-10-02 12:12:26	@Creationn	:D
+2011-10-02 12:12:59	@nkn	inceasca, eu nu i-am dat de cam
+2011-10-02 12:13:16	@nkn	probleme sunt ca sunetul are lag de vreo 8-10 secunde...
+2011-10-02 12:14:14	@Creationn	sub alsa? pulseaudio ? openal ?
+2011-10-02 12:14:28	@nkn	cautat rezolvare, unii ziceau sa folosesti "versiunea" de linux, si la aia la fel zicea, altii au zis tot felul de setari, sau pulseaudio, tot la fel
+2011-10-02 12:14:33	@nkn	apoi am vazut cu openal, la fel...
+2011-10-02 12:14:52	@nkn	si l-am lasat balta, ca 10sec lag la sunet nu prea e bine
+2011-10-02 12:15:10	@Creationn	http://zerowing.idsoftware.com/linux/doom/
+2011-10-02 12:16:04	@nkn	e tutorial complet pe ubuntuforums.org cu o gramada de fix-uri
+2011-10-02 12:16:11	@nkn	dar mie nici unul nu mi-a merg
+2011-10-02 12:16:11	@Creationn	are multiplayer ?
+2011-10-02 12:16:13	@nkn	mers*
+2011-10-02 12:16:25	@nkn	nu din cate stiu eu
+2011-10-02 12:16:46	@nkn	parca aia de windoz are
+2011-10-02 12:17:33	@nkn	na, nu stiu sigur
+2011-10-02 12:17:39	@Creationn	cacat nu le merge site-ul
+2011-10-02 12:17:43	@Creationn	ia sa caut eu pe un mirror
+2011-10-02 12:17:47	@Creationn	ca stiu unul bul
+2011-10-02 12:18:38	@Creationn	pam-pam: ftp://ftp.snt.utwente.nl/pub/games/
+2011-10-02 12:18:41	@Creationn	salveaza-l ca e bun
+2011-10-02 12:18:43	@Creationn	:)
+2011-10-02 12:19:29	@Creationn	ftp://ftp.snt.utwente.nl/pub/games/doom3/client/linux/
+2011-10-02 12:19:33	@Creationn	e gol...
+2011-10-02 12:19:34	@Creationn	ce naspa
+2011-10-02 12:20:10	@Creationn	am gasit alt demo ftp://ftp.snt.utwente.nl/pub/games/quake4/demo/
+2011-10-02 12:20:11	@Creationn	=))
+2011-10-02 12:20:16	@Creationn	unde dai si unde crapa
+2011-10-02 12:20:26	@nkn	:))
+2011-10-02 12:23:23	@Creationn	cate demo-uri pe aici
+2011-10-02 12:23:25	@Creationn	:)
+2011-10-02 12:24:05	@Creationn	http://www.gamershell.com/download_7202.shtml
+2011-10-02 12:24:07	@Creationn	binego
+2011-10-02 12:24:10	@Creationn	bingo
+2011-10-02 12:24:11	@Creationn	:P
+2011-10-02 12:24:59	@nkn	gamershell foloseam si eu mereu cand descarcam un mmorpg
+2011-10-02 12:25:15	@nkn	acolo cautam prima oara, ca descarca cu viteza mare
+2011-10-02 12:25:34	@nkn	asta pana sa apara programelul ala de bittorrent la toate jocurile
+2011-10-02 12:28:53	@Creationn	bune si demo-urile astea la ceva cand n-ai bani de cel real sau sa nu piratezi jocul care te lasa fara multiplayer
+2011-10-02 12:29:52	@nkn	dap :)
+2011-10-02 12:31:07	@Creationn	joc quake wars pe varianta demo
+2011-10-02 12:31:10	@Creationn	am doar o harta
+2011-10-02 12:37:35	-->	xuser1 (~x-man@92.80.145.233) has joined #linuxmint-ro
+2011-10-02 12:39:08	--	Mode #linuxmint-ro [+v xuser1] by Creationn
+2011-10-02 12:45:08	@Creationn	nkn: instalez doom3
+2011-10-02 12:45:13	@Creationn	te anunt daca il fac sa mearga
+2011-10-02 12:45:16	@nkn	ok
+2011-10-02 12:56:45	@Creationn	----------- OSS Sound Initialization -----------
+2011-10-02 12:56:45	@Creationn	opened sound device '/dev/dsp'
+2011-10-02 12:56:45	@Creationn	/dev/dsp - bit rate: 16, channels: 2, frequency: 44100
+2011-10-02 12:56:48	@Creationn	merge
+2011-10-02 12:56:53	@Creationn	alsa cu plugin de oos
+2011-10-02 12:56:55	@Creationn	oss
+2011-10-02 12:56:58	@Creationn	sau wraposs
+2011-10-02 12:57:02	@Creationn	cum i se mai zice
+2011-10-02 12:57:22	@nkn	joacate in misiuni
+2011-10-02 12:57:29	@nkn	sau scenariu ce o fi
+2011-10-02 13:02:34	@nkn	merge bine si acolo?
+2011-10-02 13:09:23	@Creationn	am jucat prima misiune cu soldatul care tre sa ajunga in nu stiu ce zona
+2011-10-02 13:09:32	@Creationn	 sa gaseasca un un om de stiinta
+2011-10-02 13:09:35	@Creationn	pana acum nimic aiurea
+2011-10-02 13:09:46	@Creationn	ceva imi spune ca merge cel mai bine sub alsa
+2011-10-02 13:09:49	@Creationn	fara pulseaudio
+2011-10-02 13:09:58	@Creationn	si cu wrapul de oss instalat
+2011-10-02 13:10:05	@Creationn	desigur poate si alsa-plugins sa ajute
+2011-10-02 13:10:07	@nkn	cu ce ai pornit jocul?
+2011-10-02 13:10:13	@Creationn	din terminal
+2011-10-02 13:10:18	@Creationn	doom3-demo
+2011-10-02 13:10:26	@nkn	atat?
+2011-10-02 13:10:30	@Creationn	atat
+2011-10-02 13:10:45	@nkn	parca mai trebuia ceva ca sa setezi sa mearga pe alsa sau oss sau pulse
+2011-10-02 13:11:03	@nkn	pentru pulse era pasd sau ceva de genu si apoi programul
+2011-10-02 13:11:05	@Creationn	nu de fapt
+2011-10-02 13:11:09	@Creationn	zice si pe site aici
+2011-10-02 13:11:14	@Creationn	pe alsa merge cel mai bine
+2011-10-02 13:11:19	@Creationn	eu am alsa instalat
+2011-10-02 13:11:23	@Creationn	plugin de oss
+2011-10-02 13:11:27	@Creationn	pe care vad ca il foloseste
+2011-10-02 13:11:32	@Creationn	pulseaudio disabled
+2011-10-02 13:11:34	@Creationn	si dezinstalat
+2011-10-02 13:11:39	@Creationn	am pastrat doar
+2011-10-02 13:11:46	@Creationn	cateva librarii care sunt iar un wrapper
+2011-10-02 13:11:51	@Creationn	libpulse
+2011-10-02 13:11:54	@Creationn	libmainloop
+2011-10-02 13:12:00	@Creationn	si libbrower
+2011-10-02 13:12:00	@nkn	eu am toate de la alsa si pulseaudio in uz, dar incerc acum din nou
+2011-10-02 13:12:11	@Creationn	*lib-browse
+2011-10-02 13:12:20	@Creationn	opreste pulseaudio
+2011-10-02 13:12:32	@Creationn	si vezi cum iese
+2011-10-02 13:12:35	@Creationn	eu ma mai joc oleaca
+2011-10-02 13:12:39	@Creationn	sa vad daca apare ceva
+2011-10-02 13:13:38	@nkn	+set s_alsa_pcm <alsa_device_name>
+2011-10-02 13:13:47	@nkn	ar veni doom3-demo +set blablabla
+2011-10-02 13:13:51	@nkn	pentru alsa..
+2011-10-02 13:14:32	@Creationn	----------- OSS Sound Initialization -----------
+2011-10-02 13:14:33	@Creationn	WARNING: failed to open sound device '/dev/dsp': Device or resource busy
+2011-10-02 13:14:33	@Creationn	WARNING: sound subsystem disabled
+2011-10-02 13:14:36	@Creationn	acum nu mai am sunet
+2011-10-02 13:14:48	@Creationn	dar sub alsa mergea
+2011-10-02 13:14:52	@nkn	doom3  +set s_driver oss +set s_numberOfSpeakers 2
+2011-10-02 13:14:59	@Creationn	mai incarc inca o data
+2011-10-02 13:15:00	@nkn	luat de pe https://help.ubuntu.com/community/Doom3
+2011-10-02 13:16:07	@Creationn	acum iar are sunet
+2011-10-02 13:16:13	@Creationn	cred ca e din cauza ca e pe 64 de biti
+2011-10-02 13:16:47	@Creationn	ce urat.. tocmai plugins de alsa pe 32 de biti nu le aveam instalate
+2011-10-02 13:17:19	@nkn	apropo
+2011-10-02 13:17:23	@nkn	n-am avut ce face intr-o zi
+2011-10-02 13:17:30	@nkn	si am zis sa mai incerc o data 64bit
+2011-10-02 13:17:41	@nkn	am reinstalat arch de 64 si mergea mult mai greu
+2011-10-02 13:18:07	@nkn	viteza de citire/scriere a hard-ului mai exact
+2011-10-02 13:19:09	@nkn	tot sistemul se misca mai greu, si cand copiam ceva pe un stick, viteza scazuse la vreo 200kb/s din 5-10mb/s cum aveam pe 32bit
+2011-10-02 13:19:26	@Creationn	nu stiu cum de ai avut prob la mine nu se simte nici o diferenta
+2011-10-02 13:19:50	-->	alondra (~alondra@89.40.149.74) has joined #linuxmint-ro
+2011-10-02 13:19:50	--	alondra is now known as calvarr
+2011-10-02 13:20:05	@nkn	mereu am avut..
+2011-10-02 13:20:28	@nkn	si nici n imi place ca trebuie sa instalez nu stiu cate librarii in plus de 32bit..
+2011-10-02 13:20:54	@nkn	il astept pe condor sa il intreb de kernel
+2011-10-02 13:21:42	@nkn	ca e o obtiune in kernel de ram, e pentru cat ram are sistemul si sunt 3, off, 4gb sau mai putin si 64 sau ceva de genul gb sau mai mult
+2011-10-02 13:21:55	@Creationn	inteleg
+2011-10-02 13:21:57	@Creationn	brb oleaca
+2011-10-02 13:21:59	@Creationn	sa trec pe kde
+2011-10-02 13:22:12	<--	Creationn (~creatura@f79-118-218-70.pitesti.rdsnet.ro) has quit (Quit: Leaving.)
+2011-10-02 13:24:12	-->	Creationn (~creatura@79.118.218.70) has joined #linuxmint-ro
+2011-10-02 13:24:35	Creationn	back
+2011-10-02 13:24:36	@nkn	si ma intreb daca merge sistem de 32bit pe 4gb ram daca e setat acolo in kernel obtiunea de 4gb, normal aia e setata implicit deci ar trebui sa mearga 32bit cu 4gb fara probleme si sa citeasca tot 4gb..dar n-am 4gb sa testez
+2011-10-02 13:24:39	Creationn	ia sa vedem
+2011-10-02 13:24:50	Creationn	pe 32 de biti
+2011-10-02 13:24:52	Creationn	4gb de ram
+2011-10-02 13:24:57	Creationn	iti trebuie kernel pae
+2011-10-02 13:25:11	@nkn	aia stiu
+2011-10-02 13:25:46	@nkn	cred ca obtiunea aia e implicita cu 4gb doar la arch, ca doar la kernelul de arch m-am uitat
+2011-10-02 13:27:28	Creationn	seta s_driver "oss" din DoomConfig.cfg  este optiunea care te lasa sa schimbi output la sunet
+2011-10-02 13:33:26	Creationn	cred ca buba este KDE
+2011-10-02 13:33:30	Creationn	sub Gnome pornea
+2011-10-02 13:33:43	Creationn	KDE parca are propriul sistem de sunet
+2011-10-02 13:33:50	Creationn	arts sau cum ii zice
+2011-10-02 13:34:06	@nkn	eu sub gnome am incercat mereu..acum cu arch nu am mai incercat
+2011-10-02 13:38:03	@nkn	WARNING: failed to open sound device '/dev/dsp': No such file or directory
+2011-10-02 13:38:03	@nkn	WARNING: sound subsystem disabled
+2011-10-02 13:38:13	@nkn	...
+2011-10-02 13:38:55	Creationn	asta primesc sub kde
+2011-10-02 13:38:58	Creationn	pe gnome merge
+2011-10-02 13:40:28	Creationn	brb pranz
+2011-10-02 13:50:01		irc: disconnected from server
+2011-10-02 13:50:17	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-02 13:50:17	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-02 13:50:17	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-02 13:50:17	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ +xuser1 calvarr Creationn nkn]
+2011-10-02 13:50:17	--	Channel #linuxmint-ro: 6 nicks (2 ops, 0 halfops, 1 voice, 3 normals)
+2011-10-02 13:50:27	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-02 14:06:48		irc: disconnected from server
+2011-10-02 14:08:54	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-02 14:08:54	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-02 14:08:54	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-02 14:08:54	--	Nicks #linuxmint-ro: [@[XrCT]Creation @ChanServ +xuser1 calvarr Creationn nkn]
+2011-10-02 14:08:54	--	Channel #linuxmint-ro: 6 nicks (2 ops, 0 halfops, 1 voice, 3 normals)
+2011-10-02 14:08:54	--	Notice(zelazny.freenode.net): [freenode-info] channel trolls and no channel staff around to help? please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+2011-10-02 14:09:03	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-02 14:09:48	Creationn	nkn: quake wars foloseste engine doom ?
+2011-10-02 14:10:01	nkn	parca
+2011-10-02 14:10:16	nkn	sau halflife..
+2011-10-02 14:10:22	Creationn	seta s_libOpenAL "libopenal.so.0"
+2011-10-02 14:10:23	Creationn	seta s_micDevice ""
+2011-10-02 14:10:23	Creationn	seta s_voiceDevice ""
+2011-10-02 14:10:23	Creationn	seta s_primaryDevice ""
+2011-10-02 14:10:23	Creationn	seta s_driver "alsa"
+2011-10-02 14:10:23	Creationn	seta s_device "/dev/dsp"
+2011-10-02 14:10:23	Creationn	seta s_noMic "0"
+2011-10-02 14:10:23	Creationn	seta s_alsa_lib "libasound.so.2"
+2011-10-02 14:10:30	Creationn	asa apare la quakewars.cfg
+2011-10-02 14:10:32	Creationn	la sunet
+2011-10-02 14:10:45	Creationn	seta s_dsp "/dev/dsp"
+2011-10-02 14:10:45	Creationn	seta s_driver "oss"
+2011-10-02 14:10:48	nkn	l-am dat naibii de doom3
+2011-10-02 14:10:49	Creationn	asa apare la doom3
+2011-10-02 14:11:11	nkn	reusisem sa fac sa se auda cu +set s_driver pulse
+2011-10-02 14:11:19	nkn	ies din joc, intru iar nu se mai aude
+2011-10-02 14:11:36	nkn	ies, intru iar se blocheaza la initializing menu
+2011-10-02 14:11:47	Creationn	stai sa vad daca ii dau eu de cap
+2011-10-02 14:11:49	Creationn	apropo
+2011-10-02 14:11:56	Creationn	e chestia ca cfg de la doom3 este rescris
+2011-10-02 14:12:01	Creationn	deci tre sa ii dai chmod 444
+2011-10-02 14:12:06	Creationn	ca sa nu il mai crie
+2011-10-02 14:12:09	Creationn	*scrie
+2011-10-02 14:12:11	nkn	sta asa vreo 3 minute si in tot timpul asta toate conexiunile de internet sunt moarte
+2011-10-02 14:12:44	nkn	l-am sters, da-l naibii
+2011-10-02 14:13:01	nkn	imi ajunsese irc la lag de 230sec
+2011-10-02 14:14:53	Creationn	urat
+2011-10-02 14:15:32	nkn	nici nu inteleg ce legatura ar avea
+2011-10-02 14:16:25	nkn	se bloca la Opening IP socket: localhost:-1
+2011-10-02 14:18:46	Creationn	ala parca e loopback
+2011-10-02 14:18:49	Creationn	parca
+2011-10-02 14:19:00	Creationn	asa apare la quake wars dar merge apoi
+2011-10-02 14:19:27	nkn	si la mine trecea peste atunci cand nu mergea sunetul
+2011-10-02 14:19:43	nkn	si cand se bloca acolo imi oprea toate conexiunile la internet..
+2011-10-02 14:21:38	Creationn	ciudat aspect
+2011-10-02 14:21:44	Creationn	cred ca comunica cu un server
+2011-10-02 14:22:56	nkn	cred ca instalez urban terror
+2011-10-02 14:24:18	+xuser1	cine stie un joc racing bun?
+2011-10-02 14:24:23	+xuser1	:)
+2011-10-02 14:25:41	Creationn	nkn: ala merge brici
+2011-10-02 14:25:57	nkn	l-am jucat ceva vreme
+2011-10-02 14:25:58	Creationn	xuser1: tile racer, vdrift
+2011-10-02 14:26:06	Creationn	speed dreams
+2011-10-02 14:26:07	Creationn	torcs
+2011-10-02 14:26:08	Creationn	:))
+2011-10-02 14:26:09	Creationn	alege
+2011-10-02 14:26:41	nkn	ce naspa ca nu merge paypal prin credit de telefon....
+2011-10-02 14:26:57	+xuser1	torcs nu merge , speed dreams e la fel vdrift la fel
+2011-10-02 14:27:15	+xuser1	O:-)
+2011-10-02 14:27:30	nkn	cum nu merge, ce eroare da
+2011-10-02 14:27:30	+xuser1	poate ceva sub wine?
+2011-10-02 14:28:20	nkn	urban terror are 1gb instalat...
+2011-10-02 14:28:45	+xuser1	nu eroare dar f greu de controlat
+2011-10-02 14:28:57	+xuser1	:)
+2011-10-02 14:29:25	+xuser1	era un joc pe care nu l-am jucat dar nu imi amintesc cum se numeste
+2011-10-02 14:29:43	Creationn	xuser1: need for speed hot pursuit 2
+2011-10-02 14:29:46	Creationn	ala merge sub wine
+2011-10-02 14:30:14	+xuser1	sriu dar vroiam unul pt linux si nu nfs ca nu-mi place
+2011-10-02 14:36:58	+xuser1	am luat racer dar nu porneste
+2011-10-02 14:39:10	nkn	pai ce zice
+2011-10-02 14:39:19	nkn	ca trebuie sa zica eroarea..
+2011-10-02 14:39:54	+xuser1	nu stiu ca e arhiva tar.bz si am dat dublu click pe un executabil si nimic
+2011-10-02 14:40:14	nkn	pai dezarhiveaza arhiva aia...
+2011-10-02 14:40:24	+xuser1	da
+2011-10-02 14:40:25	nkn	si ruleaza jocul in terminal
+2011-10-02 14:41:05	+xuser1	pai e un executabil , cum?
+2011-10-02 14:41:45	nkn	./executabil, sh executabil, sh executabil.sh, ./executabil.sh
+2011-10-02 14:41:47	nkn	multe moduri..
+2011-10-02 14:42:16	+xuser1	ok incerc
+2011-10-02 14:44:19	Creationn	nkn: am incercat cu un hack de sdl
+2011-10-02 14:44:21	Creationn	si tot nu vrea
+2011-10-02 14:44:26	+xuser1	am facut cd si >>>./racer: error while loading shared libraries: libfmodex.so: cannot open shared object file: No such file or directory
+2011-10-02 14:44:59	nkn	asa, pai atunci cauta pe goagal si vezi ce e cu libfmodex.so si vezi ce trebuie instalat
+2011-10-02 14:45:11	+xuser1	:)
+2011-10-02 14:45:15	nkn	am isntalat si eu mai demult tileracer asta, e cu cascadori
+2011-10-02 14:46:02	Creationn	am gasit patch ptr doom3 demo
+2011-10-02 14:46:20	+xuser1	cred ca este si pe softpedia
+2011-10-02 14:47:29	+xuser1	http://linux.softpedia.com/dyn-search.php?search_term=doom&x=0&y=0
+2011-10-02 14:48:55	nkn	cred ca o sa inchid serverele de teeworlds
+2011-10-02 14:49:36	Creationn	nkn: eu am server de nexuiz pe pc
+2011-10-02 14:49:38	Creationn	:D
+2011-10-02 14:49:43	Creationn	adio doom3
+2011-10-02 14:49:48	Creationn	you suck on linux
+2011-10-02 14:49:49	Creationn	:))
+2011-10-02 14:50:03	+xuser1	eu nu am nici un joc
+2011-10-02 14:50:03	nkn	eu am 3 de teeworlds si nimeni nu joaca :))
+2011-10-02 14:50:20	nkn	am postat pe forumul ubuntu ca multi mai intrabau de servere si deaia le-am facut
+2011-10-02 14:50:24	nkn	dar vad ca sunt degeaba
+2011-10-02 14:50:35	+xuser1	doar gta sub wine dar nul joc deloc
+2011-10-02 14:50:41	+xuser1	;-)
+2011-10-02 14:50:46	nkn	si da, daia am zis "versiune" de linux...
+2011-10-02 14:51:06	nkn	defapt sunt chestiile de la windoz
+2011-10-02 14:51:47	+xuser1	nici macar aa nu am jucat pe linux nu mergea internetul
+2011-10-02 14:51:49	nkn	pentru linux e doar un script care il rulezi si muta totul unde trebuie, si pentru windoz sunt exact aceleasi fisiere
+2011-10-02 14:51:59	Creationn	nkn: deh asa se intampla cand se fac amestecaturi
+2011-10-02 14:52:07	+xuser1	aa *american army
+2011-10-02 14:52:31	Creationn	quake 4 demo
+2011-10-02 14:52:32	Creationn	:))
+2011-10-02 14:52:35	Creationn	sa vedem asta ce stie
+2011-10-02 14:52:35	nkn	eu ma joc din cand in cand megaglest cu calvarr
+2011-10-02 14:52:48	Creationn	eu sunt muci la jocul ala
+2011-10-02 14:52:48	nkn	in rest am jocurile din humble bundle
+2011-10-02 14:53:00	Creationn	nkn:  daca vrei sa jucam urban terror vreodata pot sa refac eu serverul de joc
+2011-10-02 14:53:04	Creationn	sau nexuiz
+2011-10-02 14:53:06	Creationn	:)
+2011-10-02 14:53:19	Creationn	nexuiz e up
+2011-10-02 14:53:21	nkn	ma enerveaza ca nu pot sa cumpar humble bundle cu telefonul, ca nu am card acum..
+2011-10-02 14:53:52	nkn	nexuiz parca nu mi-a placut
+2011-10-02 14:54:10	nkn	ca am avut un timp cand am incercat toate jocurile gratis de linux :))
+2011-10-02 14:54:16	+xuser1	sunt multe jocuri fps dar dar mie numi plac fpsurile
+2011-10-02 14:54:54	Creationn	nkn: urban terror se apropie de cs
+2011-10-02 14:54:59	Creationn	la fel si assault cube
+2011-10-02 14:55:02	Creationn	daca l-ai incercat
+2011-10-02 14:55:13	Creationn	xuser1: si ce jocuri iti plac tie ?
+2011-10-02 14:55:42	+xuser1	racing , Simulation ,
+2011-10-02 14:55:44	+xuser1	...
+2011-10-02 14:56:33	+xuser1	urban terror e bun ,:) mai sunt si altele
+2011-10-02 14:57:18	Creationn	warzone2100 e un rts bun
+2011-10-02 14:57:19	nkn	apropo de cs, ai vazut ca merge mai bine sub linux cu wine decat in windoz?
+2011-10-02 14:57:26	Creationn	daca esti fan starcraft de pe windows
+2011-10-02 14:57:30	Creationn	nkn:  da
+2011-10-02 14:57:33	Creationn	mai ales source
+2011-10-02 14:57:34	Creationn	:))
+2011-10-02 14:58:06	+xuser1	supertux kart mi s-a parut cel mai bun joc racing din cate am jucat pe linux
+2011-10-02 14:59:01	nkn	revenge of the titans = rpg+rts+tower defence
+2011-10-02 14:59:17	nkn	nu e gratis, a fost in humble bundle 2
+2011-10-02 15:00:16	+xuser1	imi plac si jocurile de strategie , arcada ca asta de ex. http://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Arcade/ManiacMarble3D-29162.shtml carre nu mai exista (daca a existat vreo data)
+2011-10-02 15:01:11	nkn	http://www.youtube.com/user/Jakejw93
+2011-10-02 15:01:19	Creationn	nkn: merge quake 4 pe linxu fara probleme din ce vad eu
+2011-10-02 15:01:47	nkn	ce are nou fata de 3
+2011-10-02 15:02:17	Creationn	------ Alsa Sound Initialization -----
+2011-10-02 15:02:17	Creationn	opened Alsa PCM device default for playback
+2011-10-02 15:02:17	Creationn	device buffer size: 5644 frames ( 67728 bytes )
+2011-10-02 15:02:17	Creationn	allocated a mix buffer of 49152 bytes
+2011-10-02 15:02:21	Creationn	traiasca alsa
+2011-10-02 15:02:24	Creationn	aici merge bine
+2011-10-02 15:02:35	Creationn	are moaca noua :))
+2011-10-02 15:02:43	Creationn	in rest nu prea am gasit nimic diferit
+2011-10-02 15:02:43	nkn	atat?
+2011-10-02 15:02:47	nkn	pfft
+2011-10-02 15:03:01	Creationn	poate ca o mai fi ceva dar nu am vzaut eu
+2011-10-02 15:04:34	Creationn	ftp://ftp.snt.utwente.nl/pub/games/americasarmy/linux/
+2011-10-02 15:04:39	Creationn	ptr fani de asa ceva :))
+2011-10-02 15:04:57	Creationn	ut2004 se mai joaca ?
+2011-10-02 15:05:25	nkn	nu cred
+2011-10-02 15:05:37	nkn	prea multe alternative
+2011-10-02 15:05:57	nkn	iar ala e destul de vechi
+2011-10-02 15:06:51	+xuser1	nici nu se conecteaza la net
+2011-10-02 15:07:24	nkn	rulezi din terminal si vezi ce are
+2011-10-02 15:08:20	+xuser1	am citit pe net o gramada cand am vrut sal joc anul trecut si ......
+2011-10-02 15:08:45	+xuser1	complicat cu comlpierea asta pe linux
+2011-10-02 15:08:52	+xuser1	:-D
+2011-10-02 15:09:33	+xuser1	ma refer la alte jocuri
+2011-10-02 15:10:04	nkn	cu ce?
+2011-10-02 15:11:02	+xuser1	adica cand descarci o arhiva si trebuie sa faci deb
+2011-10-02 15:11:08	+xuser1	O:-)
+2011-10-02 15:11:42	nkn	nu scrie nicaieri ca trebuie sa faci asta
+2011-10-02 15:11:43	+xuser1	nu am reusit niciodata
+2011-10-02 15:11:51	+xuser1	pai ce?
+2011-10-02 15:11:57	nkn	conteaza ce contine arhiva aia
+2011-10-02 15:12:14	nkn	posibil sa nu fie nevoie de instalare, sau chiar sa folosesti :
+2011-10-02 15:12:17	nkn	./configure
+2011-10-02 15:12:18	+xuser1	ca sunt tot felu de fisiere in ea >> make.. config
+2011-10-02 15:12:19	nkn	sudo make
+2011-10-02 15:12:23	nkn	sudo make install
+2011-10-02 15:12:26	+xuser1	complicat
+2011-10-02 15:12:27	nkn	si l-ai instalat
+2011-10-02 15:12:37	+xuser1	nu e chiar asa eu nu reusesc
+2011-10-02 15:12:52	+xuser1	ca trebuie instalate si alte chestii
+2011-10-02 15:12:52	Creationn	la unele se mai foloseste scons si scons install
+2011-10-02 15:13:08	+xuser1	http://www.fluxparticle.com/cgmadness/downloads/
+2011-10-02 15:13:15	nkn	daca trebuie instalate alte chestii instalezi acele chestii
+2011-10-02 15:13:19	Creationn	nkn: atat doom3 cat si quake 4 demo ambele nu au multiplayer activat
+2011-10-02 15:13:21	Creationn	:P
+2011-10-02 15:13:24	Creationn	screw them
+2011-10-02 15:14:03	+xuser1	trebuie sa ise
+2011-10-02 15:14:12	+xuser1	sa ies
+2011-10-02 15:14:14	+xuser1	pa
+2011-10-02 15:14:19	nkn	pa
+2011-10-02 15:14:19	+xuser1	:-D
+2011-10-02 15:14:32	<--	xuser1 (~x-man@92.80.145.233) has quit (Quit: Leaving.)
+2011-10-02 15:15:01	nkn	link-ul ala care l-a dat merge fara probleme
+2011-10-02 15:15:16	nkn	e standalone, nu trebuie instalat
+2011-10-02 15:16:50	Creationn	copil mic care nu citeste
+2011-10-02 15:18:33	nkn	nu-mi place jocu :))
+2011-10-02 15:19:03	nkn	nici nu se vede bila pe jaful meu de placa video
+2011-10-02 15:19:36	calvarr	un MG în seara asta nkn?
+2011-10-02 15:19:45	nkn	da
+2011-10-02 15:19:53	calvarr	:))
+2011-10-02 15:20:05	nkn	poate si Creationn ?
+2011-10-02 15:20:17	nkn	sa fie cineva pe care sa pot sa bat :))
+2011-10-02 15:20:23	nkn	sau sa ma bati si tu :))
+2011-10-02 15:21:15	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-10-02 15:22:35	Creationn	:))
+2011-10-02 15:22:39	calvarr	nu mai fi așa modest
+2011-10-02 15:22:40	Creationn	mg fiind ce?
+2011-10-02 15:23:07	calvarr	http://megaglest.org/
+2011-10-02 15:23:55	Creationn	nu joc asa ceva
+2011-10-02 15:24:05	Creationn	n-am talent la el
+2011-10-02 15:24:06	Creationn	:D
+2011-10-02 15:24:22	nkn	eh, nu-i nimic, inveti
+2011-10-02 15:24:23	calvarr	pacat
+2011-10-02 15:24:40	nkn	in timp ce te omoara calvarr sau poate eu
+2011-10-02 15:24:41	calvarr	trebuie să încerci :))
+2011-10-02 15:25:03	calvarr	astăzi este competiție
+2011-10-02 15:25:19	calvarr	poți doar să privești dacă nu vrei să joci
+2011-10-02 15:25:25	Creationn	abso-fuckin-lotley not :D
+2011-10-02 15:25:26	nkn	mda la 7 sau 8
+2011-10-02 15:25:54	nkn	Creationn = chicken..
+2011-10-02 15:26:04	calvarr	așa zic toți..
+2011-10-02 15:26:15	calvarr	ții frică..
+2011-10-02 15:26:28	calvarr	e mare provocarea?
+2011-10-02 15:26:49	calvarr	bine, nu mai vorbesc..
+2011-10-02 15:27:06	nkn	eu am castigat doar de vreo 3 sau 4 ori de cand ma joc cu calvarr si am pierdut de vreo 30 de ori :))
+2011-10-02 15:27:26	calvarr	și acum nkn mă bate
+2011-10-02 15:27:36	nkn	pff mda
+2011-10-02 15:28:07	calvarr	eu zic că descarcă jocul.. ce zici?
+2011-10-02 15:28:22	nkn	in nici un caz :))
+2011-10-02 15:28:30	calvarr	eh..
+2011-10-02 15:28:30	nkn	stiu ca l-a incercat o data
+2011-10-02 15:29:06	nkn	apropo calvarr 
+2011-10-02 15:29:10	nkn	ce nu merge la awoken?
+2011-10-02 15:29:17	nkn	il instalezi din aur
+2011-10-02 15:29:40	nkn	nu are nimic de gnome ca dependenta
+2011-10-02 15:30:19	calvarr	hmm din obișnuința l-am luat de pe http://gnome-look.org/
+2011-10-02 15:30:29	calvarr	de instalat se instalează
+2011-10-02 15:30:39	calvarr	însă nu se configurează
+2011-10-02 15:30:55	calvarr	nu mă interesează în mod deosebit
+2011-10-02 15:30:55	nkn	aur e plin de chestii, instaleaza-l de acolo
+2011-10-02 15:31:09	calvarr	e foarte mare pachetul
+2011-10-02 15:31:15	nkn	iti da si 2 teme dark si light si ai si ala de configurare
+2011-10-02 15:31:27	calvarr	ok, văd acum
+2011-10-02 15:31:41	nkn	si pentru eroarea aia de murrine engine, instaleaza gtk-engines si gtk-murrine-engine
+2011-10-02 15:32:00	calvarr	poți să te interesez cum lansez metin2 fara wine instalat ca și teamviewer?
+2011-10-02 15:32:04	nkn	gtk-engine-murrine *
+2011-10-02 15:32:13	Creationn	nkn: una e sa fii las alta e sa nu joci din simplul motiv ca n-ai talent :)
+2011-10-02 15:32:26	nkn	se invata!!!
+2011-10-02 15:32:33	calvarr	git clone git://source.winehq.org/git/wine.git && cd wine de aici un început
+2011-10-02 15:32:38	Creationn	nu ma intereseaza sa invat
+2011-10-02 15:32:45	nkn	teamviewer foloseste wine
+2011-10-02 15:32:45	Creationn	l-am testat nu mi-a placut
+2011-10-02 15:33:19	calvarr	da, dar nu îl instalează îl folosește in mod live
+2011-10-02 15:33:26	calvarr	mă efer la tar.gz
+2011-10-02 15:33:29	nkn	si de ce metin2? nu prea il poti juca
+2011-10-02 15:33:33	calvarr	de pe sit-ul lor
+2011-10-02 15:33:43	calvarr	merge de aici
+2011-10-02 15:33:43	nkn	ca are program dala anticheat
+2011-10-02 15:33:49	nkn	care vede wine ca hack
+2011-10-02 15:34:10	calvarr	http://www.metin2tim.ro/
+2011-10-02 15:34:14	nkn	pff
+2011-10-02 15:34:18	nkn	ala nu e metin2
+2011-10-02 15:34:22	calvarr	nu e pentru mine
+2011-10-02 15:34:26	nkn	e o copie proasta de private server 
+2011-10-02 15:34:29	calvarr	nepoțica cere
+2011-10-02 15:34:39	nkn	nu e server oficial
+2011-10-02 15:34:41	calvarr	și nu vreau să instalez wine
+2011-10-02 15:34:53	calvarr	știu
+2011-10-02 15:37:19	Creationn	decat metin2 mai bine regnum
+2011-10-02 15:37:27	Creationn	metin2 mergea inainte sub wine
+2011-10-02 15:37:38	calvarr	 asta joacă copii în clasa ei
+2011-10-02 15:37:40	Creationn	de cand au adaugat porcaria aia de updater via torrent nu mai merge
+2011-10-02 15:38:07	Creationn	cauta tu regnum si arata-i jocu
+2011-10-02 15:38:14	Creationn	e mai bun decat metin2 de o mie de ori
+2011-10-02 15:38:17	nkn	de aia poti scapa intr-un vbox
+2011-10-02 15:38:20	Creationn	si e multiplatforma
+2011-10-02 15:38:26	nkn	faci update si copiezi fisierele
+2011-10-02 15:38:38	nkn	dar jocul ruleaza acel hackshield si e problema cu wine
+2011-10-02 15:39:41	nkn	calvarr: eu am gasit doar persoane care intreaba cum sa creeze acel wineserver standalone
+2011-10-02 15:39:54	Creationn	exista pe youtube tutoriale parca
+2011-10-02 15:40:01	calvarr	nue problemă jocul chiar merge
+2011-10-02 15:40:06	nkn	teamviewer instaleaza wine in /opt/teamviewer/teamviewer/6/wine/
+2011-10-02 15:40:09	calvarr	de pe acel server neoficial
+2011-10-02 15:40:44	calvarr	adica dacă am folosit odata acel teamviwer am și vine?
+2011-10-02 15:40:47	nkn	si se creaza un symlink in /usr/bin/ de la scriptul din /opt/teamviewer/teamviewer/6/bin/teamviewer
+2011-10-02 15:41:18	nkn	ai putea sa te uiti in acel script sa vezi cum porneste teamviewer acel server
+2011-10-02 15:43:18	nkn	ai putea sa copiezi /opt/teamviewer/ undeva si sa inlocuiesti /opt/teamviewer/teamviewer/6/wine/drive_c/Program Files/TeamViewer/Version6/ cu ce e in metin ala
+2011-10-02 15:43:31	nkn	si apoi sa modifici toate scripturile sa schimbi executabilul
+2011-10-02 15:43:47	calvarr	voi încerca
+2011-10-02 15:44:02	calvarr	dacă reușesc îl urc undeva și dau link
+2011-10-02 15:44:32	<--	daniyl (~daniyl@79.112.27.183) has quit (Quit: Leaving)
+2011-10-02 15:45:24	nkn	ar trebui sa mearga daca inlocuiesti unde trebuie tot, dar nu stiu daca acel wine are anumite modificari pentru teamviewer..
+2011-10-02 15:45:53	nkn	iar daca are atunci e posibil sa nu fie bine pentru metin2, si poate la metin2 ii trebuie anumite modificari
+2011-10-02 16:11:59	nkn	din ce am citit http://forum.winehq.org/viewtopic.php?p=59590&sid=c4a9c49015538633499c5df979efa30f
+2011-10-02 16:13:25	nkn	trebuie sa iei sursa, sa modifici in sursa in folderul /tools/ fisierul winewrapper sa setezi unde e folderul, presupun ca unde va fi folderul cu metin2
+2011-10-02 16:13:57	nkn	apoi sa il compilezi , ./configure --prefix=locatia catre un folder
+2011-10-02 16:14:18	nkn	si apoi make si make install si o sa il instaleze in acel folder si acolo o sa ai un wine standalone
+2011-10-02 16:16:08	nkn	ce ciudati sunt astia de la facebook si google+ care isi dau like sau +1 la poze si link-urile proprii :))
+2011-10-02 16:27:46	Creationn	suntem niste nebuni intr-o lume ciudata :))
+2011-10-02 16:29:32	nkn	calvarr: eu zic sa instalezi wine...i-am dat sa compileze si sta de aproape o ora..chiar si kernelul care ziceam ca e foarte mult 20min, asta e mult mai mult
+2011-10-02 16:42:18	Creationn	wine se compileaza in 1h 15min minim
+2011-10-02 16:42:18	Creationn	:P
+2011-10-02 16:42:47	Creationn	poate la 4gb de ram ai 1h eu la 2gb de ram am 1h si 15min sau 20m daca mai sunt si eu la pc si fac altceva
+2011-10-02 16:45:38	nkn	pff
+2011-10-02 16:45:42	nkn	trebuia sa zici mai devreme
+2011-10-02 16:45:45	nkn	acum il opresc...
+2011-10-02 16:48:25	Creationn	de ce ?
+2011-10-02 16:48:29	 *	Creationn :)
+2011-10-02 16:48:40	 *	Creationn i dit it my waaaaaaaaaaay ....
+2011-10-02 16:49:05	Creationn	frank sinatra ptr curiosi :))
+2011-10-02 16:49:31	nkn	vroiam sa testez daca merge standalone
+2011-10-02 16:49:38	nkn	dar daca ia atat, mai bine lasa
+2011-10-02 16:50:27	Creationn	atat dureaza
+2011-10-02 16:50:27	Creationn	:)
+2011-10-02 16:50:38	Creationn	daca ma intrebai iti ziceam de la inceput
+2011-10-02 17:01:14	nkn	si ai incercat programele alea de cli?
+2011-10-02 17:06:38	Creationn	nu, n-am apucat
+2011-10-02 17:06:51	Creationn	m-am dat sa descarc un film
+2011-10-02 17:06:54	Creationn	The.Day.the.Earth.Stood.Still.2008
+2011-10-02 17:07:22	Creationn	:D
+2011-10-02 17:07:59	Creationn	720p desigur
+2011-10-02 17:08:23	Creationn	am incercat un 1080p o data si se chinuia pc-ul sa il ruleze la un fps decent
+2011-10-02 17:08:34	nkn	ce monitor ai?
+2011-10-02 17:08:37	nkn	cati "
+2011-10-02 17:08:52	nkn	si filmul ala e tare ;)
+2011-10-02 17:09:15	Creationn	monitor wide
+2011-10-02 17:09:20	Creationn	de 21.5 inch
+2011-10-02 17:09:24	Creationn	LCD-LED
+2011-10-02 17:09:31	Creationn	1080p rezolutie nativa
+2011-10-02 17:09:52	nkn	aha, la ala atunci merge 1080
+2011-10-02 17:10:15	nkn	nu ii inteleg pe unii, cu 17,19 sau chiar 15, se dau mari ca le merge 1080 sau se plang ca nu le merge...
+2011-10-02 17:10:18	Creationn	in vreo 6 minute il am
+2011-10-02 17:10:33	Creationn	am avut de 19 inainte
+2011-10-02 17:10:42	nkn	parca la rezolutia aia ar face vreo diferenta 720 si 1080
+2011-10-02 17:10:46	Creationn	1080p chiar se misca greu
+2011-10-02 17:10:55	Creationn	dar 720p nu
+2011-10-02 17:11:02	Creationn	tot LG
+2011-10-02 17:11:27	nkn	si la 19", trebuie sa te uiti foarte atent sa vezi o diferenta intre 720 si 1080..
+2011-10-02 17:12:04	Creationn	pai din cate stiu eu 480p sau ceva de genul este SD
+2011-10-02 17:12:36	Creationn	720p ar fi HD iar 1080 ar fi full HD
+2011-10-02 17:12:58	nkn	SD e 240p 360 si 480 nu stiu ce sunt
+2011-10-02 17:13:31	Creationn	tot sd
+2011-10-02 17:13:37	Creationn	cel putin asa zic aia de la you tube
+2011-10-02 17:13:48	Creationn	la 1080p mi se pare ca sunt amplificare culorile
+2011-10-02 17:13:55	nkn	da iar la un monitor de 19", rezolutia nu e asa de mare ca sa vezi o diferenta intre 720 si 1080, daia eu nu ii inteleg pe aia cu monitoare asa mici si cu 1080
+2011-10-02 17:14:05	Creationn	claritatea e mai mare
+2011-10-02 17:14:26	Creationn	adica in genul monitor de 15 dar el se uita la filme 720 sau 1080p ?
+2011-10-02 17:14:27	Creationn	:))
+2011-10-02 17:14:37	nkn	da...
+2011-10-02 17:14:41	nkn	sau se plange ca nu ii merge
+2011-10-02 17:14:44	Creationn	cretinoizi
+2011-10-02 17:14:52	nkn	parca ar vedea vreo diferenta
+2011-10-02 17:15:00	Creationn	ei nu
+2011-10-02 17:15:05	Creationn	dar la wide se vede
+2011-10-02 17:15:16	Creationn	un film sub 720p are un aspect
+2011-10-02 17:15:22	Creationn	ce este peste 720p are alt aspect
+2011-10-02 17:15:25	Creationn	si in plus
+2011-10-02 17:15:35	nkn	cand mi-am luat eu laptop-ul, l-am cumparat de la unul, si are display de 15.4, cand m-am intalnit cu ala sa il cumpar imi povestea si repovestea ca merg filme 1080, avea si pe hdd in laptop vreo 4 filme 1080 ca sa imi arate...
+2011-10-02 17:15:36	Creationn	se stie ca un mkv are mai multa claritate decat un avi
+2011-10-02 17:15:46	nkn	alea da
+2011-10-02 17:16:32	Creationn	ce slab, doar 7 mb/s
+2011-10-02 17:16:52	Creationn	hai ca sa descarcat
+2011-10-02 17:16:57	Creationn	ne auzim mai incolo
+2011-10-02 17:17:08	 *	Creationn be back later
+2011-10-02 17:17:22	nkn	kk vizionare placuta
+2011-10-02 17:18:09	Creationn	ms
+2011-10-02 17:50:40	calvarr	merge lansata standalone o aplicatie cu wine...
+2011-10-02 17:50:42	calvarr	nkn
+2011-10-02 17:50:52	calvarr	din pacate nu merge metin2
+2011-10-02 18:58:37	<--	[XrCT]Creation (creation@217.18.70.226) has quit (Quit: Bu-bye !!!)
+2011-10-02 19:03:02	 *	Creationn back
+2011-10-02 19:03:10	Creationn	calvarr: eu am zis mai sus ca nu merge
+2011-10-02 19:03:17	Creationn	nu a aparut msg meu pe canal
+2011-10-02 19:07:22	calvarr	știu ce ai scris, voi mai încerca, eu am încercat fără a instala wine, am încercat cu wine standalone; acum 1-2 luni nepoțica mea juca metin2tim de pe linux cu wine
+2011-10-02 19:09:01	Creationn	http://appdb.winehq.org/objectManager.php?sClass=version&iId=18834
+2011-10-02 19:09:10	Creationn	aici e ultimul meu test cu metin2
+2011-10-02 19:09:14	Creationn	care a mers
+2011-10-02 19:09:22	Creationn	de la versiunea aia incolo nu a mai mers
+2011-10-02 19:10:27	Creationn	"Run the metin2client.bin file with wine should work. (That starts the game directly without the updater)"
+2011-10-02 19:10:33	Creationn	asa zice un ultim comment
+2011-10-02 19:10:37	Creationn	n-am mai incercat
+2011-10-02 19:10:41	Creationn	incearca tu si vezi
+2011-10-02 19:17:45	nkn	trebuie modificat clientul ca sa nu porneasca hackshield, lucru care e ilegal si care va face sa functioneze cu wine, ala a mers ca este dinainte sa puna hackshield
+2011-10-02 19:18:16	nkn	dar calvarr vrea pentru metin2tim ala, private server care nu are hackshield, nici un private server nu are
+2011-10-02 19:18:31	Creationn	eu am testat versiune oficiala
+2011-10-02 19:18:33	Creationn	:)
+2011-10-02 19:18:39	Creationn	nu crak shit
+2011-10-02 19:18:45	Creationn	adica pana mea
+2011-10-02 19:18:55	Creationn	de ce server privat cand ala oficial e fain
+2011-10-02 19:18:56	Creationn	plus
+2011-10-02 19:18:56	nkn	dar vrea sa faca cumva sa nu vie nevoie de a instala wine, sa fie deja un wine in el cum e cu teamviewer
+2011-10-02 19:19:06	Creationn	serverele private mi se pare ca sunt ilegale
+2011-10-02 19:19:11	nkn	nu ai ce sa ii zici, a zis ca ala il vrea nepotica
+2011-10-02 19:19:21	Creationn	pfff
+2011-10-02 19:19:25	Creationn	whatever
+2011-10-02 19:19:26	Creationn	:)
+2011-10-02 19:19:39	nkn	el trebuie sa se conformeze :P
+2011-10-02 19:20:06	nkn	iar nu toate serverele private sunt ilegale, conteaza daca jocul e gratis sau nu
+2011-10-02 19:20:24	nkn	sau daca e joc cu multe expansion packuri, poate unele anterioare sunt gratis si dastea :P
+2011-10-02 19:21:41	Creationn	in metin2 ai si optiuni free
+2011-10-02 19:21:43	Creationn	dar si platite
+2011-10-02 19:21:45	Creationn	aia e faza
+2011-10-02 19:21:53	Creationn	si la alea pe bani apar dileme
+2011-10-02 19:21:55	Creationn	taxe
+2011-10-02 19:21:57	Creationn	impozite
+2011-10-02 19:22:01	Creationn	bla bla bla :))
+2011-10-02 19:22:02	-->	[XrCT]Creation (~creation@217.18.70.226) has joined #linuxmint-ro
+2011-10-02 19:22:45	Creationn	http://www.elitepvpers.com/forum/metin2-pserver-discussions-questions/1341376-can-tec-interactive-take-legal-action-private-servers.html
+2011-10-02 19:22:47	Creationn	uite ici
+2011-10-02 19:23:03	Creationn	deci nepotica mai bine joaca metin2 de la "mama lui" decat pe private
+2011-10-02 19:23:16	Creationn	Private servers, whatever the justification is, are illegal. The logos,  imagery, content, translations and game code of Metin2 are the  intellectual property of Ymir Entertainment which require a license for  their use, commercial or not. Intellectual property rights are  recognized by the laws of virtually every country in the world, with  penalties ranging from fines to jailtime depending on the country and  severity of the infringement.
+2011-10-02 19:23:22	Creationn	parerea mea of course
+2011-10-02 19:23:34	Creationn	acum fiecare face cum il duce capul
+2011-10-02 19:23:41	nkn	da dar daca colegii joaca ala si vrea si ea tot ala
+2011-10-02 19:23:43	Creationn	eu i-as fi dat regnum instantanei
+2011-10-02 19:23:51	Creationn	*instantaneu
+2011-10-02 19:24:01	Creationn	sa joace si ea atunci
+2011-10-02 19:24:02	Creationn	:D
+2011-10-02 19:24:05	Creationn	i`ve rest my case
+2011-10-02 19:26:08	Creationn	Metin2 (English) private servers shut down by TEC Interactive to-date as follows:
+2011-10-02 19:26:15	Creationn	5) Metin2United (Romanian server)
+2011-10-02 19:26:16	Creationn	=))
+2011-10-02 19:26:19	Creationn	ce nume cretin
+2011-10-02 19:26:22	Creationn	altul nu gaseau
+2011-10-02 19:28:35	Creationn	la fel ca si cu serverele de warcraft
+2011-10-02 19:28:41	Creationn	si alea sunt ilegale
+2011-10-02 19:34:06	nkn	calvarr: ce facem? stam si ne uitam cine vine sau cum?
+2011-10-02 20:02:46		irc: disconnected from server
+2011-10-02 20:03:12	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-02 20:03:12	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-02 20:03:12	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-02 20:03:12	--	Nicks #linuxmint-ro: [@ChanServ [XrCT]Creation calvarr Creationn nkn]
+2011-10-02 20:03:12	--	Channel #linuxmint-ro: 5 nicks (1 op, 0 halfops, 0 voices, 4 normals)
+2011-10-02 20:03:20	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-02 20:06:36		irc: disconnected from server
+2011-10-02 20:08:08	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-02 20:08:08	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-02 20:08:08	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-02 20:08:08	--	Nicks #linuxmint-ro: [@ChanServ [XrCT]Creation calvarr Creationn nkn]
+2011-10-02 20:08:08	--	Channel #linuxmint-ro: 5 nicks (1 op, 0 halfops, 0 voices, 4 normals)
+2011-10-02 20:08:16	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-02 20:29:37		irc: disconnected from server
+2011-10-02 20:31:31	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-02 20:31:31	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-02 20:31:31	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-02 20:31:31	--	Nicks #linuxmint-ro: [@ChanServ [XrCT]Creation calvarr Creationn nkn]
+2011-10-02 20:31:31	--	Channel #linuxmint-ro: 5 nicks (1 op, 0 halfops, 0 voices, 4 normals)
+2011-10-02 20:31:39	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-02 20:48:08	-->	daniyl (~daniyl@79.112.27.183) has joined #linuxmint-ro
+2011-10-02 20:49:38	<--	calvarr (~alondra@89.40.149.74) has quit (Quit: WeeChat 0.3.5)
+2011-10-02 21:16:29		irc: disconnected from server
+2011-10-02 21:50:08	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-02 21:50:08	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-02 21:50:08	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-02 21:50:08	--	Nicks #linuxmint-ro: [@ChanServ [XrCT]Creation Creationn nkn]
+2011-10-02 21:50:08	--	Channel #linuxmint-ro: 4 nicks (1 op, 0 halfops, 0 voices, 3 normals)
+2011-10-02 21:50:08	--	Notice(gibson.freenode.net): [freenode-info] channel trolls and no channel staff around to help? please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+2011-10-02 21:50:15	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-02 22:00:57		[nkn away: not around]
+2011-10-02 22:38:50	<--	Creationn (~creatura@79.118.218.70) has quit (Quit: Leaving.)
+2011-10-02 22:56:02		[nkn back: gone 00:55:05]
+2011-10-03 00:18:27		irc: disconnected from server
+2011-10-03 08:33:51	-->	nkn (~nkn@f79-118-250-37.pitesti.rdsnet.ro) has joined #linuxmint-ro
+2011-10-03 08:33:51	--	Topic for #linuxmint-ro is "Bun venit pe canalul oficial al Linux Mint Romania!!! http://linuxmintromania.forumz.ro In curand: http://www.linuxmint.ro/"
+2011-10-03 08:33:52	--	Topic set by [XrCT]Creation on Sat, 18 Jun 2011 17:00:18
+2011-10-03 08:33:52	--	Nicks #linuxmint-ro: [@ChanServ [XrCT]Creation nkn]
+2011-10-03 08:33:52	--	Channel #linuxmint-ro: 3 nicks (1 op, 0 halfops, 0 voices, 2 normals)
+2011-10-03 08:34:11	--	Channel created on Sat, 18 Jun 2011 14:39:34
+2011-10-03 08:58:30	-->	Creationn (~creatura@f79-118-218-235.pitesti.rdsnet.ro) has joined #linuxmint-ro

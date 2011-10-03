@@ -1,0 +1,278 @@
+exec -a banshee mono  /usr/lib/banshee/Banshee.exe    --redirect-log --play-enqueued
+
+[Info  15:03:43.653] Running Banshee 2.1.4: [ArchLinux (linux-gnu, i686) @ 2011-09-18 15:00:44 EEST]
+[Warn  15:03:46.013] Caught an exception - System.ApplicationException: Invalid frame dimensions (in `Hyena.Gui')
+  at Hyena.Widgets.AnimatedImage.ExtractFrames () [0x00000] in <filename unknown>:0 
+  at Hyena.Widgets.AnimatedImage.Load () [0x00000] in <filename unknown>:0 
+  at Banshee.Gui.Widgets.TaskStatusIcon..ctor () [0x00000] in <filename unknown>:0 
+[Info  15:03:46.341] Updating web proxy from GConf
+[Warn  15:03:46.368] Caught an exception - System.ApplicationException: No support GNOME Settings Daemon could be reached. (in `Banshee.MultimediaKeys')
+  at Banshee.MultimediaKeys.MultimediaKeysService.Banshee.ServiceStack.IExtensionService.Initialize () [0x00000] in <filename unknown>:0 
+  at Banshee.ServiceStack.ServiceManager.StartExtension (Mono.Addins.TypeExtensionNode node) [0x00000] in <filename unknown>:0 
+[Warn  15:03:46.368] Extension `Banshee.MultimediaKeys.MultimediaKeysService' not started: No support GNOME Settings Daemon could be reached.
+[Warn  15:03:46.440] Caught an exception - System.ApplicationException: No support GNOME Settings Daemon could be reached. (in `Banshee.MultimediaKeys')
+  at Banshee.MultimediaKeys.MultimediaKeysService.Banshee.ServiceStack.IExtensionService.Initialize () [0x00000] in <filename unknown>:0 
+  at Banshee.ServiceStack.ServiceManager.StartExtension (Mono.Addins.TypeExtensionNode node) [0x00000] in <filename unknown>:0 
+[Warn  15:03:46.440] Extension `Banshee.MultimediaKeys.MultimediaKeysService' not started: No support GNOME Settings Daemon could be reached.
+[Info  15:03:46.442] All services are started 1.461511
+[Info  15:03:47.512] nereid Client Started
+[Info  15:03:47.637] GStreamer version 0.10.35.0, gapless: True, replaygain: False
+System.ApplicationException: Could not find org.freedesktop.Avahi
+  at Mono.Zeroconf.Providers.AvahiDBus.DBusManager.Initialize () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.AvahiDBus.ZeroconfProvider.Initialize () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.ProviderFactory.GetProviders () [0x00000] in <filename unknown>:0 
+[Warn  15:03:47.838] Failed to start DAAP client - System.Exception: No Zeroconf providers could be found or initialized. Necessary daemon may not be running. (in `Mono.Zeroconf')
+  at Mono.Zeroconf.Providers.ProviderFactory.GetProviders () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.ProviderFactory.get_DefaultProvider () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.ProviderFactory.get_SelectedProvider () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.ServiceBrowser..ctor () [0x00000] in <filename unknown>:0 
+  at Daap.ServiceLocator.Start () [0x00000] in <filename unknown>:0 
+  at Banshee.Daap.DaapService.ThreadedInitialize () [0x00000] in <filename unknown>:0 
+[Warn  15:04:25.272] Caught an exception - System.Xml.XmlException: Text node cannot appear in this state.  Line 1, position 1. (in `System.Xml')
+  at Mono.Xml2.XmlTextReader.ReadText (Boolean notWhitespace) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.ReadContent () [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.Read () [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader.Read () [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlReader.ReadToFollowing (System.String name) [0x00000] in <filename unknown>:0 
+  at MusicBrainz.MusicBrainzObject+<Query>c__AnonStorey3`1[MusicBrainz.Release].<>m__5 (System.Xml.XmlReader reader) [0x00000] in <filename unknown>:0 
+  at MusicBrainz.MusicBrainzObject.XmlProcessingClosure (System.String url, MusicBrainz.XmlProcessingDelegate code) [0x00000] in <filename unknown>:0 
+  at MusicBrainz.MusicBrainzObject.Query[Release] (System.String url_extension, Int32 limit, Int32 offset, System.String parameters, System.Nullable`1& count) [0x00000] in <filename unknown>:0 
+  at MusicBrainz.Query`1[MusicBrainz.Release].LoadResults () [0x00000] in <filename unknown>:0 
+  at MusicBrainz.Query`1[MusicBrainz.Release].get_Count () [0x00000] in <filename unknown>:0 
+  at MusicBrainz.Query`1[MusicBrainz.Release].PerfectMatch () [0x00000] in <filename unknown>:0 
+  at Banshee.Metadata.MusicBrainz.MusicBrainzQueryJob.Lookup () [0x00000] in <filename unknown>:0 
+  at Banshee.Metadata.MusicBrainz.MusicBrainzQueryJob.Run () [0x00000] in <filename unknown>:0 
+  at Banshee.Metadata.MetadataServiceJob.Run () [0x00000] in <filename unknown>:0 
+[Warn  15:04:27.157] Caught an exception - System.Xml.XmlException: Text node cannot appear in this state.  Line 1, position 1. (in `System.Xml')
+  at Mono.Xml2.XmlTextReader.ReadText (Boolean notWhitespace) [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.ReadContent () [0x00000] in <filename unknown>:0 
+  at Mono.Xml2.XmlTextReader.Read () [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlTextReader.Read () [0x00000] in <filename unknown>:0 
+  at System.Xml.XmlReader.ReadToFollowing (System.String name) [0x00000] in <filename unknown>:0 
+  at MusicBrainz.MusicBrainzObject+<Query>c__AnonStorey3`1[MusicBrainz.Release].<>m__5 (System.Xml.XmlReader reader) [0x00000] in <filename unknown>:0 
+  at MusicBrainz.MusicBrainzObject.XmlProcessingClosure (System.String url, MusicBrainz.XmlProcessingDelegate code) [0x00000] in <filename unknown>:0 
+  at MusicBrainz.MusicBrainzObject.Query[Release] (System.String url_extension, Int32 limit, Int32 offset, System.String parameters, System.Nullable`1& count) [0x00000] in <filename unknown>:0 
+  at MusicBrainz.Query`1[MusicBrainz.Release].LoadResults () [0x00000] in <filename unknown>:0 
+  at MusicBrainz.Query`1[MusicBrainz.Release].get_Count () [0x00000] in <filename unknown>:0 
+  at MusicBrainz.Query`1[MusicBrainz.Release].PerfectMatch () [0x00000] in <filename unknown>:0 
+  at Banshee.Metadata.MusicBrainz.MusicBrainzQueryJob.Lookup () [0x00000] in <filename unknown>:0 
+  at Banshee.Metadata.MusicBrainz.MusicBrainzQueryJob.Run () [0x00000] in <filename unknown>:0 
+  at Banshee.Metadata.MetadataServiceJob.Run () [0x00000] in <filename unknown>:0 
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-WARNING **: gtk_scrolled_window_add(): cannot add non scrollable widget use gtk_scrolled_window_add_with_viewport() instead
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed
+
+(Banshee:26679): Gtk-CRITICAL **: IA__gtk_style_detach: assertion `style->attach_count > 0' failed

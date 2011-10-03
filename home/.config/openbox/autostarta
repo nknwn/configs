@@ -1,0 +1,20 @@
+#conky -q &
+tint2 &
+#wicd-client &
+nitrogen --restore &
+volumeicon &
+#parcellite &
+xcompmgr &
+vattery &
+thunar --daemon &
+#setxkbmap ca &
+#/usr/bin/synclient TouchpadOff=1 &
+redshiftgui &
+start-pulseaudio-x11 &
+/home/nkn/mpd.sh &
+#nm-applet &
+modem-manager &
+sudo ntpd -qg &
+#pcmanfm --desktop &
+#stalonetray &
+fbxkb &

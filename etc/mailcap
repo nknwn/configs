@@ -1,0 +1,4 @@
+application/x-msdownload; /opt/cxgames/support/desktopdata/cxgames-0/cxassoc/Scripts/cxgames-0:application_x-crossover-exe::run '%s'; test=test -n "$DISPLAY"
+application/x-msdos-program; /opt/cxgames/support/desktopdata/cxgames-0/cxassoc/Scripts/cxgames-0:application_x-crossover-exe::run '%s'; test=test -n "$DISPLAY"
+application/x-crossover-exe; /opt/cxgames/support/desktopdata/cxgames-0/cxassoc/Scripts/cxgames-0:application_x-crossover-exe::run '%s'; test=test -n "$DISPLAY"
+application/x-crossover-cxarchive; /opt/cxgames/support/desktopdata/cxgames-0/cxassoc/Scripts/cxgames-0:application_x-crossover-cxarchive::restore '%s'; test=test -n "$DISPLAY"

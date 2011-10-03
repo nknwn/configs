@@ -1,0 +1,40 @@
+[General]
+volume = 1.0
+backend = MPlayer
+internal = True
+player = /usr/bin/totem
+staticports = False
+inport = 10320.0
+outport = 10321.0
+enableremote = True
+aspect = 16:10
+blacklist = 
+contrast = 1.0
+brightness = 1.0
+saturation = 1.0
+showdonate = 0.06
+statusicon = True
+subscriptions = file:///usr/share/tv-maxe/subscriptions/Romania;file:///usr/share/tv-maxe/subscriptions/International
+windowsize = 858x546
+hpanedposition = 210
+
+[Remote]
+playpause = 00000000000100a4
+switch_fullscreen = 0000000000010174
+stop = 0000000000010080
+volumeup = 0000000000010073
+volumedown = 0000000000010072
+mute = 0000000000010071
+quit = 0000000000010179
+nextchannel = 0000000000010192
+prevchannel = 0000000000010193
+info = 000000000001008b
+up = 0000000000010067
+down = 000000000001006c
+ok = 0000000000010160
+
+[PBX]
+username = 
+password = 
+remember = False
+

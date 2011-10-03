@@ -1,0 +1,934 @@
+//Atom Zombie Smasher manifest file.
+//Blendo Games 2010
+
+//WHAT IS THIS?
+//This "manifest" file allows you to modify
+//gameplay parameters.
+
+//Lines beginning with // double slash are
+//considered comments. They're ignored by
+//the game.
+
+//Debug hotkeys are available to you during gameplay:
+//CTRL+SHIFT+F11: open debug menu.
+//F12: Re-load your mod. Press this at any time to
+//     instantly update the game with any mod changes.
+
+//File location:
+//Place manifest.txt file in your mod folder:
+
+// Windows 7:
+// C:\Users\<username>\AppData\Roaming\AtomZombieData\mods\<modname>\
+
+// Windows XP:
+// C:\Documents and Settings\<username>\Application Data\AtomZombieData\mods\<modname>\
+
+// Mac:
+// Users\<username>\Library\Application Support\AtomZombieData\mods\<modname>\
+
+//Enjoy!
+
+
+//Name of this mod. 
+MODNAME		Example Mod
+
+//Mod author's name.
+AUTHOR		Blendo Games
+
+//Mod description.
+DESCRIPTION
+{
+This is an example mod for Atom Zombie Smasher.
+
+Feel free to use this Example Mod as a template for your own mod. To find the location of this file, click on the "Info" button.
+
+Enjoy!
+}
+
+
+// ---------------------------------------------------------------------
+// ======================= CITY/WORLD GENERATION =======================
+// ---------------------------------------------------------------------
+
+//City generation: min/max horizontal dimension of city. Size scales to city population.
+GAME_CITYMINWIDTH	33
+GAME_CITYMAXWIDTH	45
+
+//City generation: min/max vertical dimension of city. Size scales to city population.
+GAME_CITYMINHEIGHT	26
+GAME_CITYMAXHEIGHT	30
+
+
+//Building generation: min/max size a building can be.
+MINBUILDINGSIZE		2
+MAXBUILDINGSIZE		5
+
+//Building generation: min/max height a building can be.
+MINBUILDINGHEIGHT	10
+MAXBUILDINGHEIGHT	100
+
+
+//Buildings: min/max health. Health scales depending on their size.
+GAME_BLD_MINHEALTH	10
+GAME_BLD_MAXHEALTH	70
+
+
+//Min/max amount of parks in a city.
+GAME_CITYPARKS_MIN		1
+GAME_CITYPARKS_MAX		5
+
+
+//City populations. Scales according to its zombie outbreak levels.
+CITYPOP_LVL1		125
+CITYPOP_LVL2		250
+CITYPOP_LVL3		350
+
+
+//Scientist populations per zombie outbreak levels.
+SCIPOP_LVL1			1
+SCIPOP_LVL2			5
+SCIPOP_LVL3			10
+
+
+//Worldmap: maximum number of territories.
+GEO_MAXCITIES		40
+
+
+//Worldmap: amount of tiles wide.
+GEO_WIDTH			100
+
+
+//Worldmap: amount of tiles high.
+GEO_HEIGHT			60
+
+
+//Worldmap: minimum buffer distance between cities.
+GEO_CITYBUFFER		3
+
+
+//Worldmap: minimum buffer distance between world edge borders & cities.
+GEO_BORDERBUFFER	6
+
+
+//Clamp the city size scalers to this max population.
+GAME_CITYPOPULATIONCLAMP	350
+
+
+//Color: dotted borders.
+GEOBORDERCOLOR_R	200
+GEOBORDERCOLOR_G	220
+GEOBORDERCOLOR_B	200
+
+
+//Color: human-owned territories.
+GEOHUMANCOLOR_R		250
+GEOHUMANCOLOR_G		230
+GEOHUMANCOLOR_B		140
+
+
+//Color: unclaimed territories.
+GEOUNCLAIMEDCOLOR_R		230
+GEOUNCLAIMEDCOLOR_G		250
+GEOUNCLAIMEDCOLOR_B		230
+
+
+//Color: zeppelins.
+GEOZEPPELINCOLOR_R	255
+GEOZEPPELINCOLOR_G	170
+GEOZEPPELINCOLOR_B	0
+
+
+
+
+// ------------------------------------------------------------
+// ======================= PEOPLE STATS =======================
+// ------------------------------------------------------------
+
+
+//Human wander move speed. (Seconds needed move from one tile to next tile)
+HUMANSPEED				7.0
+
+
+//Human evacuation run speed.  (Seconds needed move from one tile to next tile)
+HUMANEVACUATIONSPEED	1.7
+
+
+//Human run-away-from-zombies panic speed.  (Seconds needed move from one tile to next tile)
+HUMANPANICSPEED			1.2
+
+
+//Zombie default speed.   (Seconds needed move from one tile to next tile)
+ZOMBIESPEED				1.55
+
+
+//Casual mode: Zombie movespeed modifier. (base speed * modifer = final speed)
+ZOMBIESPEED_CASUAL_MODIFIER		1.0
+
+
+//Hardcore mode: Zombie movespeed modifier. (base speed * modifer = final speed)
+ZOMBIESPEED_HARDCORE_MODIFIER	-0.5
+
+
+//Zed color.
+HUMANCOLOR_R		255
+HUMANCOLOR_G		230
+HUMANCOLOR_B		110
+
+
+//Zed color.
+ZOMBIECOLOR_R		255
+ZOMBIECOLOR_G		50
+ZOMBIECOLOR_B		255
+
+
+//Super Zed color
+SUPERZOMBIECOLOR_R	255
+SUPERZOMBIECOLOR_G	160
+SUPERZOMBIECOLOR_B	255
+
+
+//Human blood decal color.
+HUMANBLOODCOLOR_R			70
+HUMANBLOODCOLOR_G			0
+HUMANBLOODCOLOR_B			0
+
+
+//Human animated bloodspurt color.
+HUMANBLOODSPURTCOLOR_R		255
+HUMANBLOODSPURTCOLOR_G		30
+HUMANBLOODSPURTCOLOR_B		30
+
+
+//Zombie blood decal color.
+ZOMBIEBLOODCOLOR_R			100
+ZOMBIEBLOODCOLOR_G			150
+ZOMBIEBLOODCOLOR_B			0
+
+
+//Zombie animated bloodspurt color.
+ZOMBIEBLOODSPURTCOLOR_R		130
+ZOMBIEBLOODSPURTCOLOR_G		240
+ZOMBIEBLOODSPURTCOLOR_B		0
+
+
+// ---------------------------------------------------------------
+// ======================= DAY/NIGHT CYCLE =======================
+// ---------------------------------------------------------------
+
+//Default seconds in one day.
+DAYTIME_SECONDS			60
+
+
+//Casual mode: daytime modifier. (seconds * modifer = final time)
+DAYTIME_MODIFIER_CASUAL		1.5
+
+
+//Hardcore mode: daytime modifier. (seconds * modifier = final time)
+DAYTIME_MODIFIER_HARDCORE	0.75
+
+
+// -------------------------------------------------------
+// ======================= SCORING =======================
+// -------------------------------------------------------
+
+//How many points a human territory generates.
+HUMAN_TERRITORYSCORE	15
+
+
+//How many points a zombie territory generates. (outbreak level * multiplier = final score)
+GAME_ZOMBIETERRITORY_MULTIPLIER		10
+
+
+//Default victory points for a default game.
+DEFAULTVICTORYPOINTS	6000
+
+//Victory points for a short game.
+VICTORYPOINTS_SHORT		1000
+
+//Victory points for a long game.
+VICTORYPOINTS_LONG		20000
+
+
+//Score modifier for zombie outbreak levels. (people rescued * (outbreaklevel * pointmod) = final score)
+GAME_OUTBREAK_POINTMOD	1.25
+
+
+//How many extra rescues needed for a gold medal.
+GOLDMEDALTHRESHOLD		60
+
+//How many extra rescues needed for a silver medal.
+SILVERMEDALTHRESHOLD	30
+
+
+//Time threshold for getting gold medal in assault missions.
+ASSAULTGOLDTIME			20
+
+//Time threshold for getting silver medal in assault missions.
+ASSAULTSILVERTIME		40
+
+
+//Assault mission: how many scientists you get upon mission success.
+GAME_ASSAULTSCIENTISTREWARD		35
+
+
+//Assault mission: how many victory points you get upon mission success.
+GAME_ASSAULT_VP_REWARD			100
+
+
+// -------------------------------------------------------------------
+// ======================= EXPLOSIVE BUILDINGS =======================
+// -------------------------------------------------------------------
+
+
+//Explosion radius for explosive buildings.
+GAME_EXPLOSIVEBUILDING_RADIUS	7
+
+
+//Explosion damage for explosive buildings.
+GAME_EXPLOSIVEBUILDING_DAMAGE	150
+
+
+//Min/max amount of explosive buildings in a city.
+GAME_EXPLOSIVEBUILDING_MIN		1
+GAME_EXPLOSIVEBUILDING_MAX		5
+
+
+//Multiply their health by this value.
+GAME_EXPLOSIVEBUILDING_HEALTHMOD	0.25
+
+
+// ----------------------------------------------------
+// ======================= GAME =======================
+// ----------------------------------------------------
+
+
+
+//The max zombie outbreak level.
+GAME_MAXZOMBIELEVEL		4
+
+
+//How many new outbreaks every month.
+GAME_NEWOUTBREAKAMOUNT_JAN			2
+
+
+//How many people have to be rescued in a mission.
+RESCUEAMOUNT_DEFAULT	60
+
+
+//The people rescue quotas for the first five missions.
+RESCUEAMOUNT_1			10
+RESCUEAMOUNT_2			20
+RESCUEAMOUNT_3			30
+RESCUEAMOUNT_4			40
+RESCUEAMOUNT_5			50
+
+
+      
+
+//The min/max timescale (multiply by 100 to get value, i.e. "0.1" = 10% time scale)
+TIMESCALE_MIN		0.1
+TIMESCALE_MAX		5.0
+
+
+//Default timescale when starting new game.
+TIMESCALE_DEFAULT	0.7
+
+
+//How many outbreaks (random min/max) per month.
+OUTBREAKS_JAN_MIN	2
+OUTBREAKS_JAN_MAX	2
+
+OUTBREAKS_FEB_MIN	2
+OUTBREAKS_FEB_MAX	3
+
+OUTBREAKS_MAR_MIN	2
+OUTBREAKS_MAR_MAX	3
+
+OUTBREAKS_APR_MIN	2
+OUTBREAKS_APR_MAX	3
+
+OUTBREAKS_MAY_MIN	2
+OUTBREAKS_MAY_MAX	3
+
+OUTBREAKS_JUN_MIN	2
+OUTBREAKS_JUN_MAX	3
+
+OUTBREAKS_JUL_MIN	2
+OUTBREAKS_JUL_MAX	3
+
+OUTBREAKS_AUG_MIN	2
+OUTBREAKS_AUG_MAX	3
+
+OUTBREAKS_SEP_MIN	2
+OUTBREAKS_SEP_MAX	3
+
+OUTBREAKS_OCT_MIN	2
+OUTBREAKS_OCT_MAX	2
+
+OUTBREAKS_NOV_MIN	2
+OUTBREAKS_NOV_MAX	2
+
+OUTBREAKS_DEC_MIN	2
+OUTBREAKS_DEC_MAX	2
+
+
+//Determines whether an outbreak occurs per month (0 = false, 1 = true)
+OUTBREAKMONTHS_JAN	1
+OUTBREAKMONTHS_FEB	1
+OUTBREAKMONTHS_MAR	1
+OUTBREAKMONTHS_APR	1
+OUTBREAKMONTHS_MAY	1
+OUTBREAKMONTHS_JUN	1
+OUTBREAKMONTHS_JUL	1
+OUTBREAKMONTHS_AUG	1
+OUTBREAKMONTHS_SEP	1
+OUTBREAKMONTHS_OCT	1
+OUTBREAKMONTHS_NOV	1
+OUTBREAKMONTHS_DEC	1
+
+
+
+// ------------------------------------------------------------
+// ======================= MERC GENERAL =======================
+// ------------------------------------------------------------
+
+
+//Gather radius for helicopters.
+GAME_HELI_GATHERRADIUS			10
+
+
+//Heli: how long the heli waits on the ground.
+HELI_LANDEDTIME			8
+
+
+//Heli: how long the heli takes to land.
+HELI_LOWERTIME			3
+
+
+//Heli: how long it takes for heli to take off.
+HELI_RAISETIME			2
+
+
+//Artillery: seconds it takes for visual bomb to fall.
+GAME_DISPLAYBOMB_FALLTIME	2.0
+
+
+//Artillery: in a multi-shell barrage, seconds between shells.
+GAME_BARRAGEGAP				0.8
+
+
+//Dynamite: how much damage is inflicted to buildings.
+DYNAMITE_DMG			100
+
+//Dynamite: seconds between detonations.
+DYNAMITE_GAPTIME		0.3
+
+//Dynamite: seconds before initial detonation.
+DYNAMITE_INITIALTIME	0.3
+
+
+//How many mercs you can carry to a mission.
+MERCS_MAX				4
+
+//How many mercs you can carry w/ the "zeppelin cabin" upgrade.
+MERCS_MAX_PLUS			5
+
+
+//Amount of mercs you can carry when Party Wagon is active.
+//Note this overrides the Mercs_max and Mercs_max_plus values.
+PARTYWAGON_MERCS		5
+
+// ----------------------------------------------------------
+// ======================= MERC STATS =======================
+// ----------------------------------------------------------
+
+//Infantry: accuracy levels.
+INFANTRY_ACCURACY_0		0.4
+INFANTRY_ACCURACY_1		0.6
+INFANTRY_ACCURACY_2		0.8
+INFANTRY_ACCURACY_3		0.9
+INFANTRY_ACCURACY_4		1.0
+
+
+//Infantry: speed levels.
+INFANTRY_SPEED_0		1.0
+INFANTRY_SPEED_1		1.2
+INFANTRY_SPEED_2		1.4
+INFANTRY_SPEED_3		1.6
+INFANTRY_SPEED_4		1.8
+INFANTRY_SPEED_5		1.85
+INFANTRY_SPEED_6		1.9
+INFANTRY_SPEED_7		1.95
+
+
+//Heli: arrival time
+STAT_HELI_ARRIVALTIME_1		6
+STAT_HELI_ARRIVALTIME_2		5.6
+STAT_HELI_ARRIVALTIME_3		5.2
+STAT_HELI_ARRIVALTIME_4		4.8
+STAT_HELI_ARRIVALTIME_5		4.4
+STAT_HELI_ARRIVALTIME_6		4
+STAT_HELI_ARRIVALTIME_7		3.9
+STAT_HELI_ARRIVALTIME_8		3.8
+STAT_HELI_ARRIVALTIME_9		3.7
+STAT_HELI_ARRIVALTIME_10	3.6
+STAT_HELI_ARRIVALTIME_11	3.5
+
+
+//Heli: passenger load time
+STAT_HELI_LOADTIME_1		0.25
+STAT_HELI_LOADTIME_2		0.23
+STAT_HELI_LOADTIME_3		0.21
+STAT_HELI_LOADTIME_4		0.19
+STAT_HELI_LOADTIME_5		0.17
+STAT_HELI_LOADTIME_6		0.15
+
+
+//Landmines: amounts
+STAT_LANDMINE_AMOUNTS_1		3
+STAT_LANDMINE_AMOUNTS_2		4
+STAT_LANDMINE_AMOUNTS_3		5
+STAT_LANDMINE_AMOUNTS_4		6
+STAT_LANDMINE_AMOUNTS_5		7
+STAT_LANDMINE_AMOUNTS_6		8
+
+
+//Snipers: refire time
+STAT_SNIPERS_REFIRETIME_1	1.1
+STAT_SNIPERS_REFIRETIME_2	0.9
+STAT_SNIPERS_REFIRETIME_3	0.8
+STAT_SNIPERS_REFIRETIME_4	0.7
+STAT_SNIPERS_REFIRETIME_5	0.6
+STAT_SNIPERS_REFIRETIME_6	0.5
+
+
+//Snipers: reposition time
+STAT_SNIPERS_REPOSITIONTIME_1	4
+STAT_SNIPERS_REPOSITIONTIME_2	3
+STAT_SNIPERS_REPOSITIONTIME_3	2
+STAT_SNIPERS_REPOSITIONTIME_4	1
+STAT_SNIPERS_REPOSITIONTIME_5	0.5
+STAT_SNIPERS_REPOSITIONTIME_6	0.4
+STAT_SNIPERS_REPOSITIONTIME_7	0.3
+STAT_SNIPERS_REPOSITIONTIME_8	0.2
+
+
+//Zed bait: range
+STAT_NECTAR_RANGE_1			7
+STAT_NECTAR_RANGE_2			8
+STAT_NECTAR_RANGE_3			9
+STAT_NECTAR_RANGE_4			10
+STAT_NECTAR_RANGE_5			11
+STAT_NECTAR_RANGE_6			12
+STAT_NECTAR_RANGE_7			13
+STAT_NECTAR_RANGE_8			14
+
+
+//Zed bait: lifetime
+STAT_NECTAR_LIFETIME_1		8
+STAT_NECTAR_LIFETIME_2		10
+STAT_NECTAR_LIFETIME_3		12
+STAT_NECTAR_LIFETIME_4		14
+STAT_NECTAR_LIFETIME_5		16
+STAT_NECTAR_LIFETIME_6		18
+STAT_NECTAR_LIFETIME_7		20
+
+
+//Zed bait: reload time
+STAT_NECTAR_RELOAD_1		30
+STAT_NECTAR_RELOAD_2		27
+STAT_NECTAR_RELOAD_3		23
+STAT_NECTAR_RELOAD_4		20
+STAT_NECTAR_RELOAD_5		18
+STAT_NECTAR_RELOAD_6		16
+STAT_NECTAR_RELOAD_7		14
+STAT_NECTAR_RELOAD_8		12
+
+
+//Artillery: impact time
+STAT_ARTY_IMPACTTIME_1		7
+STAT_ARTY_IMPACTTIME_2		5
+STAT_ARTY_IMPACTTIME_3		4
+STAT_ARTY_IMPACTTIME_4		3
+STAT_ARTY_IMPACTTIME_5		2.9
+STAT_ARTY_IMPACTTIME_6		2.8
+STAT_ARTY_IMPACTTIME_7		2.7
+STAT_ARTY_IMPACTTIME_8		2.6
+STAT_ARTY_IMPACTTIME_9		2.5
+
+//Artillery: reload time
+STAT_ARTY_RELOADTIME_1		12
+STAT_ARTY_RELOADTIME_2		10
+STAT_ARTY_RELOADTIME_3		8
+STAT_ARTY_RELOADTIME_4		6
+STAT_ARTY_RELOADTIME_5		5.9
+STAT_ARTY_RELOADTIME_6		5.8
+STAT_ARTY_RELOADTIME_7		5.7
+STAT_ARTY_RELOADTIME_8		5.6
+STAT_ARTY_RELOADTIME_9		5.5
+
+
+//Dynamite: amounts
+STAT_DYNAMITE_AMOUNTS_1		4
+STAT_DYNAMITE_AMOUNTS_2		5
+STAT_DYNAMITE_AMOUNTS_3		6
+STAT_DYNAMITE_AMOUNTS_4		7
+STAT_DYNAMITE_AMOUNTS_5		8
+STAT_DYNAMITE_AMOUNTS_6		9
+STAT_DYNAMITE_AMOUNTS_7		10
+
+
+//Barricades: amounts
+STAT_BARRICADE_AMOUNTS_1	2
+STAT_BARRICADE_AMOUNTS_2	3
+STAT_BARRICADE_AMOUNTS_3	4
+STAT_BARRICADE_AMOUNTS_4	5
+
+
+
+// -----------------------------------------------------------
+// ======================= MERC COLORS =======================
+// -----------------------------------------------------------
+
+
+//Zed bait
+NECTARCOLOR_R	0
+NECTARCOLOR_G	170
+NECTARCOLOR_B	255
+
+
+//Artillery
+BOMBCOLOR_R		255
+BOMBCOLOR_G		100
+BOMBCOLOR_B		0
+
+
+//Sniper
+SNIPERCOLOR_R		0
+SNIPERCOLOR_G		255
+SNIPERCOLOR_B		255
+
+
+//Mines
+MINECOLOR_R		120
+MINECOLOR_G		180
+MINECOLOR_B		255
+
+
+//Infantry
+INFANTRYCOLOR_R		70
+INFANTRYCOLOR_G		220
+INFANTRYCOLOR_B		80
+
+
+//Infantry paths.
+INFANTRYPATHCOLOR_R		120
+INFANTRYPATHCOLOR_G		210
+INFANTRYPATHCOLOR_B		145
+
+
+//Infantry visibility cone.
+INFANTRYVISIBILITYCOLOR_R		0
+INFANTRYVISIBILITYCOLOR_G		255
+INFANTRYVISIBILITYCOLOR_B		0
+
+
+//Helicopter
+HELICOLOR_R		255
+HELICOLOR_G		200
+HELICOLOR_B		40
+
+
+//DONE BUTTON
+RESEARCHCOLOR_R		70
+RESEARCHCOLOR_G		180
+RESEARCHCOLOR_B		255
+
+
+
+// ----------------------------------------------------------
+// ======================= MILESTONES =======================
+// ----------------------------------------------------------
+
+//Victory point requirements for milestones. (-1 = never unlocks)
+MS_RESEARCH				700
+MS_CATBIRD				1200
+MS_ELEPHANTBIRD			2000
+MS_LLAMABOMB			2600
+MS_CABIN				3500
+
+MS_BIGOUTBREAKS			500
+MS_EXPLOSIVEBUILDINGS	1500
+MS_SUPERZOMBIES			2500
+
+//This lets player purchase llamabombs.
+MS_LLAMAPURCHASEABLE	-1
+
+//How much the purchaseable llamabomb costs (scientists).
+LLAMA_COST				10
+
+// -----------------------------------------------------------------------
+// ======================= UPGRADES, PURCHASEABLES =======================
+// -----------------------------------------------------------------------
+
+//XP level quotas.
+XP_LVL02	125
+XP_LVL03	250
+XP_LVL04	500
+XP_LVL05	1000
+XP_LVL06	2000
+XP_LVL07	4000
+XP_LVL08	8000
+XP_LVL09	16000
+XP_LVL10	32000
+XP_LVL11	64000
+XP_LVL12	128000
+
+
+//Helicopter capacity upgrades.
+UPG_HELICARRY_1			30
+UPG_HELICARRY_2			40
+UPG_HELICARRY_3			45
+UPG_HELICARRY_4			50
+UPG_HELICARRY_5			55
+UPG_HELICARRY_6			60
+UPG_HELICARRY_7			65
+
+UPG_HELICARRY_COST_2	25
+UPG_HELICARRY_COST_3	30
+UPG_HELICARRY_COST_4	35
+UPG_HELICARRY_COST_5	40
+UPG_HELICARRY_COST_6	45
+UPG_HELICARRY_COST_7	50
+
+
+
+//Scientist speed boost upgrades. (1 = normal speed, 0 = lightning speed)
+UPG_SPEEDBOOTS_1		1
+UPG_SPEEDBOOTS_2		0.5
+UPG_SPEEDBOOTS_3		0.35
+UPG_SPEEDBOOTS_4		0.2
+
+UPG_SPEEDBOOTS_COST_2	15
+UPG_SPEEDBOOTS_COST_3	20
+UPG_SPEEDBOOTS_COST_4	25
+
+
+//Merc XP bonus upgrades. (multiplies how much XP the mercs get)
+UPG_XPBONUSAMOUNTS_1	1
+UPG_XPBONUSAMOUNTS_2	1.1
+UPG_XPBONUSAMOUNTS_3	1.15
+UPG_XPBONUSAMOUNTS_4	1.2
+UPG_XPBONUSAMOUNTS_5	1.25
+
+UPG_XPBONUSCOSTS_2		15
+UPG_XPBONUSCOSTS_3		20
+UPG_XPBONUSCOSTS_4		25
+UPG_XPBONUSCOSTS_5		30
+
+
+//Llama bomb upgrades. (how many llamabombs you can drop at one time)
+UPG_LLAMAAMOUNT_1		2
+UPG_LLAMAAMOUNT_2		3
+UPG_LLAMAAMOUNT_3		4
+
+UPG_LLAMACOST_2			10
+UPG_LLAMACOST_3			25
+
+
+//Artillery barrage upgrades. How many shells dropped per payload.
+UPG_BARRAGEAMOUNTS_1	1
+UPG_BARRAGEAMOUNTS_2	2
+UPG_BARRAGEAMOUNTS_3	4
+UPG_BARRAGEAMOUNTS_4	6
+UPG_BARRAGEAMOUNTS_5	8
+
+UPG_BARRAGECOST_2		15
+UPG_BARRAGECOST_3		25
+UPG_BARRAGECOST_4		30
+UPG_BARRAGECOST_5		35
+
+
+//Elephantbird upgrades. How many shells dropped per payload
+UPG_ELEPHANTBIRDAMOUNTS_1	3
+UPG_ELEPHANTBIRDAMOUNTS_2	6
+UPG_ELEPHANTBIRDAMOUNTS_3	12
+UPG_ELEPHANTBIRDAMOUNTS_4	24
+
+UPG_ELEPHANTBIRDCOST_2		10
+UPG_ELEPHANTBIRDCOST_3		15
+UPG_ELEPHANTBIRDCOST_4		20
+
+
+//Catbird upgrades. Multiplier for how quickly catbird points are earned.
+UPG_CATBIRDAMOUNTS_1		1
+UPG_CATBIRDAMOUNTS_2		1.2
+UPG_CATBIRDAMOUNTS_3		1.3
+UPG_CATBIRDAMOUNTS_4		1.4
+
+UPG_CATBIRDCOST_2			20
+UPG_CATBIRDCOST_3			25
+UPG_CATBIRDCOST_4			30
+
+
+//Kraken upgrades. Damage multiplier for explosive weapons vs. mega zed.
+UPG_KRAKENAMOUNTS_1		1
+UPG_KRAKENAMOUNTS_2		1.5
+UPG_KRAKENAMOUNTS_3		2
+UPG_KRAKENAMOUNTS_4		2.5
+
+UPG_KRAKENCOST_2		15
+UPG_KRAKENCOST_3		20
+UPG_KRAKENCOST_4		25
+
+
+
+
+// ---------------------------------------------------------
+// ======================= RENDERING =======================
+// ---------------------------------------------------------
+
+
+//Renderer: how much units is one tile.
+TILESIZE	64
+
+
+//Renderer: size dimensions of a person.
+PERSONHEIGHT		14
+PERSONWIDTH			10
+ZOMBIEWIDTH			16
+SUPERZOMBIEWIDTH	48
+SUPERZOMBIEHEIGHT	96
+
+
+// --------------------------------------------------
+// ======================= UI =======================
+// --------------------------------------------------
+
+//UI: Position of main tooltip.
+UI_TOOLTIP1_Y		95
+
+//UI: Position of top mini-tooltip.
+UI_TOOLTIP2_Y		135
+
+//UI: Position of bottom mini-tooltip.
+UI_TOOLTIP3_Y		58
+
+
+//UI: Distance before mouse is considered "hovering" over unit.
+HOVERTOLERANCE		1000
+
+
+//UI: Height of the top bar.
+SUPPLYBAR_HEIGHT	30
+
+//UI: Height of the bottom bar.
+BARHEIGHT			55
+
+
+//The starting year.
+START_YEAR				1961
+
+
+//Time it takes to sign a signature.
+GAME_SIGNATURETIME			0.4
+
+
+//Color of the paper menus. (_R = red, _G = green, _B = blue, 0-255)
+PAPERCOLOR_R		210
+PAPERCOLOR_G		195
+PAPERCOLOR_B		160
+
+
+//Color of menu titles.
+UICOLOR_R			255
+UICOLOR_G			210
+UICOLOR_B			0
+
+
+//Color of the buttons.
+UI_BUTTONIDLE_R		55
+UI_BUTTONIDLE_G		75
+UI_BUTTONIDLE_B		50
+
+
+//Color of the buttons during mousehover.
+UI_BUTTONIDLEGLOW_R	95
+UI_BUTTONIDLEGLOW_G	120
+UI_BUTTONIDLEGLOW_B	90
+
+
+//Zedpedia entries given to player throughout campaign.
+ZEDPEDIA_ENTRY1		evacheli
+ZEDPEDIA_ENTRY2		zeppelin
+ZEDPEDIA_ENTRY3		zedautopsy
+ZEDPEDIA_ENTRY4		his_lewis
+ZEDPEDIA_ENTRY5		his_eighteen
+ZEDPEDIA_ENTRY6		his_hyperborea
+ZEDPEDIA_ENTRY7		his_arouet
+
+
+
+//DONE BUTTON
+DONECOLOR_R		200
+DONECOLOR_G		40
+DONECOLOR_B		40
+
+
+//Selection circle when hovering over units.
+SELECTIONCIRCLECOLOR_R	255
+SELECTIONCIRCLECOLOR_G	255
+SELECTIONCIRCLECOLOR_B	255
+
+
+//Color: dotted line for "invalid selection" (world map)
+GEOERRORLINECOLOR_R		180
+GEOERRORLINECOLOR_G		0
+GEOERRORLINECOLOR_B		0
+
+
+//Color: tooltips.
+TOOLTIPCOLOR_R			32
+TOOLTIPCOLOR_G			96
+TOOLTIPCOLOR_B			145
+
+// ------------------------------------------------------
+// ======================= CAMERA =======================
+// ------------------------------------------------------
+
+//Min/max camera parameters during worldmap.
+CAM_GEOMINCAMDIST		-2000
+CAM_GEOMAXCAMDIST		-4000
+
+
+//Min/max camera parameters during city missions.
+CAM_CITYMINCAMDIST		-1000
+CAM_CITYMAXCAMDIST		-2000
+
+
+//City missions: maximum amount of zombiespawners per side.
+GAME_MAXSPAWNERS_PERSIDE		3
+
+
+//Camera: how long it takes to zoom in one step.
+ZOOMTIME	0.08
+
+
+//Camera: how far to zoom in one step.
+ZOOMSTEP	0.5
+
+
+//Camera: how fast you can drag-pan with mouse when fully zoomed in.
+MINPANDISTANCE 192
+
+//Camera: how fast you can drag-pan with mouse when fully zoomed out.
+MAXPANDISTANCE 512
+
+
+//Camera: how fast you can pan with keyboard when fully zoomed out.
+MAXKEYBOARDPANDISTANCE 700
+
+//Camera: how fast you can pan with keyboard when fully zoomed in.
+MINKEYBOARDPANDISTANCE 1024
+
+

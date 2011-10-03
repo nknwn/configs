@@ -1,0 +1,18 @@
+use_xft yes
+xftfont Sazanami Gothic:size=9
+override_utf8_locale yes
+default_color eab93d
+own_window_colour 000000
+gap_x 0
+gap_y 0 
+own_window yes
+own_window_transparent no 
+own_window_type normal
+own_window_hints undecorated, below, sticky, skip_taskbar, skip_pager
+alignment bottom_left
+background yes
+update_interval 2
+double_buffer yes
+minimum_size 1285 0 
+TEXT
+${color ffffff}${if_match "${mpd_status}"=="Playing"} $mpd_smart$else${mpd_status}$endif}${color} ${color 353535}|${color} CPU: ${color ffffff}${cpu cpu0}%${color} / ${color ffffff}${cpu cpu1}%${color} ${color 353535}|${color} MEM: ${color ffffff}${memperc}%${color} ${color 353535}|${color} SWAP: ${color ffffff}${swap} ${color 353535}|${color} LAVG: ${color ffffff}${loadavg}${color} ${color 353535}|${color} D/U ${color ffffff}${downspeed eth0}${color} / ${color ffffff}${upspeed eth0}${color}${alignr} ${color 353535}|${color} BAT: ${color ffffff}${battery_short}${color} ${color 353535}|${color} ${color ffffff}${time %H:%M %a %d-%m-%Y} ${color}  
