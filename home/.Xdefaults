@@ -1,0 +1,62 @@
+! Xft settings ---------------------------------------------------------------
+
+Xft.dpi:        96
+Xft.antialias:  true
+Xft.rgba:       rgb
+Xft.hinting:    true
+Xft.hintstyle:  hintslight
+
+! xterm ----------------------------------------------------------------------
+
+xterm*geometry:           80x25
+xterm*faceName:           xft:Dejavu Sans Mono:pixelsize=14:antialias=true
+xterm*dynamicColors:      true
+xterm*utf8:               2
+xterm*eightBitInput:      true
+xterm*saveLines:          512
+xterm*scrollTtyKeypress:  true
+xterm*scrollTtyOutput:    false
+xterm*scrollBar:          true
+xterm*rightScrollBar:     true
+xterm*loginShell:         true
+xterm*jumpScroll:         true
+xterm*multiScroll:        true
+xterm*toolBar:            false
+xterm*background: #242424
+xterm*foreground: #ffffff
+
+! urxvt ---------------------------------------------------------------------
+
+URxvt*foreground:    #9da560
+URxvt*background:    #101309
+
+!Black
+URxvt*color0:    #101309
+URxvt*color8:    #222815
+!Red
+URxvt*color1:   #C8611F
+URxvt*color9:   #ffb73e
+!Green
+URxvt*color2:   #546B28
+URxvt*color10:  #9fca4e
+!Yelllow
+URxvt*color3:   #DCA53E
+URxvt*color11:  #ffff77
+!Blue
+URxvt*color4:   #235967
+URxvt*color12:  #45a9c2
+!Magenta
+URxvt*color5:   #914C5A
+URxvt*color13:  #ff91aa
+!Cyan
+URxvt*color6:   #4F9E4E
+URxvt*color14:  #96ff94
+!White
+URxvt*color7:   #9da560
+URxvt*color15:  #ffffd8
+
+URxvt.perl-ext-common:  default,tabbed
+URxvt.tabbed.tabbar-fg: 2
+URxvt.tabbed.tabbar-bg: 0
+URxvt.tabbed.tab-fg:    3
+URxvt.tabbed.tab-bg:    0
