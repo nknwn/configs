@@ -1,4 +1,0 @@
-<device DEVNO="0x0801" TIME="1315896678.81059" UUID="08c56753-19a7-4d0e-b2fd-5a3e1410bd62" TYPE="ext4">/dev/sda1</device>
-<device DEVNO="0x0802" TIME="1315896678.81090" UUID="d5296cfa-da9f-41d9-98be-dd1a853d6e60" TYPE="ext4">/dev/sda2</device>
-<device DEVNO="0x0803" TIME="1315896678.81499" TYPE="swap" UUID="9bd932a5-3ec9-41ce-85d7-7e90282edee4">/dev/sda3</device>
-<device DEVNO="0x0811" TIME="1315936397.932117" LABEL="intenso" UUID="2B96-FFF4" TYPE="vfat">/dev/sdb1</device>
