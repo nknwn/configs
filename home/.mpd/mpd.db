@@ -1,6 +1,6 @@
 info_begin
 format: 1
-mpd_version: 0.17~git
+mpd_version: 0.16.6
 fs_charset: UTF-8
 tag: Artist
 tag: ArtistSort
@@ -35,7 +35,7 @@ Album: Just The Hits 2011
 Track: 10
 Date: 2011
 Genre: Top 40
-mtime: 1304857446
+mtime: 1316702355
 song_end
 end: 3OH!3/Just The Hits 2011
 end: 3OH!3
@@ -43,18 +43,34 @@ directory: 89ers
 mtime: 1304858851
 begin: 89ers
 directory: The 89ers Boy
-mtime: 1304858851
+mtime: 1322859345
 begin: 89ers/The 89ers Boy
-song_begin: The 89ers Boy.mp3
+song_begin: 89ers - The 89ers Boy.mp3
 Time: 198
 Artist: 89ers
 AlbumArtist: 89ers
 Title: The 89ers Boy
 Album: The 89ers Boy
-mtime: 1304858868
+mtime: 1322859345
 song_end
 end: 89ers/The 89ers Boy
 end: 89ers
+directory: A Shell In The Pit
+mtime: 1322859351
+begin: A Shell In The Pit
+directory: Unknown Album
+mtime: 1322859351
+begin: A Shell In The Pit/Unknown Album
+song_begin: A Shell In The Pit - The Bear.mp3
+Time: 178
+Artist: A Shell In The Pit
+AlbumArtist: A Shell In The Pit
+Title: The Bear
+Genre: Dubstep
+mtime: 1322859385
+song_end
+end: A Shell In The Pit/Unknown Album
+end: A Shell In The Pit
 directory: AFI
 mtime: 1306182629
 begin: AFI
@@ -123,6 +139,22 @@ mtime: 1304859021
 song_end
 end: Abingdon Boys School/Abingdon Boys School
 end: Abingdon Boys School
+directory: AboveBeyond (Feat. Zoe Johnston)
+mtime: 1322859346
+begin: AboveBeyond (Feat. Zoe Johnston)
+directory: Unknown Album
+mtime: 1322859346
+begin: AboveBeyond (Feat. Zoe Johnston)/Unknown Album
+song_begin: AboveBeyond (Feat. Zoe Johnston) - Good For Me.mp3
+Time: 344
+Artist: AboveBeyond (Feat. Zoe Johnston)
+AlbumArtist: AboveBeyond (Feat. Zoe Johnston)
+Title: Good For Me
+Genre: Dubstep
+mtime: 1322859380
+song_end
+end: AboveBeyond (Feat. Zoe Johnston)/Unknown Album
+end: AboveBeyond (Feat. Zoe Johnston)
 directory: Access
 mtime: 1304791989
 begin: Access
@@ -190,7 +222,7 @@ Album: Bravo Hits Vol.72
 Track: 22
 Date: 2011
 Genre: Top 40
-mtime: 1304859262
+mtime: 1316703307
 song_end
 end: Adele/Bravo Hits Vol.72
 end: Adele
@@ -395,6 +427,22 @@ mtime: 1304873949
 song_end
 end: An Cafe/Kakusei Heroism
 end: An Cafe
+directory: Ant 2 Be & Digital Twist
+mtime: 1322859350
+begin: Ant 2 Be & Digital Twist
+directory: Unknown Album
+mtime: 1322859350
+begin: Ant 2 Be & Digital Twist/Unknown Album
+song_begin: Ant 2 Be & Digital Twist - L`amour.mp3
+Time: 381
+Artist: Ant 2 Be & Digital Twist
+AlbumArtist: Ant 2 Be & Digital Twist
+Title: L`amour
+Genre: Dubstep
+mtime: 1322859383
+song_end
+end: Ant 2 Be & Digital Twist/Unknown Album
+end: Ant 2 Be & Digital Twist
 directory: Antoine Clamaran
 mtime: 1304845499
 begin: Antoine Clamaran
@@ -554,7 +602,7 @@ Title: Hare Hare Yukai
 Album: Hare Hare Yukai
 Track: 1
 Genre: Anime
-mtime: 1304874584
+mtime: 1316702375
 song_end
 end: Aya Hirano/Hare Hare Yukai
 end: Aya Hirano
@@ -683,6 +731,22 @@ mtime: 1304882853
 song_end
 end: Bivattchee/Single
 end: Bivattchee
+directory: Blackmill Feat. Veela
+mtime: 1322859351
+begin: Blackmill Feat. Veela
+directory: Unknown Album
+mtime: 1322859351
+begin: Blackmill Feat. Veela/Unknown Album
+song_begin: Blackmill Feat. Veela - Let It Be.mp3
+Time: 364
+Artist: Blackmill Feat. Veela
+AlbumArtist: Blackmill Feat. Veela
+Title: Let It Be
+Genre: Dubstep
+mtime: 1322859383
+song_end
+end: Blackmill Feat. Veela/Unknown Album
+end: Blackmill Feat. Veela
 directory: Bloc Party
 mtime: 1305580014
 begin: Bloc Party
@@ -804,7 +868,7 @@ directory: Breakbot
 mtime: 1310137449
 begin: Breakbot
 directory: Unknown Album
-mtime: 1310138092
+mtime: 1322859345
 begin: Breakbot/Unknown Album
 song_begin: Baby I'm Yours (feat. Irfane).mp3
 Time: 151
@@ -813,8 +877,39 @@ AlbumArtist: Breakbot
 Title: Baby I'm Yours (feat. Irfane)
 mtime: 1310138092
 song_end
+song_begin: Breakbot - Baby I'm Yours (feat. Irfane).mp3
+Time: 151
+Artist: Breakbot
+AlbumArtist: Breakbot
+Title: Baby I'm Yours (feat. Irfane)
+mtime: 1322859348
+song_end
 end: Breakbot/Unknown Album
 end: Breakbot
+directory: Breakshift
+mtime: 1322859346
+begin: Breakshift
+directory: Unknown Album
+mtime: 1322859347
+begin: Breakshift/Unknown Album
+song_begin: Breakshift - Before You Notice Her.mp3
+Time: 323
+Artist: Breakshift
+AlbumArtist: Breakshift
+Title: Before You Notice Her
+Genre: Dubstep
+mtime: 1322859382
+song_end
+song_begin: Breakshift - Life in Orbit.mp3
+Time: 337
+Artist: Breakshift
+AlbumArtist: Breakshift
+Title: Life in Orbit
+Genre: Dubstep
+mtime: 1322859382
+song_end
+end: Breakshift/Unknown Album
+end: Breakshift
 directory: Britney Spears
 mtime: 1304791931
 begin: Britney Spears
@@ -883,6 +978,46 @@ mtime: 1304883326
 song_end
 end: COOL JOKE/Undo
 end: COOL JOKE
+directory: Camo & Krooked
+mtime: 1322859348
+begin: Camo & Krooked
+directory: Unknown Album
+mtime: 1322859349
+begin: Camo & Krooked/Unknown Album
+song_begin: Camo & Krooked - Cross The Line (Exclusive Album Mix).mp3
+Time: 671
+Artist: Camo & Krooked
+AlbumArtist: Camo & Krooked
+Title: Cross The Line (Exclusive Album Mix)
+Genre: Dubstep
+mtime: 1322859383
+song_end
+song_begin: Camo & Krooked - Cross the Line.mp3
+Time: 165
+Artist: Camo & Krooked
+AlbumArtist: Camo & Krooked
+Title: Cross the Line
+Genre: Dubstep
+mtime: 1322859383
+song_end
+end: Camo & Krooked/Unknown Album
+end: Camo & Krooked
+directory: Caotain Panic! ft. Veela
+mtime: 1324635107
+begin: Caotain Panic! ft. Veela
+directory: Unknown Album
+mtime: 1324635107
+begin: Caotain Panic! ft. Veela/Unknown Album
+song_begin: Caotain Panic! ft. Veela - Offering.mp3
+Time: 283
+Artist: Caotain Panic! ft. Veela
+AlbumArtist: Caotain Panic! ft. Veela
+Title: Offering
+Genre: Dubstep
+mtime: 1324635107
+song_end
+end: Caotain Panic! ft. Veela/Unknown Album
+end: Caotain Panic! ft. Veela
 directory: Capcom Sound Team
 mtime: 1304791988
 begin: Capcom Sound Team
@@ -970,6 +1105,22 @@ mtime: 1304859263
 song_end
 end: Cee Lo Green/Bravo Hits Vol.72
 end: Cee Lo Green
+directory: Chase & Status
+mtime: 1322859384
+begin: Chase & Status
+directory: Unknown Album
+mtime: 1322859384
+begin: Chase & Status/Unknown Album
+song_begin: Chase & Status - Blind Faith (Trolley Snatcha Remix).mp3
+Time: 305
+Artist: Chase & Status
+AlbumArtist: Chase & Status
+Title: Blind Faith (Trolley Snatcha Remix)
+Genre: Dubstep
+mtime: 1322859401
+song_end
+end: Chase & Status/Unknown Album
+end: Chase & Status
 directory: Chatmonchy
 mtime: 1304791976
 begin: Chatmonchy
@@ -1363,7 +1514,7 @@ Track: 1
 Date: 2002
 Genre: Metal
 Composer: Crazy Town
-mtime: 1306262290
+mtime: 1316702401
 song_end
 song_begin: 02. Hurt You So Bad.mp3
 Time: 226
@@ -1658,6 +1809,46 @@ mtime: 1310137506
 song_end
 end: DB Boulevard/Unknown Album
 end: DB Boulevard
+directory: DJ Fresh
+mtime: 1322859384
+begin: DJ Fresh
+directory: Unknown Album
+mtime: 1322859384
+begin: DJ Fresh/Unknown Album
+song_begin: DJ Fresh - Gold Dust (Flux Pavilion Remix).mp3
+Time: 140
+Artist: DJ Fresh
+AlbumArtist: DJ Fresh
+Title: Gold Dust (Flux Pavilion Remix)
+Genre: Dubstep
+mtime: 1322859401
+song_end
+song_begin: DJ Fresh - Gold Dust - Flux Pavillion Remix EQ.mp3
+Time: 326
+Artist: DJ Fresh
+AlbumArtist: DJ Fresh
+Title: Gold Dust - Flux Pavillion Remix EQ
+Genre: Dubstep
+mtime: 1322859401
+song_end
+end: DJ Fresh/Unknown Album
+end: DJ Fresh
+directory: DJ Fresh ft. Sian Evans
+mtime: 1322859383
+begin: DJ Fresh ft. Sian Evans
+directory: Unknown Album
+mtime: 1322859383
+begin: DJ Fresh ft. Sian Evans/Unknown Album
+song_begin: DJ Fresh ft. Sian Evans - Louder.mp3
+Time: 182
+Artist: DJ Fresh ft. Sian Evans
+AlbumArtist: DJ Fresh ft. Sian Evans
+Title: Louder
+Genre: Dubstep
+mtime: 1322859401
+song_end
+end: DJ Fresh ft. Sian Evans/Unknown Album
+end: DJ Fresh ft. Sian Evans
 directory: DJ Splash
 mtime: 1310137511
 begin: DJ Splash
@@ -1725,6 +1916,21 @@ mtime: 1304882702
 song_end
 end: Danny Elfman/Beetlejuice OST
 end: Danny Elfman
+directory: Deadmau5
+mtime: 1322859384
+begin: Deadmau5
+directory: Unknown Album
+mtime: 1322859384
+begin: Deadmau5/Unknown Album
+song_begin: Deadmau5 - I Remember (J Majik _ Wickaman Remix).mp3
+Time: 375
+Artist: Deadmau5
+AlbumArtist: Deadmau5
+Title: I Remember (J Majik _ Wickaman Remix)
+mtime: 1322859401
+song_end
+end: Deadmau5/Unknown Album
+end: Deadmau5
 directory: Detroit Metal City
 mtime: 1304791988
 begin: Detroit Metal City
@@ -1742,6 +1948,22 @@ mtime: 1304883916
 song_end
 end: Detroit Metal City/Single
 end: Detroit Metal City
+directory: Diddy & Dirty Money Ft Skylar Grey
+mtime: 1322859385
+begin: Diddy & Dirty Money Ft Skylar Grey
+directory: Unknown Album
+mtime: 1322859385
+begin: Diddy & Dirty Money Ft Skylar Grey/Unknown Album
+song_begin: Diddy & Dirty Money Ft Skylar Grey - Coming Home.mp3
+Time: 132
+Artist: Diddy & Dirty Money Ft Skylar Grey
+AlbumArtist: Diddy & Dirty Money Ft Skylar Grey
+Title: Coming Home
+Genre: Dubstep
+mtime: 1322859401
+song_end
+end: Diddy & Dirty Money Ft Skylar Grey/Unknown Album
+end: Diddy & Dirty Money Ft Skylar Grey
 directory: DjEphixa
 mtime: 1307953551
 begin: DjEphixa
@@ -1762,6 +1984,22 @@ mtime: 1307953554
 song_end
 end: DjEphixa/Ephixa Old School
 end: DjEphixa
+directory: Doctor P
+mtime: 1322859351
+begin: Doctor P
+directory: Unknown Album
+mtime: 1322859351
+begin: Doctor P/Unknown Album
+song_begin: Doctor P - Last Ones Standing.mp3
+Time: 326
+Artist: Doctor P
+AlbumArtist: Doctor P
+Title: Last Ones Standing
+Genre: Dubstep
+mtime: 1322859384
+song_end
+end: Doctor P/Unknown Album
+end: Doctor P
 directory: Dub FX
 mtime: 1304884071
 begin: Dub FX
@@ -2149,7 +2387,7 @@ mtime: 1306262570
 song_end
 end: Eagle-Eye Cherry/Living In The Present Future
 directory: Sub Rosa
-mtime: 1306262327
+mtime: 1322859407
 begin: Eagle-Eye Cherry/Sub Rosa
 song_begin: 01. This Paralysis.mp3
 Time: 247
@@ -2217,7 +2455,7 @@ Date: 2003
 Genre: Rock
 mtime: 1306262570
 song_end
-song_begin: 07. Feels So Right.mp3
+song_begin: Eagle-Eye Cherry - Feels So Right.mp3
 Time: 259
 Artist: Eagle-Eye Cherry
 AlbumArtist: Eagle-Eye Cherry
@@ -2226,9 +2464,9 @@ Album: Sub Rosa
 Track: 7
 Date: 2003
 Genre: Rock
-mtime: 1306262327
+mtime: 1322859401
 song_end
-song_begin: 08. Crashing Down.mp3
+song_begin: Eagle-Eye Cherry - Crashing Down.mp3
 Time: 306
 Artist: Eagle-Eye Cherry
 AlbumArtist: Eagle-Eye Cherry
@@ -2237,9 +2475,9 @@ Album: Sub Rosa
 Track: 8
 Date: 2003
 Genre: Rock
-mtime: 1306262330
+mtime: 1322859398
 song_end
-song_begin: 09. Twisted Games.mp3
+song_begin: Eagle-Eye Cherry - Twisted Games.mp3
 Time: 209
 Artist: Eagle-Eye Cherry
 AlbumArtist: Eagle-Eye Cherry
@@ -2248,9 +2486,9 @@ Album: Sub Rosa
 Track: 9
 Date: 2003
 Genre: Rock
-mtime: 1306262330
+mtime: 1322859401
 song_end
-song_begin: 10. The Food Song.mp3
+song_begin: Eagle-Eye Cherry - The Food Song.mp3
 Time: 260
 Artist: Eagle-Eye Cherry
 AlbumArtist: Eagle-Eye Cherry
@@ -2259,7 +2497,7 @@ Album: Sub Rosa
 Track: 10
 Date: 2003
 Genre: Rock
-mtime: 1306262331
+mtime: 1322859407
 song_end
 song_begin: 11. If It Can't Be Found.mp3
 Time: 294
@@ -2700,7 +2938,7 @@ mtime: 1307953584
 song_end
 end: Ephixa/The Beginning
 directory: Unknown Album
-mtime: 1310137546
+mtime: 1322859398
 begin: Ephixa/Unknown Album
 song_begin: Dubstep Killed Rock 'n' Roll.mp3
 Time: 260
@@ -2709,8 +2947,32 @@ AlbumArtist: Ephixa
 Title: Dubstep Killed Rock 'n' Roll
 mtime: 1310137549
 song_end
+song_begin: Ephixa - Dragon Roost Island Dubstep Remix.mp3
+Time: 288
+Artist: Ephixa
+AlbumArtist: Ephixa
+Title: Dragon Roost Island Dubstep Remix
+Genre: Dubstep
+mtime: 1322859403
+song_end
 end: Ephixa/Unknown Album
 end: Ephixa
+directory: Ephixa (Dubstep)
+mtime: 1322859382
+begin: Ephixa (Dubstep)
+directory: Unknown Album
+mtime: 1322859382
+begin: Ephixa (Dubstep)/Unknown Album
+song_begin: Ephixa (Dubstep) - Division.mp3
+Time: 370
+Artist: Ephixa (Dubstep)
+AlbumArtist: Ephixa (Dubstep)
+Title: Division
+Genre: Dubstep
+mtime: 1322859401
+song_end
+end: Ephixa (Dubstep)/Unknown Album
+end: Ephixa (Dubstep)
 directory: Ephixa Ft Joey
 mtime: 1307953544
 begin: Ephixa Ft Joey
@@ -2854,7 +3116,7 @@ Album: Bravo Hits Vol.72
 Track: 6
 Date: 2011
 Genre: Top 40
-mtime: 1304859263
+mtime: 1316703302
 song_end
 end: Far East Movement Feat. The Cataracs & Dev/Bravo Hits Vol.72
 end: Far East Movement Feat. The Cataracs & Dev
@@ -2994,7 +3256,7 @@ Time: 212
 Artist: Feint
 AlbumArtist: Feint
 Title: Freefall
-mtime: 1310137671
+mtime: 1316702529
 song_end
 song_begin: From Butterflies To Hurricanes.mp3
 Time: 206
@@ -4368,6 +4630,21 @@ mtime: 1304792612
 song_end
 end: Gossip/Hits 2010_ 20 Massive Chart Hits
 end: Gossip
+directory: Grafix
+mtime: 1322859348
+begin: Grafix
+directory: Unknown Album
+mtime: 1322859348
+begin: Grafix/Unknown Album
+song_begin: Grafix - Devotion.mp3
+Time: 314
+Artist: Grafix
+AlbumArtist: Grafix
+Title: Devotion
+mtime: 1322859382
+song_end
+end: Grafix/Unknown Album
+end: Grafix
 directory: Gramophonedzie
 mtime: 1308991163
 begin: Gramophonedzie
@@ -6075,7 +6352,7 @@ Album: Greatest Hits: Volume 1
 Track: 1
 Date: 2004
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858570
 song_end
 song_begin: 02. Another Brick in the wall.mp3
 Time: 430
@@ -6085,7 +6362,7 @@ Title: Another Brick in the wall
 Album: Greatest Hits: Volume 1
 Track: 2
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858570
 song_end
 end: KoRn/Greatest Hits_ Volume 1
 directory: See You On The Other Side
@@ -6094,61 +6371,61 @@ begin: KoRn/See You On The Other Side
 song_begin: 15. It's me again.mp3
 Time: 219
 Artist: KoRn
-AlbumArtist: KoRn
+AlbumArtist: Korn
 Title: It's me again
 Album: See You On The Other Side
 Track: 15
 Date: 2005
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858579
 song_end
 song_begin: 16. Eaten up inside.mp3
 Time: 199
 Artist: KoRn
-AlbumArtist: KoRn
+AlbumArtist: Korn
 Title: Eaten up inside
 Album: See You On The Other Side
 Track: 16
 Date: 2005
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858579
 song_end
 song_begin: 17. Last legal drug (la Petite mort).mp3
 Time: 318
 Artist: KoRn
-AlbumArtist: KoRn
+AlbumArtist: Korn
 Title: Last legal drug (la Petite mort)
 Album: See You On The Other Side
 Track: 17
 Date: 2005
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858579
 song_end
 song_begin: 18. Too Late I'm Dead.mp3
 Time: 207
 Artist: KoRn
-AlbumArtist: KoRn
+AlbumArtist: Korn
 Title: Too Late I'm Dead
 Album: See You On The Other Side
 Track: 18
 Date: 2005
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858579
 song_end
 song_begin: 18. Twisted transistor-Dante Ross remix.mp3
 Time: 210
 Artist: KoRn
-AlbumArtist: KoRn
+AlbumArtist: Korn
 Title: Twisted transistor-Dante Ross remix
 Album: See You On The Other Side
 Track: 18
 Date: 2005
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858579
 song_end
 end: KoRn/See You On The Other Side
 directory: Take A Look In The Mirror
-mtime: 1306261835
+mtime: 1317398071
 begin: KoRn/Take A Look In The Mirror
 song_begin: 01. Right Now.mp3
 Time: 190
@@ -6158,7 +6435,7 @@ Title: Right Now
 Album: Take A Look In The Mirror
 Track: 1
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858570
 song_end
 song_begin: 02. Break Some Off.mp3
 Time: 156
@@ -6168,7 +6445,7 @@ Title: Break Some Off
 Album: Take A Look In The Mirror
 Track: 2
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858570
 song_end
 song_begin: 03. Counting On Me.mp3
 Time: 289
@@ -6178,7 +6455,7 @@ Title: Counting On Me
 Album: Take A Look In The Mirror
 Track: 3
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858570
 song_end
 song_begin: 04. Here It Comes Again.mp3
 Time: 214
@@ -6188,7 +6465,7 @@ Title: Here It Comes Again
 Album: Take A Look In The Mirror
 Track: 4
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858570
 song_end
 song_begin: 05. Deep Inside.mp3
 Time: 166
@@ -6198,7 +6475,7 @@ Title: Deep Inside
 Album: Take A Look In The Mirror
 Track: 5
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858570
 song_end
 song_begin: 06. Did My Time.mp3
 Time: 245
@@ -6208,7 +6485,7 @@ Title: Did My Time
 Album: Take A Look In The Mirror
 Track: 6
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858570
 song_end
 song_begin: 07. Everything I've Known.mp3
 Time: 215
@@ -6218,7 +6495,7 @@ Title: Everything I've Known
 Album: Take A Look In The Mirror
 Track: 7
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858571
 song_end
 song_begin: 08. Play Me.mp3
 Time: 202
@@ -6228,7 +6505,7 @@ Title: Play Me
 Album: Take A Look In The Mirror
 Track: 8
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858571
 song_end
 song_begin: 09. Alive.mp3
 Time: 270
@@ -6238,7 +6515,7 @@ Title: Alive
 Album: Take A Look In The Mirror
 Track: 9
 Genre: Metal
-mtime: 1306263104
+mtime: 1322858571
 song_end
 song_begin: 10. Let's Do This Now.mp3
 Time: 199
@@ -6248,7 +6525,7 @@ Title: Let's Do This Now
 Album: Take A Look In The Mirror
 Track: 10
 Genre: Metal
-mtime: 1306263105
+mtime: 1322858571
 song_end
 song_begin: 11. I'm Done.mp3
 Time: 203
@@ -6258,7 +6535,7 @@ Title: I'm Done
 Album: Take A Look In The Mirror
 Track: 11
 Genre: Metal
-mtime: 1306263310
+mtime: 1322858571
 song_end
 song_begin: 12. Ya'll Want a Single.mp3
 Time: 198
@@ -6268,17 +6545,7 @@ Title: Ya'll Want a Single
 Album: Take A Look In The Mirror
 Track: 12
 Genre: Metal
-mtime: 1306263310
-song_end
-song_begin: 13. When Will This End + One [Live].mp3
-Time: 864
-Artist: KoRn
-AlbumArtist: KoRn
-Title: When Will This End + One [Live]
-Album: Take A Look In The Mirror
-Track: 13
-Genre: Metal
-mtime: 1306263310
+mtime: 1322858571
 song_end
 song_begin: 14. ONE.mp3
 Time: 241
@@ -6288,7 +6555,7 @@ Title: ONE
 Album: Take A Look In The Mirror
 Track: 14
 Genre: Metal
-mtime: 1306263312
+mtime: 1322858571
 song_end
 end: KoRn/Take A Look In The Mirror
 directory: Unplugged
@@ -6303,7 +6570,7 @@ Album: Unplugged
 Track: 3
 Date: 2007
 Genre: Rock
-mtime: 1306263310
+mtime: 1322858570
 song_end
 song_begin: 04. Creep.mp3
 Time: 211
@@ -6314,7 +6581,7 @@ Album: Unplugged
 Track: 4
 Date: 2007
 Genre: Rock
-mtime: 1306263310
+mtime: 1322858570
 song_end
 end: KoRn/Unplugged
 end: KoRn
@@ -6368,7 +6635,7 @@ directory: Korn
 mtime: 1306261835
 begin: Korn
 directory: Follow the Leader
-mtime: 1306261784
+mtime: 1317398071
 begin: Korn/Follow the Leader
 song_begin: 13. It's On!.mp3
 Time: 269
@@ -6380,7 +6647,7 @@ Track: 13
 Date: 1998
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 14. Freak on a Leash.mp3
 Time: 255
@@ -6392,7 +6659,7 @@ Track: 14
 Date: 1998
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 15. Got the Life.mp3
 Time: 225
@@ -6404,7 +6671,7 @@ Track: 15
 Date: 1998
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 16. Dead Bodies Everywhere.mp3
 Time: 285
@@ -6416,7 +6683,7 @@ Track: 16
 Date: 1998
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 17. Children of the Korn.mp3
 Time: 232
@@ -6428,7 +6695,7 @@ Track: 17
 Date: 1998
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 18. B.B.K.mp3
 Time: 236
@@ -6440,7 +6707,7 @@ Track: 18
 Date: 1998
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 19. Pretty.mp3
 Time: 252
@@ -6452,7 +6719,7 @@ Track: 19
 Date: 1998
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 20. All in the Family.mp3
 Time: 289
@@ -6464,7 +6731,7 @@ Track: 20
 Date: 1998
 Genre: Metal
 Composer: Fred Durst
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 21. Reclaim My Place.mp3
 Time: 273
@@ -6476,7 +6743,7 @@ Track: 21
 Date: 1998
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 22. Justin.mp3
 Time: 257
@@ -6488,7 +6755,7 @@ Track: 22
 Date: 1998
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 23. Seed.mp3
 Time: 355
@@ -6500,7 +6767,7 @@ Track: 23
 Date: 1998
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 24. Cameltosis.mp3
 Time: 278
@@ -6512,19 +6779,7 @@ Track: 24
 Date: 1998
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
-song_end
-song_begin: 25. My Gift to You.mp3
-Time: 940
-Artist: KoRn
-AlbumArtist: Korn
-Title: My Gift to You
-Album: Follow the Leader
-Track: 25
-Date: 1998
-Genre: Metal
-Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 end: Korn/Follow the Leader
 directory: Issues
@@ -6540,7 +6795,7 @@ Track: 1
 Date: 1999
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 03. Trash.mp3
 Time: 207
@@ -6552,7 +6807,7 @@ Track: 3
 Date: 1999
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 04. 4 U.mp3
 Time: 102
@@ -6564,7 +6819,7 @@ Track: 4
 Date: 1999
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 05. Beg for Me.mp3
 Time: 234
@@ -6576,7 +6831,7 @@ Track: 5
 Date: 1999
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 06. Make Me Bad.mp3
 Time: 236
@@ -6588,7 +6843,7 @@ Track: 6
 Date: 1999
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 07. It's Gonna Go Away.mp3
 Time: 91
@@ -6600,7 +6855,7 @@ Track: 7
 Date: 1999
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 08. Wake Up.mp3
 Time: 248
@@ -6612,7 +6867,7 @@ Track: 8
 Date: 1999
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 09. Am I Going Crazy.mp3
 Time: 59
@@ -6624,7 +6879,7 @@ Track: 9
 Date: 1999
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 10. Hey Daddy.mp3
 Time: 225
@@ -6636,7 +6891,7 @@ Track: 10
 Date: 1999
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 11. Somebody Someone.mp3
 Time: 228
@@ -6648,7 +6903,7 @@ Track: 11
 Date: 1999
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 12. No Way.mp3
 Time: 217
@@ -6660,7 +6915,7 @@ Track: 12
 Date: 1999
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 13. Let's Get This Party Started.mp3
 Time: 221
@@ -6672,7 +6927,7 @@ Track: 13
 Date: 1999
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 14. Wish You Could Be Me.mp3
 Time: 67
@@ -6684,7 +6939,7 @@ Track: 14
 Date: 1999
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 15. Counting.mp3
 Time: 218
@@ -6696,7 +6951,7 @@ Track: 15
 Date: 1999
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 16. Dirty.mp3
 Time: 470
@@ -6708,11 +6963,11 @@ Track: 16
 Date: 1999
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 end: Korn/Issues
 directory: KoRn
-mtime: 1310800764
+mtime: 1317398071
 begin: Korn/KoRn
 song_begin: 01. Blind.mp3
 Time: 260
@@ -6724,7 +6979,7 @@ Track: 1
 Date: 1994
 Genre: Metal
 Composer: Korn
-mtime: 1306263309
+mtime: 1322858570
 song_end
 song_begin: 02. Ball Tongue.mp3
 Time: 269
@@ -6736,7 +6991,7 @@ Track: 2
 Date: 1994
 Genre: Metal
 Composer: Korn
-mtime: 1306263314
+mtime: 1322858570
 song_end
 song_begin: 03. Need To.mp3
 Time: 242
@@ -6748,7 +7003,7 @@ Track: 3
 Date: 1994
 Genre: Metal
 Composer: Korn
-mtime: 1306263376
+mtime: 1322858570
 song_end
 song_begin: 04. Clown.mp3
 Time: 277
@@ -6760,7 +7015,7 @@ Track: 4
 Date: 1994
 Genre: Metal
 Composer: Korn
-mtime: 1306263376
+mtime: 1322858570
 song_end
 song_begin: 05. Divine.mp3
 Time: 171
@@ -6772,7 +7027,7 @@ Track: 5
 Date: 1994
 Genre: Metal
 Composer: Korn
-mtime: 1306263376
+mtime: 1322858570
 song_end
 song_begin: 06. Faget.mp3
 Time: 350
@@ -6784,7 +7039,7 @@ Track: 6
 Date: 1994
 Genre: Metal
 Composer: Korn
-mtime: 1306263376
+mtime: 1322858570
 song_end
 song_begin: 07. Shoots and Ladders.mp3
 Time: 323
@@ -6796,7 +7051,7 @@ Track: 7
 Date: 1994
 Genre: Metal
 Composer: Korn
-mtime: 1306263376
+mtime: 1322858570
 song_end
 song_begin: 08. Predictable.mp3
 Time: 273
@@ -6808,7 +7063,7 @@ Track: 8
 Date: 1994
 Genre: Metal
 Composer: Korn
-mtime: 1306263376
+mtime: 1322858570
 song_end
 song_begin: 09. Fake.mp3
 Time: 291
@@ -6820,7 +7075,7 @@ Track: 9
 Date: 1994
 Genre: Metal
 Composer: Korn
-mtime: 1306263376
+mtime: 1322858570
 song_end
 song_begin: 11. Helmet in the Bush.mp3
 Time: 243
@@ -6832,23 +7087,11 @@ Track: 11
 Date: 1994
 Genre: Metal
 Composer: Korn
-mtime: 1306263376
-song_end
-song_begin: 12. Daddy.mp3
-Time: 1051
-Artist: KoRn
-AlbumArtist: Korn
-Title: Daddy
-Album: KoRn
-Track: 12
-Date: 1994
-Genre: Metal
-Composer: Korn
-mtime: 1306263376
+mtime: 1322858570
 song_end
 end: Korn/KoRn
 directory: Life Is Peachy
-mtime: 1306261818
+mtime: 1317398071
 begin: Korn/Life Is Peachy
 song_begin: 01. Twist.mp3
 Time: 49
@@ -6860,7 +7103,7 @@ Track: 1
 Date: 1996
 Genre: Metal
 Composer: Korn
-mtime: 1306263376
+mtime: 1322858570
 song_end
 song_begin: 02. Chi.mp3
 Time: 235
@@ -6872,7 +7115,7 @@ Track: 2
 Date: 1996
 Genre: Metal
 Composer: Korn
-mtime: 1306263376
+mtime: 1322858570
 song_end
 song_begin: 03. Lost.mp3
 Time: 175
@@ -6884,7 +7127,7 @@ Track: 3
 Date: 1996
 Genre: Metal
 Composer: Korn
-mtime: 1306263385
+mtime: 1322858570
 song_end
 song_begin: 04. Swallow.mp3
 Time: 219
@@ -6896,7 +7139,7 @@ Track: 4
 Date: 1996
 Genre: Metal
 Composer: Korn
-mtime: 1306263385
+mtime: 1322858570
 song_end
 song_begin: 05. Porno Creep.mp3
 Time: 121
@@ -6908,7 +7151,7 @@ Track: 5
 Date: 1996
 Genre: Metal
 Composer: Korn
-mtime: 1306263390
+mtime: 1322858570
 song_end
 song_begin: 06. Good God.mp3
 Time: 201
@@ -6920,7 +7163,7 @@ Track: 6
 Date: 1996
 Genre: Metal
 Composer: Korn
-mtime: 1306263401
+mtime: 1322858570
 song_end
 song_begin: 07. Mr. Rogers.mp3
 Time: 311
@@ -6932,7 +7175,7 @@ Track: 7
 Date: 1996
 Genre: Metal
 Composer: Korn
-mtime: 1306263401
+mtime: 1322858570
 song_end
 song_begin: 08. K@#Ø%!.mp3
 Time: 183
@@ -6944,7 +7187,7 @@ Track: 8
 Date: 1996
 Genre: Metal
 Composer: Korn
-mtime: 1306263403
+mtime: 1322858570
 song_end
 song_begin: 09. No Place to Hide.mp3
 Time: 212
@@ -6956,7 +7199,7 @@ Track: 9
 Date: 1996
 Genre: Metal
 Composer: Korn
-mtime: 1306263409
+mtime: 1322858570
 song_end
 song_begin: 10. Wicked.mp3
 Time: 241
@@ -6968,7 +7211,7 @@ Track: 10
 Date: 1996
 Genre: Metal
 Composer: Ice Cube
-mtime: 1306263414
+mtime: 1322858570
 song_end
 song_begin: 11. A.D.I.D.A.S.mp3
 Time: 153
@@ -6980,7 +7223,7 @@ Track: 11
 Date: 1996
 Genre: Metal
 Composer: Korn
-mtime: 1306263418
+mtime: 1322858570
 song_end
 song_begin: 12. Low Rider.mp3
 Time: 58
@@ -6992,7 +7235,7 @@ Track: 12
 Date: 1996
 Genre: Metal
 Composer: B.B. Dickerson
-mtime: 1306263421
+mtime: 1322858570
 song_end
 song_begin: 13. Ass Itch.mp3
 Time: 219
@@ -7004,19 +7247,7 @@ Track: 13
 Date: 1996
 Genre: Metal
 Composer: Korn
-mtime: 1306263433
-song_end
-song_begin: 14. Kill You.mp3
-Time: 517
-Artist: KoRn
-AlbumArtist: Korn
-Title: Kill You
-Album: Life Is Peachy
-Track: 14
-Date: 1996
-Genre: Metal
-Composer: Korn
-mtime: 1306263448
+mtime: 1322858570
 song_end
 end: Korn/Life Is Peachy
 directory: See You On The Other Side
@@ -7032,7 +7263,7 @@ Track: 1
 Date: 2005
 Genre: Metal
 Composer: Korn
-mtime: 1306263448
+mtime: 1322858570
 song_end
 song_begin: 02. Politics.mp3
 Time: 197
@@ -7044,7 +7275,7 @@ Track: 2
 Date: 2005
 Genre: Metal
 Composer: Korn
-mtime: 1306263449
+mtime: 1322858570
 song_end
 song_begin: 03. Hypocrites.mp3
 Time: 230
@@ -7056,7 +7287,7 @@ Track: 3
 Date: 2005
 Genre: Metal
 Composer: Korn
-mtime: 1306263461
+mtime: 1322858570
 song_end
 song_begin: 04. Souvenir.mp3
 Time: 230
@@ -7068,7 +7299,7 @@ Track: 4
 Date: 2005
 Genre: Metal
 Composer: Korn
-mtime: 1306263461
+mtime: 1322858570
 song_end
 song_begin: 06. Throw Me Away.mp3
 Time: 281
@@ -7080,7 +7311,7 @@ Track: 6
 Date: 2005
 Genre: Metal
 Composer: Atticus Ross
-mtime: 1306263476
+mtime: 1322858570
 song_end
 song_begin: 07. Love Song.mp3
 Time: 259
@@ -7092,7 +7323,7 @@ Track: 7
 Date: 2005
 Genre: Metal
 Composer: Atticus Ross
-mtime: 1306263520
+mtime: 1322858570
 song_end
 song_begin: 08. Open Up.mp3
 Time: 375
@@ -7104,7 +7335,7 @@ Track: 8
 Date: 2005
 Genre: Metal
 Composer: Atticus Ross
-mtime: 1306263520
+mtime: 1322858570
 song_end
 song_begin: 09. Coming Undone.mp3
 Time: 200
@@ -7116,7 +7347,7 @@ Track: 9
 Date: 2005
 Genre: Metal
 Composer: Korn
-mtime: 1306263520
+mtime: 1322858570
 song_end
 song_begin: 10. Getting Off.mp3
 Time: 205
@@ -7128,7 +7359,7 @@ Track: 10
 Date: 2005
 Genre: Metal
 Composer: Korn
-mtime: 1306263520
+mtime: 1322858570
 song_end
 song_begin: 11. Liar.mp3
 Time: 255
@@ -7140,7 +7371,7 @@ Track: 11
 Date: 2005
 Genre: Metal
 Composer: Korn
-mtime: 1306263520
+mtime: 1322858570
 song_end
 song_begin: 12. For No One.mp3
 Time: 217
@@ -7152,7 +7383,7 @@ Track: 12
 Date: 2005
 Genre: Metal
 Composer: Korn
-mtime: 1306263520
+mtime: 1322858570
 song_end
 song_begin: 13. Seen It All.mp3
 Time: 379
@@ -7164,7 +7395,7 @@ Track: 13
 Date: 2005
 Genre: Metal
 Composer: Atticus Ross
-mtime: 1306263520
+mtime: 1322858570
 song_end
 song_begin: 14. Tearjerker.mp3
 Time: 305
@@ -7176,7 +7407,7 @@ Track: 14
 Date: 2005
 Genre: Metal
 Composer: Roxanna Rocks
-mtime: 1306263520
+mtime: 1322858570
 song_end
 end: Korn/See You On The Other Side
 directory: Untouchables
@@ -7192,7 +7423,7 @@ Track: 1
 Date: 2002
 Genre: Metal
 Composer: Korn
-mtime: 1306263520
+mtime: 1322858570
 song_end
 song_begin: 02. Make Believe.mp3
 Time: 277
@@ -7204,7 +7435,7 @@ Track: 2
 Date: 2002
 Genre: Metal
 Composer: Korn
-mtime: 1306263526
+mtime: 1322858570
 song_end
 song_begin: 03. Blame.mp3
 Time: 231
@@ -7216,7 +7447,7 @@ Track: 3
 Date: 2002
 Genre: Metal
 Composer: Korn
-mtime: 1306263534
+mtime: 1322858570
 song_end
 song_begin: 04. Hollow Life.mp3
 Time: 249
@@ -7228,7 +7459,7 @@ Track: 4
 Date: 2002
 Genre: Metal
 Composer: Korn
-mtime: 1306263541
+mtime: 1322858570
 song_end
 song_begin: 05. Bottled Up Inside.mp3
 Time: 240
@@ -7240,7 +7471,7 @@ Track: 5
 Date: 2002
 Genre: Metal
 Composer: Korn
-mtime: 1306263547
+mtime: 1322858570
 song_end
 song_begin: 06. Thoughtless.mp3
 Time: 273
@@ -7252,7 +7483,7 @@ Track: 6
 Date: 2002
 Genre: Metal
 Composer: Korn
-mtime: 1306263558
+mtime: 1322858570
 song_end
 song_begin: 07. Hating.mp3
 Time: 311
@@ -7264,7 +7495,7 @@ Track: 7
 Date: 2002
 Genre: Metal
 Composer: Korn
-mtime: 1306263608
+mtime: 1322858570
 song_end
 song_begin: 08. One More Time.mp3
 Time: 279
@@ -7276,7 +7507,7 @@ Track: 8
 Date: 2002
 Genre: Metal
 Composer: Korn
-mtime: 1306263608
+mtime: 1322858570
 song_end
 song_begin: 09. Alone I Break.mp3
 Time: 257
@@ -7288,7 +7519,7 @@ Track: 9
 Date: 2002
 Genre: Metal
 Composer: Korn
-mtime: 1306263608
+mtime: 1322858570
 song_end
 song_begin: 10. Embrace.mp3
 Time: 267
@@ -7300,7 +7531,7 @@ Track: 10
 Date: 2002
 Genre: Metal
 Composer: Korn
-mtime: 1306263608
+mtime: 1322858570
 song_end
 song_begin: 11. Beat It Upright.mp3
 Time: 256
@@ -7312,7 +7543,7 @@ Track: 11
 Date: 2002
 Genre: Metal
 Composer: Korn
-mtime: 1306264284
+mtime: 1322858570
 song_end
 song_begin: 12. Wake Up Hate.mp3
 Time: 193
@@ -7324,7 +7555,7 @@ Track: 12
 Date: 2002
 Genre: Metal
 Composer: Korn
-mtime: 1306264284
+mtime: 1322858570
 song_end
 song_begin: 13. I'm Hiding.mp3
 Time: 238
@@ -7336,7 +7567,7 @@ Track: 13
 Date: 2002
 Genre: Metal
 Composer: Korn
-mtime: 1306264284
+mtime: 1322858570
 song_end
 song_begin: 14. No One's There.mp3
 Time: 306
@@ -7348,7 +7579,7 @@ Track: 14
 Date: 2002
 Genre: Metal
 Composer: Korn
-mtime: 1306264284
+mtime: 1322858570
 song_end
 song_begin: 15. [Untitled Hidden Track].mp3
 Time: 259
@@ -7359,7 +7590,7 @@ Album: Untouchables
 Track: 15
 Date: 2002
 Genre: Metal
-mtime: 1306264284
+mtime: 1322858570
 song_end
 end: Korn/Untouchables
 end: Korn
@@ -7894,7 +8125,7 @@ mtime: 1306264267
 song_end
 end: Limp Bizkit/Significant Other
 directory: Three Dollar Bill, Yall
-mtime: 1310800764
+mtime: 1317398071
 begin: Limp Bizkit/Three Dollar Bill, Yall
 song_begin: 02. Pollution.mp3
 Time: 233
@@ -8023,18 +8254,6 @@ AlbumArtist: Limp Bizkit
 Title: Leech (Demo Version)
 Album: Three Dollar Bill, Yall
 Track: 12
-Date: 2000
-Genre: Rock
-Composer: DJ Lethal
-mtime: 1306264268
-song_end
-song_begin: 13. Everything.mp3
-Time: 987
-Artist: Limp Bizkit
-AlbumArtist: Limp Bizkit
-Title: Everything
-Album: Three Dollar Bill, Yall
-Track: 13
 Date: 2000
 Genre: Rock
 Composer: DJ Lethal
@@ -8299,7 +8518,7 @@ Album: Bravo Hits Vol.72
 Track: 5
 Date: 2011
 Genre: Top 40
-mtime: 1304859263
+mtime: 1316703297
 song_end
 end: Madcon/Bravo Hits Vol.72
 end: Madcon
@@ -9129,7 +9348,7 @@ Track: 1
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264268
+mtime: 1322858581
 song_end
 song_begin: 02. Go (2006 Mix).mp3
 Time: 263
@@ -9141,7 +9360,7 @@ Track: 2
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264268
+mtime: 1322858581
 song_end
 song_begin: 03. Porcelain.mp3
 Time: 210
@@ -9153,7 +9372,7 @@ Track: 3
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264268
+mtime: 1322858581
 song_end
 song_begin: 04. We Are All Made of Stars.mp3
 Time: 217
@@ -9165,7 +9384,7 @@ Track: 4
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264269
+mtime: 1322858581
 song_end
 song_begin: 05. Dream About Me.mp3
 Time: 204
@@ -9177,7 +9396,7 @@ Track: 5
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264269
+mtime: 1322858581
 song_end
 song_begin: 06. New York, New York.mp3
 Time: 267
@@ -9189,7 +9408,7 @@ Track: 6
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264269
+mtime: 1322858581
 song_end
 song_begin: 07. In This World.mp3
 Time: 206
@@ -9201,7 +9420,7 @@ Track: 7
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264269
+mtime: 1322858581
 song_end
 song_begin: 08. South Side.mp3
 Time: 229
@@ -9213,7 +9432,7 @@ Track: 8
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264269
+mtime: 1322858581
 song_end
 song_begin: 09. Beautiful.mp3
 Time: 193
@@ -9225,7 +9444,7 @@ Track: 9
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264273
+mtime: 1322858581
 song_end
 song_begin: 10. Extreme Ways.mp3
 Time: 211
@@ -9237,7 +9456,7 @@ Track: 10
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264573
+mtime: 1322858581
 song_end
 song_begin: 11. Why Does My Heart Feel So Bad_.mp3
 Time: 226
@@ -9249,7 +9468,7 @@ Track: 11
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264573
+mtime: 1322858581
 song_end
 song_begin: 12. In My Heart (New Mix).mp3
 Time: 200
@@ -9261,7 +9480,7 @@ Track: 12
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264573
+mtime: 1322858581
 song_end
 song_begin: 13. Honey.mp3
 Time: 200
@@ -9273,7 +9492,7 @@ Track: 13
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264573
+mtime: 1322858581
 song_end
 song_begin: 14. Lift Me Up (Album Mix).mp3
 Time: 200
@@ -9285,7 +9504,7 @@ Track: 14
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264573
+mtime: 1322858581
 song_end
 song_begin: 15. Feeling So Real (Live Version).mp3
 Time: 313
@@ -9297,7 +9516,7 @@ Track: 15
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264573
+mtime: 1322858581
 song_end
 song_begin: 16. God Moving over the Face of the Waters.mp3
 Time: 346
@@ -9309,7 +9528,7 @@ Track: 16
 Date: 2006
 Genre: Techno
 Disc: 1/2
-mtime: 1306264573
+mtime: 1322858581
 song_end
 song_begin: 01. Bodyrock (Olav Basoski's Da Hot Funk Da Freak Funk Remix).mp3
 Time: 386
@@ -9321,7 +9540,7 @@ Track: 1
 Date: 2006
 Genre: Techno
 Disc: 2/2
-mtime: 1306264269
+mtime: 1322858581
 song_end
 song_begin: 03. Natural Blues (Perfecto Dub).mp3
 Time: 475
@@ -9333,7 +9552,7 @@ Track: 3
 Date: 2006
 Genre: Techno
 Disc: 2/2
-mtime: 1306264269
+mtime: 1322858581
 song_end
 song_begin: 06. Extreme Ways (DJ Tiesto's Vocal Remix).mp3
 Time: 434
@@ -9345,7 +9564,7 @@ Track: 6
 Date: 2006
 Genre: Techno
 Disc: 2/2
-mtime: 1306264269
+mtime: 1322858581
 song_end
 song_begin: 07. Jam for the Ladies (Nevins Club Blaster Remix).mp3
 Time: 463
@@ -9357,7 +9576,7 @@ Track: 7
 Date: 2006
 Genre: Techno
 Disc: 2/2
-mtime: 1306264269
+mtime: 1322858581
 song_end
 song_begin: 08. Lift Me Up (Mylo Mix).mp3
 Time: 401
@@ -9369,7 +9588,7 @@ Track: 8
 Date: 2006
 Genre: Techno
 Disc: 2/2
-mtime: 1306264269
+mtime: 1322858581
 song_end
 song_begin: 09. Raining Again (Steve Angello's Vocal Mix).mp3
 Time: 415
@@ -9381,7 +9600,7 @@ Track: 9
 Date: 2006
 Genre: Techno
 Disc: 2/2
-mtime: 1306264573
+mtime: 1322858581
 song_end
 song_begin: 10. Dream About Me (Booka Shade Remix).mp3
 Time: 433
@@ -9393,7 +9612,7 @@ Track: 10
 Date: 2006
 Genre: Techno
 Disc: 2/2
-mtime: 1306264573
+mtime: 1322858581
 song_end
 song_begin: 11. Slipping Away (Axwell Vocal Mix).mp3
 Time: 446
@@ -9403,9 +9622,9 @@ Title: Slipping Away (Axwell Vocal Mix)
 Album: Go - The Very Best of Moby
 Track: 11
 Date: 2006
-Genre: techno
+Genre: Techno
 Disc: 2/2
-mtime: 1306264573
+mtime: 1322858581
 song_end
 end: Moby/Go - The Very Best of Moby
 end: Moby
@@ -9910,42 +10129,42 @@ directory: Of Montreal
 mtime: 1310137995
 begin: Of Montreal
 directory: Unknown Album
-mtime: 1310137995
+mtime: 1322860270
 begin: Of Montreal/Unknown Album
-song_begin: Gronlandic Edit.mp3
+song_begin: Of Montreal - Gronlandic Edit.mp3
 Time: 202
 Artist: Of Montreal
 AlbumArtist: Of Montreal
 Title: Gronlandic Edit
-mtime: 1310137998
+mtime: 1322860270
 song_end
 end: Of Montreal/Unknown Album
 end: Of Montreal
-directory: On _ Off
-mtime: 1304852971
-begin: On _ Off
+directory: On ;  Off
+mtime: 1322860498
+begin: On ;  Off
 directory: Single
-mtime: 1304852971
-begin: On _ Off/Single
-song_begin: 01. Butterfly.mp3
+mtime: 1322860498
+begin: On ;  Off/Single
+song_begin: On ;  Off - Butterfly.mp3
 Time: 229
-Artist: On / Off
-AlbumArtist: On / Off
+Artist: On ;  Off
+AlbumArtist: On ;  Off
 Title: Butterfly
 Album: Single
 Track: 1
 Genre: Anime
-mtime: 1304852974
+mtime: 1322860501
 song_end
-end: On _ Off/Single
-end: On _ Off
+end: On ;  Off/Single
+end: On ;  Off
 directory: Orange Range
 mtime: 1304791976
 begin: Orange Range
 directory: Panic Fancy
-mtime: 1304791976
+mtime: 1322860756
 begin: Orange Range/Panic Fancy
-song_begin: 08. Shiawase Neiro.mp3
+song_begin: Orange Range - Shiawase Neiro.mp3
 Time: 257
 Artist: Orange Range
 AlbumArtist: Orange Range
@@ -9953,13 +10172,13 @@ Title: Shiawase Neiro
 Album: Panic Fancy
 Track: 8
 Genre: Anime
-mtime: 1304793869
+mtime: 1322860759
 song_end
 end: Orange Range/Panic Fancy
 directory: Single
-mtime: 1304791976
+mtime: 1322861250
 begin: Orange Range/Single
-song_begin: 01. Asterisk.mp3
+song_begin: Orange Range - Asterisk.mp3
 Time: 255
 Artist: Orange Range
 AlbumArtist: Orange Range
@@ -9967,9 +10186,9 @@ Title: Asterisk
 Album: Single
 Track: 1
 Genre: Anime
-mtime: 1304793974
+mtime: 1322891909
 song_end
-song_begin: 01. O2.mp3
+song_begin: Orange Range - O2.mp3
 Time: 239
 Artist: Orange Range
 AlbumArtist: Orange Range
@@ -9977,7 +10196,7 @@ Title: O2
 Album: Single
 Track: 1
 Genre: Anime
-mtime: 1304793974
+mtime: 1322891653
 song_end
 end: Orange Range/Single
 end: Orange Range
@@ -10797,7 +11016,7 @@ Album: Bravo Hits Vol.72
 Track: 26
 Date: 2011
 Genre: Top 40
-mtime: 1304859263
+mtime: 1316703309
 song_end
 end: Pink/Bravo Hits Vol.72
 end: Pink
@@ -11125,7 +11344,7 @@ Album: Life On Display
 Track: 3/14
 Date: 2003
 Genre: Alt. Rock
-mtime: 1309556847
+mtime: 1324642432
 song_end
 song_begin: 04. Change My Mind.mp3
 Time: 260
@@ -12070,7 +12289,7 @@ Album: Disclaimer II
 Track: 9/20
 Date: 2004
 Genre: Alternative
-mtime: 1306295761
+mtime: 1316702484
 song_end
 song_begin: 13. Sold Me.mp3
 Time: 221
@@ -12081,7 +12300,7 @@ Album: Disclaimer II
 Track: 13/20
 Date: 2004
 Genre: Alternative
-mtime: 1306295762
+mtime: 1316702484
 song_end
 song_begin: 14. Cigarettes.mp3
 Time: 191
@@ -12092,7 +12311,7 @@ Album: Disclaimer II
 Track: 14/20
 Date: 2004
 Genre: Alternative
-mtime: 1306295762
+mtime: 1316702484
 song_end
 song_begin: 15. Love Her.mp3
 Time: 252
@@ -12103,7 +12322,7 @@ Album: Disclaimer II
 Track: 15/20
 Date: 2004
 Genre: Alternative
-mtime: 1306295762
+mtime: 1316702484
 song_end
 song_begin: 16. Take Me Away.mp3
 Time: 236
@@ -12114,7 +12333,7 @@ Album: Disclaimer II
 Track: 16/20
 Date: 2004
 Genre: Alternative
-mtime: 1306295762
+mtime: 1316702484
 song_end
 song_begin: 17. Got It Made.mp3
 Time: 310
@@ -12125,7 +12344,7 @@ Album: Disclaimer II
 Track: 17/20
 Date: 2004
 Genre: Alternative
-mtime: 1306295762
+mtime: 1316702485
 song_end
 song_begin: 18. Out Of My Way.mp3
 Time: 232
@@ -12136,7 +12355,7 @@ Album: Disclaimer II
 Track: 18/20
 Date: 2004
 Genre: Alternative
-mtime: 1306295762
+mtime: 1316702485
 song_end
 song_begin: 19. Hang On.mp3
 Time: 191
@@ -12147,7 +12366,7 @@ Album: Disclaimer II
 Track: 19/20
 Date: 2004
 Genre: Alternative
-mtime: 1306295762
+mtime: 1316702486
 song_end
 end: Seether (CrazyShark)/Disclaimer II
 directory: Fragile
@@ -12435,7 +12654,7 @@ directory: Songs From The Underground
 mtime: 1306261513
 begin: Songs From The Underground
 directory: Songs From The Underground
-mtime: 1306261519
+mtime: 1317398071
 begin: Songs From The Underground/Songs From The Underground
 song_begin: 01. Announcement Service Public.mp3
 Time: 142
@@ -12520,18 +12739,6 @@ Track: 7
 Date: 2008
 Genre: Rock
 Performer: www.music-albums.ucoz.ru
-Disc: 1/1
-mtime: 1306295759
-song_end
-song_begin: 08. Part Of Me.mp3
-Time: 760
-Artist: Linkin Park
-AlbumArtist: Songs From The Underground
-Title: Part Of Me
-Album: Songs From The Underground
-Track: 8
-Date: 2008
-Genre: Rock
 Disc: 1/1
 mtime: 1306295759
 song_end
@@ -12891,7 +13098,7 @@ Album: Bravo Hits Vol.72
 Track: 1
 Date: 2011
 Genre: Top 40
-mtime: 1304859263
+mtime: 1316703327
 song_end
 end: The Black Eyed Peas/Bravo Hits Vol.72
 end: The Black Eyed Peas
@@ -13393,14 +13600,23 @@ directory: VEELA
 mtime: 1310137999
 begin: VEELA
 directory: Unknown Album
-mtime: 1310137999
+mtime: 1324134006
 begin: VEELA/Unknown Album
 song_begin: Night Vision.mp3
 Time: 188
 Artist: VEELA
 AlbumArtist: VEELA
 Title: Night Vision
-mtime: 1310138002
+Genre: Dubstep
+mtime: 1322858943
+song_end
+song_begin: VEELA - SAN FRANCISCO.mp3
+Time: 269
+Artist: VEELA
+AlbumArtist: VEELA
+Title: SAN FRANCISCO
+Genre: Dubstep
+mtime: 1324134006
 song_end
 end: VEELA/Unknown Album
 end: VEELA
@@ -13824,6 +14040,365 @@ mtime: 1304852798
 song_end
 end: Yuko Goto/Single
 end: Yuko Goto
+song_begin: Ephixa - Division (Varien Remix).mp3
+Time: 264
+Artist: Ephixa
+AlbumArtist: Ephixa
+Title: Division (Varien Remix)
+Genre: Drum & Bass
+mtime: 1322892467
+song_end
+song_begin: Ephixa - Dragon Roost Island Dubstep [VEELA VOCAL REMIX].mp3
+Time: 212
+Artist: Ephixa
+AlbumArtist: Ephixa
+Title: Dragon Roost Island Dubstep [VEELA VOCAL REMIX]
+Genre: Dubstep
+mtime: 1322892484
+song_end
+song_begin: Feint ft. Veela - The Journey.mp3
+Time: 246
+Artist: Feint ft. Veela
+AlbumArtist: Feint ft. Veela
+Title: The Journey
+Genre: Dubstep
+mtime: 1324209350
+song_end
+song_begin: Fenech-Soler - Demons (Sigma Remix).mp3
+Time: 282
+Artist: Fenech-Soler
+AlbumArtist: Fenech-Soler
+Title: Demons (Sigma Remix)
+Genre: Dubstep
+mtime: 1322892577
+song_end
+song_begin: Florence + The Machine - No Light, No Light.mp3
+Time: 255
+Artist: Florence & The Machine
+AlbumArtist: Florence & The Machine
+Title: No Light, No Light
+mtime: 1322858763
+song_end
+song_begin: Fred V - Paradise.mp3
+Time: 210
+mtime: 1317587425
+song_end
+song_begin: Funtcase - 50 Caliber.mp3
+Time: 138
+Artist: Funtcase
+AlbumArtist: Funtcase
+Title: 50 Caliber
+Genre: Drum & Bass
+mtime: 1322858678
+song_end
+song_begin: Gemini - And You.mp3
+Time: 293
+mtime: 1318751068
+song_end
+song_begin: GeneticBros - Quark_320.mp3
+Time: 364
+mtime: 1315943778
+song_end
+song_begin: GeneticBros_-_Rush_(2011 Artist_Recordings).mp3
+Time: 316
+mtime: 1315943450
+song_end
+song_begin: Goldfrapp - A&E.mp3
+Time: 201
+mtime: 1322401115
+song_end
+song_begin: Hectix - High time.mp3
+Time: 291
+mtime: 1319084799
+song_end
+song_begin: Helion - Generosity.mp3
+Time: 394
+mtime: 1318678868
+song_end
+song_begin: Hollidayrain - The Silence (ft. Laura Brehm).mp3
+Time: 373
+Artist: Hollidayrain
+Title: The Silence (ft. Laura Brehm)
+Date: 2011
+Genre: Progressive
+mtime: 1319735856
+song_end
+song_begin: Hollywood Undead - I Don_t Wanna Die (Borgore Remix).mp3
+Time: 175
+Artist: Hollywood Undead
+AlbumArtist: Hollywood Undead
+Title: I Don't Wanna Die (Borgore Remix)
+Genre: Dubstep
+mtime: 1322858493
+song_end
+song_begin: Honey Honey - Little Toy Gun.mp3
+Time: 216
+mtime: 1316703394
+song_end
+song_begin: Hugo - 99 Problems.mp3
+Time: 154
+Artist: Hugo
+AlbumArtist: Hugo
+Title: 99 Problems
+mtime: 1322858732
+song_end
+song_begin: Ignite_NLJ_Veela-3.mp3
+Time: 269
+Artist: NLJ & Veela
+AlbumArtist: NLJ & Veela
+Title: Ignite
+Genre: Dubstep
+mtime: 1322858932
+song_end
+song_begin: Indivision _ Echo Inada - Around the World.mp3
+Time: 221
+Artist: Indivision & Echo Inada
+AlbumArtist: Indivision & Echo Inada
+Title: Around the World
+Genre: Dubstep
+mtime: 1322858874
+song_end
+song_begin: Indivision _ Livewire ft. Tasha Baxter - Won_t You Stay.mp3
+Time: 317
+Artist: Indivision & Livewire ft. Tasha Baxter
+AlbumArtist: Indivision & Livewire ft. Tasha Baxter
+Title: Won't You Stay
+Genre: Dubstep
+mtime: 1322858844
+song_end
+song_begin: Klaypex - Lights (None Like Joshua _ Veela _Fantasy_ Rap Rem.mp3
+Time: 248
+Artist: Klaypex
+Title: Lights (None Like Joshua & Veela Fantasy Rap Rem)
+mtime: 1323975767
+song_end
+song_begin: Klaypex - Lights (NoneLikeJoshua &  Veela) (PREVIEW 4).mp3
+Time: 248
+Artist: Klaypex
+Title: Lights (NoneLikeJoshua &  Veela)
+Date: 2011
+mtime: 1322895416
+song_end
+song_begin: Knife Party (Exclusive Artist Mix).mp3
+Time: 900
+mtime: 1318751151
+song_end
+song_begin: Korn - Narcissistic Cannibal (Ft. Skrillex _ Kill The Noise).mp3
+Time: 295
+Artist: KoRn
+AlbumArtist: KoRn
+Title: Narcissistic Cannibal (Ft. Skrillex _ Kill The Noise)
+Genre: Dubstep
+mtime: 1322858571
+song_end
+song_begin: Laidback Luke vs Example - Natural Disaster - Andy C Remix - EQ.mp3
+Time: 328
+mtime: 1318747661
+song_end
+song_begin: Let It Be ft. Veela (Trip-Hop Remix by None Like Joshua).mp3
+Time: 257
+Artist: Blackmill
+Title: Let It Be ft. Veela (Trip-Hop Remix by None Like Joshua)
+Date: 2011-11-14T15:16
+mtime: 1321306032
+song_end
+song_begin: Liquicity 100K Mix.mp3
+Time: 1199
+Artist: Liquicity
+AlbumArtist: Liquicity
+Title: 100K Mix
+Genre: Dubstep
+mtime: 1324643708
+song_end
+song_begin: Little Man Tate - Hey Little Sweetie.mp3
+Time: 164
+mtime: 1322170308
+song_end
+song_begin: Loo & Placido - Black Beatles.mp3
+Time: 183
+mtime: 1316096303
+song_end
+song_begin: M.I.A. - Internet Connection - Flux Pavilion Remix.mp3
+Time: 306
+Artist: Flux Pavilion
+AlbumArtist: Flux Pavilion
+Title: M.I.A. - Internet Connection
+Genre: Dubstep
+mtime: 1322858632
+song_end
+song_begin: Maduk - Levitate.mp3
+Time: 324
+Artist: Maduk
+AlbumArtist: Maduk
+Title: Levitate
+Genre: Dubstep
+mtime: 1322858886
+song_end
+song_begin: Matt Lange vs The XX - Rift Time.mp3
+Time: 505
+mtime: 1315943114
+song_end
+song_begin: Modestep - Bite The Hand.mp3
+Time: 140
+Artist: Modestep
+AlbumArtist: Modestep
+Title: Bite The Hand
+Genre: Dubstep
+mtime: 1322858704
+song_end
+song_begin: Morgan Page - The Longest Road feat. Lissie (Grifta Remix).mp3
+Time: 283
+mtime: 1318748206
+song_end
+song_begin: Morgan Page ft. Veela - Fight For You(RayZ rmx).mp3
+Time: 263
+Artist: Klaypex
+Title: Lights (NoneLikeJoshua &  Veela)
+mtime: 1323975569
+song_end
+song_begin: Nero - Welcome Reality (Exclusive Album Mix).mp3
+Time: 791
+mtime: 1318750778
+song_end
+song_begin: Phetsta - Run You Down (feat. Reija Lee).mp3
+Time: 157
+Artist: Phetsta
+AlbumArtist: Phetsta
+Title: Run You Down (feat. Reija Lee)
+Genre: Dubstep
+mtime: 1322858642
+song_end
+song_begin: Plan B - Stay Too Long (Pendulum Remix).mp3
+Time: 425
+Artist: Plan B
+Title: Stay Too Long (Pendulum Remix)
+mtime: 1323975634
+song_end
+song_begin: Portishead - A Tribute To Monk And Canatella.mp3
+Time: 424
+mtime: 1319649864
+song_end
+song_begin: Portishead - En Melody (with Jane Birkin).mp3
+Time: 201
+Artist: Portishead
+Title: En Melody
+mtime: 1326145530
+song_end
+song_begin: Portishead - Gloomy Sunday.mp3
+Time: 270
+mtime: 1319649965
+song_end
+song_begin: Portishead - Glory Box.mp3
+Time: 301
+mtime: 1319650020
+song_end
+song_begin: Portishead - Hunter.mp3
+Time: 160
+mtime: 1319650101
+song_end
+song_begin: Portishead - Linger ( Rare ).mp3
+Time: 226
+mtime: 1319650169
+song_end
+song_begin: Portishead - Requiem For A Dream.mp3
+Time: 302
+mtime: 1319650653
+song_end
+song_begin: Portishead - Scorn.mp3
+Time: 362
+mtime: 1319650280
+song_end
+song_begin: Portishead - Small.mp3
+Time: 411
+mtime: 1319650336
+song_end
+song_begin: Portishead - Strangers.mp3
+Time: 234
+mtime: 1319650379
+song_end
+song_begin: Portishead - The Rip @ ATP Minehead 2007.mp3
+Time: 325
+mtime: 1319650429
+song_end
+song_begin: Portishead - To Kill A Dead Man.mp3
+Time: 525
+mtime: 1319650482
+song_end
+song_begin: Portishead - Undenied.mp3
+Time: 273
+mtime: 1319650529
+song_end
+song_begin: Portishead - Wandering Star.mp3
+Time: 296
+mtime: 1319650569
+song_end
+song_begin: Portishead-We Carry On.mp3
+Time: 388
+mtime: 1319649776
+song_end
+song_begin: Rameses B - Memoirs.mp3
+Time: 342
+mtime: 1318101145
+song_end
+song_begin: Rusko - Hold On (feat. Amber Coffman) (Sub Focus Remix).mp3
+Time: 271
+Artist: Rusko
+AlbumArtist: Rusko
+Title: Hold On (feat. Amber Coffman) (Sub Focus Remix)
+Genre: Dubstep
+mtime: 1322858719
+song_end
+song_begin: Saint Empire - Venetia ft. Veela1.mp3
+Time: 204
+Artist: Plan B
+Title: Stay Too Long (Pendulum Remix)
+Date: 2011
+mtime: 1323753974
+song_end
+song_begin: Skream and Example - Shot Yourself In The Foot Again.mp3
+Time: 305
+Artist: Skream & Example
+Title: Shot Yourself In The Foot Again - Extended
+mtime: 1318747471
+song_end
+song_begin: Some Wobbles (Noisestorm Remix) - Ephixa (Baconstep).mp3
+Time: 245
+mtime: 1315956779
+song_end
+song_begin: Stan SB - Satisfied.mp3
+Time: 228
+mtime: 1316703405
+song_end
+song_begin: StanSB-LiquicityLIVE.mp3
+Time: 3744
+mtime: 1319471737
+song_end
+song_begin: Starz ft. Veela - Second Nature.mp3
+Time: 320
+Artist: Plan B
+Title: Stay Too Long (Pendulum Remix)
+mtime: 1323363656
+song_end
+song_begin: TC - Concrete (Feat. Dread MC).mp3
+Time: 209
+Artist: TC
+AlbumArtist: TC
+Title: Concrete (Feat. Dread MC)
+Genre: Dubstep
+mtime: 1322858651
+song_end
+song_begin: Tantrum Desire - Reach (Dubstep Mix).mp3
+Time: 171
+Artist: Tantrum Desire
+AlbumArtist: Tantrum Desire
+Title: Reach (Dubstep Mix)
+Genre: Dubstep
+mtime: 1322858900
+song_end
+song_begin: TwoThirds - Forgotten Horizons.mp3
+Time: 477
+mtime: 1315956851
+song_end
 song_begin: TwoThirds - Into The Blur.mp3
 Time: 412
 Artist: TwoThirds
@@ -13831,4 +14406,80 @@ Title: Into The Blur
 Date: 2011
 Genre: Drum & Bass
 mtime: 1310734430
+song_end
+song_begin: Unicorn Kid - Dream Catcher .mp3
+Time: 216
+Artist: Unicorn Kid
+AlbumArtist: Unicorn Kid
+Title: Dream Catcher
+Genre: Dubstep
+mtime: 1322858595
+song_end
+song_begin: Unicorn Kid - Wild Life - The Blessings Remix - 192kbps.mp3
+Time: 235
+Artist: Unicorn Kid
+AlbumArtist: Unicorn Kid
+Title: Wild Life - The Blessings Remix
+Genre: Dubstep
+mtime: 1322858524
+song_end
+song_begin: Unquote - Metro Dreaming.mp3
+Time: 272
+mtime: 1319688926
+song_end
+song_begin: Wolfgang Gartner feat Will.i.am - Forever - Hook & Sling Remix EQ.mp3
+Time: 342
+Artist: Wolfgang Gartner feat Will.i.am
+AlbumArtist: Wolfgang Gartner feat Will.i.am
+Title: Forever - Hook & Sling Remix EQ
+Genre: Dubstep
+mtime: 1322858508
+song_end
+song_begin: Wretch 32 - Forgiveness (ft. Etta Bond) (STINKAHBELL Remix).mp3
+Time: 140
+Artist: Wretch 32
+AlbumArtist: Wretch 32
+Title: Forgiveness (ft. Etta Bond) (STINKAHBELL Remix)
+Genre: Drum & Bass
+mtime: 1322858789
+song_end
+song_begin: genetic-bros-kmag-mix.mp3
+Time: 3657
+mtime: 1315944003
+song_end
+song_begin: xKore - Hello.mp3
+Time: 277
+Artist: xKore
+AlbumArtist: xKore
+Title: Hello
+Genre: Dubstep
+mtime: 1322858910
+song_end
+song_begin: Helion ft Veela - Mistress Intuition.mp3
+Time: 390
+Artist: Helion feat. Veela
+Title: Mistress Intuition
+Album: Mistress Intuition
+Track: 1
+Date: 2011
+Genre: Progressive Trance
+mtime: 1318747056
+song_end
+song_begin: Kelis-Brave(GeminiRemix).mp3
+Time: 295
+Artist: Kelis
+Title: Brave (Gemini Remix)
+Album: http://thisisgemini.com
+Date: 2011
+Genre: Dubstep
+mtime: 1296683250
+song_end
+song_begin: Husts - Wonderful life.mp3
+Time: 251
+Artist: HURTS
+Title: Wonderful Life
+Album: myspace.com/ithurts
+Date: 2009
+Genre: Post-Punk
+mtime: 1323323135
 song_end

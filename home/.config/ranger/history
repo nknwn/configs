@@ -1,0 +1,19 @@
+h
+help
+open_with fbpdf
+open_with fbi
+open_with nvlc
+
+set show_hidden=True
+X1
+set show_hidden=False
+shell sudo rm locale.gen.pacnew
+del
+ 
+s
+cd .a
+delete
+rename 
+rename Starz ft. Veela - Second Nature.mp3
+open_with 
+delete seriously? y

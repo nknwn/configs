@@ -1322,3 +1322,497 @@ Oct 02 20:06 : output: "My Pulse Output" [pulse] failed to play: disconnected
 Oct 02 21:16 : output: "My Pulse Output" [pulse] failed to play: disconnected
 xcb_connection_has_error() returned true
 Oct 02 21:16 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 03 18:51 : decoder_thread: curl failed: Connection timed out after 10007 milliseconds
+Oct 03 18:51 : decoder_thread: curl failed: Connection timed out after 10006 milliseconds
+Oct 03 19:45 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 03 19:46 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 04 19:50 : decoder_thread: curl failed: Resolving timed out after 10000 milliseconds
+Oct 05 08:59 : decoder_thread: curl failed: Resolving timed out after 10000 milliseconds
+Oct 05 16:06 : player_thread: played "http://stream4.addictradio.net/addictalternative.mp3"
+Oct 05 16:06 : player_thread: played "http://stream1.addictradio.net:80/addictalternativebd.mp3"
+Oct 08 22:01 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 08 22:44 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 08 22:44 : avahi: Client Disconnected, will reconnect shortly
+Oct 08 22:44 : avahi: Could not reconnect: Daemon not running
+Oct 09 08:47 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 09 08:47 : avahi: Client Disconnected, will reconnect shortly
+Oct 09 08:47 : avahi: Could not reconnect: Daemon not running
+Oct 10 06:26 : avahi: Client Disconnected, will reconnect shortly
+Oct 10 06:26 : avahi: Could not reconnect: Daemon not running
+Oct 11 06:46 : avahi: Client Disconnected, will reconnect shortly
+Oct 11 06:46 : avahi: Could not reconnect: Daemon not running
+Oct 11 18:21 : avahi: Client Disconnected, will reconnect shortly
+Oct 11 18:21 : avahi: Could not reconnect: Daemon not running
+Oct 16 00:02 : avahi: Client Disconnected, will reconnect shortly
+Oct 16 00:02 : avahi: Could not reconnect: Daemon not running
+Oct 16 00:05 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 16 00:05 : avahi: Client Disconnected, will reconnect shortly
+Oct 16 00:05 : avahi: Could not reconnect: Daemon not running
+Oct 16 00:22 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 16 00:22 : avahi: Client Disconnected, will reconnect shortly
+Oct 16 00:22 : avahi: Could not reconnect: Daemon not running
+Oct 16 01:11 : output: "My Pulse Output" [pulse] failed to play: disconnected
+xcb_connection_has_error() returned true
+Oct 16 01:11 : avahi: Client Disconnected, will reconnect shortly
+Oct 16 01:11 : avahi: Could not reconnect: Daemon not running
+Oct 16 01:11 : decoder: select() failed: Interrupted system call
+Oct 20 08:46 : avahi: Client Disconnected, will reconnect shortly
+Oct 20 08:46 : avahi: Could not reconnect: Daemon not running
+Oct 20 09:34 : avahi: Client Disconnected, will reconnect shortly
+Oct 20 09:34 : avahi: Could not reconnect: Daemon not running
+Oct 20 09:44 : avahi: Client Disconnected, will reconnect shortly
+Oct 20 09:44 : avahi: Could not reconnect: Daemon not running
+Oct 22 09:46 : output: "My Pulse Output" [pulse] failed to play: disconnected
+xcb_connection_has_error() returned true
+Oct 22 09:46 : avahi: Client Disconnected, will reconnect shortly
+Oct 22 09:46 : avahi: Could not reconnect: Daemon not running
+Oct 22 09:46 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 22 09:57 : avahi: Client Disconnected, will reconnect shortly
+Oct 22 09:57 : avahi: Could not reconnect: Daemon not running
+Oct 22 22:28 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 22 22:28 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 22 22:28 : avahi: Client Disconnected, will reconnect shortly
+Oct 22 22:28 : avahi: Could not reconnect: Daemon not running
+Oct 22 22:31 : avahi: Client Disconnected, will reconnect shortly
+Oct 22 22:31 : avahi: Could not reconnect: Daemon not running
+Oct 22 22:34 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 22 22:34 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 22 22:34 : avahi: Client Disconnected, will reconnect shortly
+Oct 22 22:34 : avahi: Could not reconnect: Daemon not running
+Oct 22 22:42 : avahi: Client Disconnected, will reconnect shortly
+Oct 22 22:42 : avahi: Could not reconnect: Daemon not running
+Oct 25 20:00 : avahi: Client Disconnected, will reconnect shortly
+Oct 25 20:00 : avahi: Could not reconnect: Daemon not running
+Oct 25 20:00 : output: "My Pulse Output" [pulse] failed to play: disconnected
+xcb_connection_has_error() returned true
+Oct 25 20:00 : output: Failed to open "My Pulse Output" [pulse]: pa_context_connect() has failed: Connection refused
+Oct 25 20:02 : decoder_thread: curl failed: Resolving timed out after 10000 milliseconds
+Oct 25 20:26 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 25 20:26 : avahi: Client Disconnected, will reconnect shortly
+Oct 25 20:26 : avahi: Could not reconnect: Daemon not running
+Oct 25 20:27 : decoder_thread: curl failed: Resolving timed out after 10000 milliseconds
+Oct 25 21:17 : avahi: Client Disconnected, will reconnect shortly
+Oct 25 21:17 : avahi: Could not reconnect: Daemon not running
+Oct 25 21:21 : avahi: Client Disconnected, will reconnect shortly
+Oct 25 21:21 : avahi: Could not reconnect: Daemon not running
+Oct 25 21:29 : avahi: Client Disconnected, will reconnect shortly
+Oct 25 21:29 : avahi: Could not reconnect: Daemon not running
+Oct 25 21:38 : avahi: Client Disconnected, will reconnect shortly
+Oct 25 21:38 : avahi: Could not reconnect: Daemon not running
+Oct 26 19:16 : output: "My Pulse Output" [pulse] failed to play: disconnected
+xcb_connection_has_error() returned true
+Oct 26 19:16 : output: Failed to open "My Pulse Output" [pulse]: failed to connect: Connection terminated
+Oct 27 22:06 : player_thread: played "http://stream4.addictradio.net/addictalternative.mp3"
+Oct 27 22:06 : decoder_thread: curl failed: Resolving timed out after 10000 milliseconds
+Oct 30 15:20 : player_thread: played "http://listen.radionomy.com/kawaiiradio"
+Oct 30 17:54 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 30 17:54 : avahi: Client Disconnected, will reconnect shortly
+Oct 30 17:54 : avahi: Could not reconnect: Daemon not running
+xcb_connection_has_error() returned true
+Oct 30 18:39 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 30 18:39 : avahi: Client Disconnected, will reconnect shortly
+Oct 30 18:39 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Oct 30 18:41 : decoder_thread: curl failed: Resolving timed out after 10000 milliseconds
+Oct 30 19:25 : avahi: Client Disconnected, will reconnect shortly
+Oct 30 19:25 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Oct 30 22:52 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Oct 31 06:32 : decoder_thread: curl failed: Resolving timed out after 10000 milliseconds
+Nov 06 07:29 : output: "My Pulse Output" [pulse] failed to play: disconnected
+xcb_connection_has_error() returned true
+Nov 06 07:29 : avahi: Client Disconnected, will reconnect shortly
+Nov 06 07:29 : avahi: Could not reconnect: Daemon not running
+Nov 06 07:29 : output: Failed to open "My Pulse Output" [pulse]: pa_context_connect() has failed: Connection refused
+Nov 09 07:21 : output: "My Pulse Output" [pulse] failed to play: disconnected
+xcb_connection_has_error() returned true
+Nov 09 07:21 : avahi: Client Disconnected, will reconnect shortly
+Nov 09 07:21 : avahi: Could not reconnect: Daemon not running
+Nov 09 07:21 : output: Failed to open "My Pulse Output" [pulse]: pa_context_connect() has failed: Connection refused
+Nov 09 07:25 : avahi: Client Disconnected, will reconnect shortly
+Nov 09 07:25 : avahi: Could not reconnect: Daemon not running
+Nov 09 07:29 : avahi: Client Disconnected, will reconnect shortly
+Nov 09 07:29 : avahi: Could not reconnect: Daemon not running
+Nov 09 07:33 : avahi: Client Disconnected, will reconnect shortly
+Nov 09 07:33 : avahi: Could not reconnect: Daemon not running
+Nov 09 22:57 : avahi: Client Disconnected, will reconnect shortly
+Nov 09 22:57 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Nov 09 22:57 : avahi: Could not reconnect: Daemon not running
+xcb_connection_has_error() returned true
+Nov 09 22:57 : output: Failed to open "My Pulse Output" [pulse]: pa_context_connect() has failed: Connection refused
+Nov 09 22:57 : decoder: select() failed: Interrupted system call
+Nov 09 22:59 : decoder_thread: curl failed: Could not resolve host: (nil); Unknown error
+Nov 13 19:20 : decoder_thread: curl failed: Resolving timed out after 10000 milliseconds
+Nov 13 21:03 : player_thread: played "http://listen.radionomy.com/kawaiiradio"
+Nov 13 21:03 : decoder_thread: curl failed: Recv failure: Connection reset by peer
+Nov 13 21:04 : decoder_thread: curl failed: Recv failure: Connection reset by peer
+Nov 14 07:18 : avahi: Client Disconnected, will reconnect shortly
+Nov 14 07:18 : avahi: Could not reconnect: Daemon not running
+Nov 14 18:36 : avahi: Client Disconnected, will reconnect shortly
+Nov 14 18:36 : avahi: Could not reconnect: Daemon not running
+Nov 14 21:05 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Nov 14 21:06 : decoder_thread: curl failed: Could not resolve host: (nil); Unknown error
+Nov 15 18:39 : decoder_thread: curl failed: Connection timed out after 10000 milliseconds
+Nov 15 18:40 : decoder_thread: curl failed: Connection timed out after 10000 milliseconds
+Nov 15 23:52 : avahi: Client Disconnected, will reconnect shortly
+Nov 15 23:52 : avahi: Could not reconnect: Daemon not running
+Nov 16 19:58 : avahi: Client Disconnected, will reconnect shortly
+Nov 16 19:58 : avahi: Could not reconnect: Daemon not running
+Nov 16 22:16 : avahi: Client Disconnected, will reconnect shortly
+Nov 16 22:16 : avahi: Could not reconnect: Daemon not running
+Nov 16 22:24 : avahi: Client Disconnected, will reconnect shortly
+Nov 16 22:24 : avahi: Could not reconnect: Daemon not running
+Nov 18 07:25 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Nov 20 14:38 : avahi: Client Disconnected, will reconnect shortly
+Nov 20 14:38 : avahi: Could not reconnect: Daemon not running
+Nov 20 15:18 : avahi: Client Disconnected, will reconnect shortly
+Nov 20 15:18 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Nov 20 16:30 : avahi: Client Disconnected, will reconnect shortly
+Nov 20 16:30 : avahi: Could not reconnect: Daemon not running
+Nov 20 21:36 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Nov 26 19:57 : avahi: Client Disconnected, will reconnect shortly
+Nov 26 19:57 : avahi: Could not reconnect: Daemon not running
+Nov 26 21:32 : avahi: Client Disconnected, will reconnect shortly
+Nov 26 21:32 : avahi: Could not reconnect: Daemon not running
+Nov 27 02:00 : avahi: Client Disconnected, will reconnect shortly
+Nov 27 02:00 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Nov 27 17:27 : update: added /Blackmill Feat. Veela - Let It Be.mp3
+Nov 27 17:27 : update: added /Goldfrapp - A&E.mp3
+Nov 27 17:27 : update: added /Portishead - Linger ( Rare ).mp3
+Nov 27 17:27 : update: added /Diddy _ Dirty Money Ft Skylar Grey - Coming Home (Mage _ Sky.mp3
+Nov 27 17:27 : update: added /Portishead - A Tribute To Monk And Canatella.mp3
+Nov 27 17:27 : update: added /Stan SB - Satisfied.mp3
+Nov 27 17:27 : update: added /Morgan Page - The Longest Road feat. Lissie (Grifta Remix).mp3
+Nov 27 17:27 : update: updating Madcon/Bravo Hits Vol.72/05. Freaky Like Me (Feat. Ameerah).mp3
+Nov 27 17:27 : update: added /Liquicity 100K Mix.mp3
+Nov 27 17:27 : update: added /Portishead - Small.mp3
+Nov 27 17:27 : update: added /Helion - Generosity.mp3
+Nov 27 17:27 : update: updating Far East Movement Feat. The Cataracs & Dev/Bravo Hits Vol.72/06. Like A G6 (N-Vision Remix).mp3
+Nov 27 17:27 : update: added /Portishead - To Kill A Dead Man.mp3
+Nov 27 17:27 : update: added /Little Man Tate - Hey Little Sweetie.mp3
+Nov 27 17:27 : update: added /Breakbot - Baby I_m Yours (feat. Irfane).mp3
+Nov 27 17:27 : update: added /Portishead - En Melody (with Jane Birkin).mp3
+Nov 27 17:27 : update: updating 89ers/The 89ers Boy/The 89ers Boy.mp3
+Nov 27 17:27 : update: added /Deadmau5 - I Remember (J Majik _ Wickaman Remix).mp3
+Nov 27 17:27 : update: added /Ignite_NLJ_Veela-3.mp3
+Nov 27 17:27 : update: added /Skream and Example - Shot Yourself In The Foot Again.mp3
+Nov 27 17:27 : update: added /M.I.A. - Internet Connection - Flux Pavilion Remix.mp3
+Nov 27 17:27 : update: added /Portishead - Scorn.mp3
+Nov 27 17:27 : update: added /Portishead - The Rip @ ATP Minehead 2007.mp3
+Nov 27 17:27 : update: added /Indivision _ Livewire ft. Tasha Baxter - Won_t You Stay.mp3
+Nov 27 17:27 : update: added /Camo _ Krooked - Cross The Line (Exclusive Album Mix).mp3
+Nov 27 17:27 : update: added /Hectix - High time.mp3
+Nov 27 17:27 : update: added /Portishead - Wandering Star.mp3
+Nov 27 17:27 : update: added /genetic-bros-kmag-mix.mp3
+Nov 27 17:27 : update: added /Hollidayrain - The Silence (ft. Laura Brehm).mp3
+Nov 27 17:27 : update: added /Dragon Roost Island Dubstep Remix - Ephixa.mp3
+Nov 27 17:27 : update: added /Ant 2 Be _ Digital Twist - L`amour.mp3
+Nov 27 17:27 : update: added /Wolfgang Gartner feat Will.i.am - Forever - Hook & Sling Remix EQ.mp3
+Nov 27 17:27 : update: added /Unicorn Kid - Dream Catcher .mp3
+Nov 27 17:27 : update: added /Camo _ Krooked - Cross the Line.mp3
+Nov 27 17:27 : update: added /Korn - Narcissistic Cannibal (Ft. Skrillex _ Kill The Noise).mp3
+Nov 27 17:27 : update: added /Florence + The Machine - No Light, No Light.mp3
+Nov 27 17:27 : update: added /Helion ft Veela - Mistress Intuition.mp3
+Nov 27 17:27 : update: added /Portishead-We Carry On.mp3
+Nov 27 17:27 : update: updating 3OH!3/Just The Hits 2011/10. My First Kiss (Feat. Kesha).mp3
+Nov 27 17:27 : update: added /GeneticBros_-_Rush_(2011 Artist_Recordings).mp3
+Nov 27 17:27 : update: added /Tantrum Desire - Reach (Dubstep Mix).mp3
+Nov 27 17:27 : update: updating Crazy Town/Darkhorse/01. Decorated.mp3
+Nov 27 17:27 : update: added /Unquote - Metro Dreaming.mp3
+Nov 27 17:27 : update: added /Fred V - Paradise.mp3
+Nov 27 17:27 : update: added /Knife Party (Exclusive Artist Mix).mp3
+Nov 27 17:27 : update: updating Adele/Bravo Hits Vol.72/22. Rolling In The Deep  (Radio Edit).mp3
+Nov 27 17:27 : update: updating The Black Eyed Peas/Bravo Hits Vol.72/01. The Time (Dirty Bit).mp3
+Nov 27 17:27 : update: added /A Shell In The Pit - The Bear.mp3
+Nov 27 17:27 : update: added /Rameses B - Memoirs.mp3
+Nov 27 17:27 : update: added /xKore - Hello.mp3
+Nov 27 17:27 : update: updating Feint/Unknown Album/Freefall.mp3
+Nov 27 17:27 : update: added /Hollywood Undead - I Don_t Wanna Die (Borgore Remix).mp3
+Nov 27 17:27 : update: added /Indivision _ Echo Inada - Around the World.mp3
+Nov 27 17:27 : update: added /Maduk - Levitate.mp3
+Nov 27 17:27 : update: added /AboveBeyond (Feat. Zoe Johnston) - Good For Me.mp3
+Nov 27 17:27 : update: updating Seether (CrazyShark)/Disclaimer II/18. Out Of My Way.mp3
+Nov 27 17:27 : update: updating Seether (CrazyShark)/Disclaimer II/17. Got It Made.mp3
+Nov 27 17:27 : update: updating Seether (CrazyShark)/Disclaimer II/16. Take Me Away.mp3
+Nov 27 17:27 : update: updating Seether (CrazyShark)/Disclaimer II/15. Love Her.mp3
+Nov 27 17:27 : update: updating Seether (CrazyShark)/Disclaimer II/13. Sold Me.mp3
+Nov 27 17:27 : update: updating Seether (CrazyShark)/Disclaimer II/09. Fade Away.mp3
+Nov 27 17:27 : update: updating Seether (CrazyShark)/Disclaimer II/19. Hang On.mp3
+Nov 27 17:27 : update: updating Seether (CrazyShark)/Disclaimer II/14. Cigarettes.mp3
+Nov 27 17:27 : update: added /Some Wobbles (Noisestorm Remix) - Ephixa (Baconstep).mp3
+Nov 27 17:27 : update: added /A004 - Grafix - Devotion.mp3
+Nov 27 17:27 : update: added /Phetsta - Run You Down (feat. Reija Lee).mp3
+Nov 27 17:27 : update: added /Funtcase - 50 Caliber.mp3
+Nov 27 17:27 : update: added /Nero - Welcome Reality (Exclusive Album Mix).mp3
+Nov 27 17:27 : update: added /TwoThirds - Forgotten Horizons.mp3
+Nov 27 17:27 : update: added /Breakshift - Before You Notice Her.mp3
+Nov 27 17:27 : update: added /DJ Fresh ft. Sian Evans - Louder.mp3
+Nov 27 17:27 : update: updating Aya Hirano/Hare Hare Yukai/01. Hare Hare Yukai.mp3
+Nov 27 17:27 : update: added /128Example - Last Ones Standing - Doctor P Remix EQ.mp3
+Nov 27 17:27 : update: added /Portishead - Undenied.mp3
+Nov 27 17:27 : update: added /Portishead - Glory Box.mp3
+Nov 27 17:27 : update: added /Hugo - 99 Problems.mp3
+Nov 27 17:27 : update: added /VEELA - SAN FRANCISCO.mp3
+Nov 27 17:27 : update: added /TC - Concrete (Feat. Dread MC).mp3
+Nov 27 17:27 : update: added /Gemini - And You.mp3
+Nov 27 17:27 : update: updating Pink/Bravo Hits Vol.72/26. Raise Your Glass.mp3
+Nov 27 17:27 : update: added /Matt Lange vs The XX - Rift Time.mp3
+Nov 27 17:27 : update: added /Chase _ Status - Blind Faith (Trolley Snatcha Remix).mp3
+Nov 27 17:27 : update: added /Rusko - Hold On (feat. Amber Coffman) (Sub Focus Remix).mp3
+Nov 27 17:27 : update: added /GeneticBros - Quark_320.mp3
+Nov 27 17:27 : update: added /Loo & Placido - Black Beatles.mp3
+Nov 27 17:27 : update: added /Ephixa - Division (Varien Remix).mp3
+Nov 27 17:27 : update: added /Division - Ephixa (Dubstep).mp3
+Nov 27 17:27 : update: added /Modestep - Bite The Hand.mp3
+Nov 27 17:27 : update: added /Honey Honey - Little Toy Gun.mp3
+Nov 27 17:27 : update: added /Portishead - Strangers.mp3
+Nov 27 17:27 : update: added /Fenech-Soler - Demons (Sigma Remix).mp3
+Nov 27 17:27 : update: added /Portishead - Gloomy Sunday.mp3
+Nov 27 17:27 : update: added /Unicorn Kid - Wild Life - The Blessings Remix - 192kbps.mp3
+Nov 27 17:27 : update: added /Kelis-Brave(GeminiRemix).mp3
+Nov 27 17:27 : update: added /Wretch 32 - Forgiveness (ft. Etta Bond) (STINKAHBELL Remix).mp3
+Nov 27 17:27 : update: added /DJ Fresh - Gold Dust - Flux Pavillion Remix.mp3
+Nov 27 17:27 : update: added /DJ Fresh - Gold Dust (Flux Pavilion Remix).mp3
+Nov 27 17:27 : update: added /StanSB-LiquicityLIVE.mp3
+Nov 27 17:27 : update: added /Portishead - Requiem For A Dream.mp3
+Nov 27 17:27 : update: added /Breakshift - Life in Orbit.mp3
+Nov 27 17:27 : update: added /Portishead - Hunter.mp3
+Nov 27 17:27 : update: added /Laidback Luke vs Example - Natural Disaster - Andy C Remix - EQ.mp3
+Nov 28 21:47 : avahi: Client Disconnected, will reconnect shortly
+Nov 28 21:47 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Nov 29 07:17 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Nov 29 07:18 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Nov 30 22:16 : avahi: Client Disconnected, will reconnect shortly
+Nov 30 22:16 : avahi: Could not reconnect: Daemon not running
+Dec 02 07:04 : avahi: Client Disconnected, will reconnect shortly
+Dec 02 07:04 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Dec 02 22:01 : avahi: Client Disconnected, will reconnect shortly
+Dec 02 22:01 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Dec 03 16:51 : output: "My Pulse Output" [pulse] failed to play: disconnected
+Dec 03 16:51 : output: Failed to open "My Pulse Output" [pulse]: pa_context_connect() has failed: Connection refused
+Dec 03 16:52 : output: Failed to open "My Pulse Output" [pulse]: pa_context_connect() has failed: Connection refused
+Dec 03 16:52 : output: Failed to open "My Pulse Output" [pulse]: pa_context_connect() has failed: Connection refused
+Dec 03 16:52 : avahi: Client Disconnected, will reconnect shortly
+Dec 03 16:52 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Dec 03 16:54 : output: Failed to enable "My Pulse Output" [pulse]: pa_context_connect() has failed: Connection refused
+Dec 03 16:54 : output: Failed to enable "My Pulse Output" [pulse]: pa_context_connect() has failed: Connection refused
+Dec 03 16:54 : decoder_thread: curl failed: Could not resolve host: (nil); Unknown error
+Dec 03 17:02 : avahi: Client Disconnected, will reconnect shortly
+Dec 03 17:02 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Dec 03 17:05 : output: Failed to enable "My Pulse Output" [pulse]: pa_context_connect() has failed: Connection refused
+Dec 03 17:18 : avahi: Client Disconnected, will reconnect shortly
+Dec 03 17:18 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Dec 03 17:20 : output: Failed to enable "My Pulse Output" [pulse]: pa_context_connect() has failed: Connection refused
+Dec 03 17:25 : avahi: Client Disconnected, will reconnect shortly
+Dec 03 17:25 : avahi: Could not reconnect: An unexpected D-Bus error occured
+Dec 03 17:29 : output: Failed to enable "My Pulse Output" [pulse]: pa_context_connect() has failed: Connection refused
+Dec 04 00:58 : output: Failed to enable "My Pulse Output" [pulse]: pa_context_connect() has failed: Connection refused
+ALSA lib pcm_dmix.c:1018:(snd_pcm_dmix_open) unable to open slave
+Jan 09 21:20 : output: Failed to open "My ALSA Device" [alsa]: Failed to open ALSA device "default": Device or resource busy
+ALSA lib pcm_dmix.c:1018:(snd_pcm_dmix_open) unable to open slave
+Jan 09 23:18 : output: Failed to open "My ALSA Device" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Jan 09 23:33 : decoder_thread: Unrecognized URI
+Jan 09 23:33 : decoder_thread: Unrecognized URI
+Jan 09 23:33 : player_thread: played "3OH!3/Just The Hits 2011/10. My First Kiss (Feat. Kesha).mp3"
+Jan 09 23:33 : decoder_thread: Unrecognized URI
+Jan 09 23:33 : decoder_thread: Unrecognized URI
+Jan 09 23:38 : player_thread: played "Abingdon Boys School/Abingdon Boys School/01. Howling.mp3"
+Jan 09 23:45 : update: added Eagle-Eye Cherry/Sub Rosa/Eagle-Eye Cherry - Twisted Games.mp3
+Jan 09 23:45 : update: added Eagle-Eye Cherry/Sub Rosa/Eagle-Eye Cherry - The Food Song.mp3
+Jan 09 23:45 : update: added Eagle-Eye Cherry/Sub Rosa/Eagle-Eye Cherry - Feels So Right.mp3
+Jan 09 23:45 : update: added Eagle-Eye Cherry/Sub Rosa/Eagle-Eye Cherry - Crashing Down.mp3
+Jan 09 23:45 : update: added A Shell In The Pit/Unknown Album/A Shell In The Pit - The Bear.mp3
+Jan 09 23:45 : update: updating /Liquicity 100K Mix.mp3
+Jan 09 23:45 : update: added On ;  Off/Single/On ;  Off - Butterfly.mp3
+Jan 09 23:45 : update: added /Klaypex - Lights (NoneLikeJoshua &  Veela) (PREVIEW 4).mp3
+Jan 09 23:45 : update: updating /Portishead - En Melody (with Jane Birkin).mp3
+Jan 09 23:45 : update: added 89ers/The 89ers Boy/89ers - The 89ers Boy.mp3
+Jan 09 23:45 : update: added Diddy & Dirty Money Ft Skylar Grey/Unknown Album/Diddy & Dirty Money Ft Skylar Grey - Coming Home.mp3
+Jan 09 23:45 : update: added Breakbot/Unknown Album/Breakbot - Baby I'm Yours (feat. Irfane).mp3
+Jan 09 23:45 : update: updating /Ignite_NLJ_Veela-3.mp3
+Jan 09 23:45 : update: added VEELA/Unknown Album/VEELA - SAN FRANCISCO.mp3
+Jan 09 23:45 : update: updating VEELA/Unknown Album/Night Vision.mp3
+Jan 09 23:45 : update: updating /M.I.A. - Internet Connection - Flux Pavilion Remix.mp3
+Jan 09 23:45 : update: added /Saint Empire - Venetia ft. Veela1.mp3
+Jan 09 23:45 : update: added /Morgan Page ft. Veela - Fight For You(RayZ rmx).mp3
+Jan 09 23:45 : update: updating /Indivision _ Livewire ft. Tasha Baxter - Won_t You Stay.mp3
+Jan 09 23:45 : update: added Deadmau5/Unknown Album/Deadmau5 - I Remember (J Majik _ Wickaman Remix).mp3
+Jan 09 23:45 : update: added /Klaypex - Lights (None Like Joshua _ Veela _Fantasy_ Rap Rem.mp3
+Jan 09 23:45 : update: added AboveBeyond (Feat. Zoe Johnston)/Unknown Album/AboveBeyond (Feat. Zoe Johnston) - Good For Me.mp3
+Jan 09 23:45 : update: updating /Wolfgang Gartner feat Will.i.am - Forever - Hook & Sling Remix EQ.mp3
+Jan 09 23:45 : update: updating /Unicorn Kid - Dream Catcher .mp3
+Jan 09 23:45 : update: updating /Korn - Narcissistic Cannibal (Ft. Skrillex _ Kill The Noise).mp3
+Jan 09 23:45 : update: updating /Florence + The Machine - No Light, No Light.mp3
+Jan 09 23:45 : update: added /Ephixa - Dragon Roost Island Dubstep [VEELA VOCAL REMIX].mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/06. New York, New York.mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/01. Natural Blues.mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/09. Raining Again (Steve Angello's Vocal Mix).mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/08. Lift Me Up (Mylo Mix).mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/14. Lift Me Up (Album Mix).mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/11. Why Does My Heart Feel So Bad_.mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/16. God Moving over the Face of the Waters.mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/15. Feeling So Real (Live Version).mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/10. Extreme Ways.mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/04. We Are All Made of Stars.mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/07. Jam for the Ladies (Nevins Club Blaster Remix).mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/01. Bodyrock (Olav Basoski's Da Hot Funk Da Freak Funk Remix).mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/05. Dream About Me.mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/13. Honey.mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/11. Slipping Away (Axwell Vocal Mix).mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/09. Beautiful.mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/03. Natural Blues (Perfecto Dub).mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/02. Go (2006 Mix).mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/08. South Side.mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/10. Dream About Me (Booka Shade Remix).mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/03. Porcelain.mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/12. In My Heart (New Mix).mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/07. In This World.mp3
+Jan 09 23:45 : update: updating Moby/Go - The Very Best of Moby/06. Extreme Ways (DJ Tiesto's Vocal Remix).mp3
+Jan 09 23:45 : update: updating KoRn/See You On The Other Side/15. It's me again.mp3
+Jan 09 23:45 : update: updating KoRn/See You On The Other Side/18. Too Late I'm Dead.mp3
+Jan 09 23:45 : update: updating KoRn/See You On The Other Side/16. Eaten up inside.mp3
+Jan 09 23:45 : update: updating KoRn/See You On The Other Side/17. Last legal drug (la Petite mort).mp3
+Jan 09 23:45 : update: updating KoRn/See You On The Other Side/18. Twisted transistor-Dante Ross remix.mp3
+Jan 09 23:45 : update: updating KoRn/Unplugged/03. Falling Away From Me.mp3
+Jan 09 23:45 : update: updating KoRn/Unplugged/04. Creep.mp3
+Jan 09 23:45 : update: updating KoRn/Take A Look In The Mirror/12. Ya'll Want a Single.mp3
+Jan 09 23:45 : update: updating KoRn/Take A Look In The Mirror/02. Break Some Off.mp3
+Jan 09 23:45 : update: updating KoRn/Take A Look In The Mirror/09. Alive.mp3
+Jan 09 23:45 : update: updating KoRn/Take A Look In The Mirror/08. Play Me.mp3
+Jan 09 23:45 : update: updating KoRn/Take A Look In The Mirror/05. Deep Inside.mp3
+Jan 09 23:45 : update: updating KoRn/Take A Look In The Mirror/04. Here It Comes Again.mp3
+Jan 09 23:45 : update: updating KoRn/Take A Look In The Mirror/10. Let's Do This Now.mp3
+Jan 09 23:45 : update: updating KoRn/Take A Look In The Mirror/06. Did My Time.mp3
+Jan 09 23:45 : update: updating KoRn/Take A Look In The Mirror/11. I'm Done.mp3
+Jan 09 23:45 : update: updating KoRn/Take A Look In The Mirror/14. ONE.mp3
+Jan 09 23:45 : update: updating KoRn/Take A Look In The Mirror/07. Everything I've Known.mp3
+Jan 09 23:45 : update: updating KoRn/Take A Look In The Mirror/03. Counting On Me.mp3
+Jan 09 23:45 : update: updating KoRn/Take A Look In The Mirror/01. Right Now.mp3
+Jan 09 23:45 : update: updating KoRn/Greatest Hits_ Volume 1/01. Word Up.mp3
+Jan 09 23:45 : update: updating KoRn/Greatest Hits_ Volume 1/02. Another Brick in the wall.mp3
+Jan 09 23:45 : update: added DJ Fresh/Unknown Album/DJ Fresh - Gold Dust - Flux Pavillion Remix EQ.mp3
+Jan 09 23:45 : update: added DJ Fresh/Unknown Album/DJ Fresh - Gold Dust (Flux Pavilion Remix).mp3
+Jan 09 23:45 : update: updating /Tantrum Desire - Reach (Dubstep Mix).mp3
+Jan 09 23:45 : update: added Caotain Panic! ft. Veela/Unknown Album/Caotain Panic! ft. Veela - Offering.mp3
+Jan 09 23:45 : update: added Chase & Status/Unknown Album/Chase & Status - Blind Faith (Trolley Snatcha Remix).mp3
+Jan 09 23:45 : update: updating /xKore - Hello.mp3
+Jan 09 23:45 : update: updating /Hollywood Undead - I Don_t Wanna Die (Borgore Remix).mp3
+Jan 09 23:45 : update: updating Puddle Of Mudd/Life On Display/03. Nothing Left to Lose.mp3
+Jan 09 23:45 : update: updating /Indivision _ Echo Inada - Around the World.mp3
+Jan 09 23:45 : update: updating /Maduk - Levitate.mp3
+Jan 09 23:45 : update: added Ant 2 Be & Digital Twist/Unknown Album/Ant 2 Be & Digital Twist - L`amour.mp3
+Jan 09 23:45 : update: added DJ Fresh ft. Sian Evans/Unknown Album/DJ Fresh ft. Sian Evans - Louder.mp3
+Jan 09 23:45 : update: added Doctor P/Unknown Album/Doctor P - Last Ones Standing.mp3
+Jan 09 23:45 : update: added /Starz ft. Veela - Second Nature.mp3
+Jan 09 23:45 : update: updating /Phetsta - Run You Down (feat. Reija Lee).mp3
+Jan 09 23:45 : update: updating /Funtcase - 50 Caliber.mp3
+Jan 09 23:45 : update: added /Husts - Wonderful life.mp3
+Jan 09 23:45 : update: added Ephixa/Unknown Album/Ephixa - Dragon Roost Island Dubstep Remix.mp3
+Jan 09 23:45 : update: updating Korn/See You On The Other Side/12. For No One.mp3
+Jan 09 23:45 : update: updating Korn/See You On The Other Side/01. Twisted Transistor.mp3
+Jan 09 23:45 : update: updating Korn/See You On The Other Side/10. Getting Off.mp3
+Jan 09 23:45 : update: updating Korn/See You On The Other Side/02. Politics.mp3
+Jan 09 23:45 : update: updating Korn/See You On The Other Side/08. Open Up.mp3
+Jan 09 23:45 : update: updating Korn/See You On The Other Side/13. Seen It All.mp3
+Jan 09 23:45 : update: updating Korn/See You On The Other Side/06. Throw Me Away.mp3
+Jan 09 23:45 : update: updating Korn/See You On The Other Side/04. Souvenir.mp3
+Jan 09 23:45 : update: updating Korn/See You On The Other Side/07. Love Song.mp3
+Jan 09 23:45 : update: updating Korn/See You On The Other Side/03. Hypocrites.mp3
+Jan 09 23:45 : update: updating Korn/See You On The Other Side/14. Tearjerker.mp3
+Jan 09 23:45 : update: updating Korn/See You On The Other Side/11. Liar.mp3
+Jan 09 23:45 : update: updating Korn/See You On The Other Side/09. Coming Undone.mp3
+Jan 09 23:45 : update: updating Korn/Follow the Leader/16. Dead Bodies Everywhere.mp3
+Jan 09 23:45 : update: updating Korn/Follow the Leader/24. Cameltosis.mp3
+Jan 09 23:45 : update: updating Korn/Follow the Leader/18. B.B.K.mp3
+Jan 09 23:45 : update: updating Korn/Follow the Leader/15. Got the Life.mp3
+Jan 09 23:45 : update: updating Korn/Follow the Leader/20. All in the Family.mp3
+Jan 09 23:45 : update: updating Korn/Follow the Leader/14. Freak on a Leash.mp3
+Jan 09 23:45 : update: updating Korn/Follow the Leader/21. Reclaim My Place.mp3
+Jan 09 23:45 : update: updating Korn/Follow the Leader/22. Justin.mp3
+Jan 09 23:45 : update: updating Korn/Follow the Leader/13. It's On!.mp3
+Jan 09 23:45 : update: updating Korn/Follow the Leader/23. Seed.mp3
+Jan 09 23:45 : update: updating Korn/Follow the Leader/17. Children of the Korn.mp3
+Jan 09 23:45 : update: updating Korn/Follow the Leader/19. Pretty.mp3
+Jan 09 23:45 : update: updating Korn/Untouchables/12. Wake Up Hate.mp3
+Jan 09 23:45 : update: updating Korn/Untouchables/05. Bottled Up Inside.mp3
+Jan 09 23:45 : update: updating Korn/Untouchables/07. Hating.mp3
+Jan 09 23:45 : update: updating Korn/Untouchables/14. No One's There.mp3
+Jan 09 23:45 : update: updating Korn/Untouchables/04. Hollow Life.mp3
+Jan 09 23:45 : update: updating Korn/Untouchables/11. Beat It Upright.mp3
+Jan 09 23:45 : update: updating Korn/Untouchables/10. Embrace.mp3
+Jan 09 23:45 : update: updating Korn/Untouchables/02. Make Believe.mp3
+Jan 09 23:45 : update: updating Korn/Untouchables/06. Thoughtless.mp3
+Jan 09 23:45 : update: updating Korn/Untouchables/09. Alone I Break.mp3
+Jan 09 23:45 : update: updating Korn/Untouchables/13. I'm Hiding.mp3
+Jan 09 23:45 : update: updating Korn/Untouchables/03. Blame.mp3
+Jan 09 23:45 : update: updating Korn/Untouchables/15. [Untitled Hidden Track].mp3
+Jan 09 23:45 : update: updating Korn/Untouchables/08. One More Time.mp3
+Jan 09 23:45 : update: updating Korn/Untouchables/01. Here to Stay.mp3
+Jan 09 23:45 : update: updating Korn/Life Is Peachy/11. A.D.I.D.A.S.mp3
+Jan 09 23:45 : update: updating Korn/Life Is Peachy/03. Lost.mp3
+Jan 09 23:45 : update: updating Korn/Life Is Peachy/07. Mr. Rogers.mp3
+Jan 09 23:45 : update: updating Korn/Life Is Peachy/04. Swallow.mp3
+Jan 09 23:45 : update: updating Korn/Life Is Peachy/05. Porno Creep.mp3
+Jan 09 23:45 : update: updating Korn/Life Is Peachy/06. Good God.mp3
+Jan 09 23:45 : update: updating Korn/Life Is Peachy/08. K@#Ø%!.mp3
+Jan 09 23:45 : update: updating Korn/Life Is Peachy/10. Wicked.mp3
+Jan 09 23:45 : update: updating Korn/Life Is Peachy/01. Twist.mp3
+Jan 09 23:45 : update: updating Korn/Life Is Peachy/09. No Place to Hide.mp3
+Jan 09 23:45 : update: updating Korn/Life Is Peachy/13. Ass Itch.mp3
+Jan 09 23:45 : update: updating Korn/Life Is Peachy/02. Chi.mp3
+Jan 09 23:45 : update: updating Korn/Life Is Peachy/12. Low Rider.mp3
+Jan 09 23:45 : update: updating Korn/KoRn/01. Blind.mp3
+Jan 09 23:45 : update: updating Korn/KoRn/09. Fake.mp3
+Jan 09 23:45 : update: updating Korn/KoRn/11. Helmet in the Bush.mp3
+Jan 09 23:45 : update: updating Korn/KoRn/07. Shoots and Ladders.mp3
+Jan 09 23:45 : update: updating Korn/KoRn/03. Need To.mp3
+Jan 09 23:45 : update: updating Korn/KoRn/02. Ball Tongue.mp3
+Jan 09 23:45 : update: updating Korn/KoRn/05. Divine.mp3
+Jan 09 23:45 : update: updating Korn/KoRn/06. Faget.mp3
+Jan 09 23:45 : update: updating Korn/KoRn/08. Predictable.mp3
+Jan 09 23:45 : update: updating Korn/KoRn/04. Clown.mp3
+Jan 09 23:45 : update: updating Korn/Issues/10. Hey Daddy.mp3
+Jan 09 23:45 : update: updating Korn/Issues/16. Dirty.mp3
+Jan 09 23:45 : update: updating Korn/Issues/12. No Way.mp3
+Jan 09 23:45 : update: updating Korn/Issues/15. Counting.mp3
+Jan 09 23:45 : update: updating Korn/Issues/14. Wish You Could Be Me.mp3
+Jan 09 23:45 : update: updating Korn/Issues/01. Dead.mp3
+Jan 09 23:45 : update: updating Korn/Issues/09. Am I Going Crazy.mp3
+Jan 09 23:45 : update: updating Korn/Issues/11. Somebody Someone.mp3
+Jan 09 23:45 : update: updating Korn/Issues/13. Let's Get This Party Started.mp3
+Jan 09 23:45 : update: updating Korn/Issues/03. Trash.mp3
+Jan 09 23:45 : update: updating Korn/Issues/04. 4 U.mp3
+Jan 09 23:45 : update: updating Korn/Issues/06. Make Me Bad.mp3
+Jan 09 23:45 : update: updating Korn/Issues/05. Beg for Me.mp3
+Jan 09 23:45 : update: updating Korn/Issues/07. It's Gonna Go Away.mp3
+Jan 09 23:45 : update: updating Korn/Issues/08. Wake Up.mp3
+Jan 09 23:45 : update: added /Let It Be ft. Veela (Trip-Hop Remix by None Like Joshua).mp3
+Jan 09 23:45 : update: updating /Hugo - 99 Problems.mp3
+Jan 09 23:45 : update: updating /TC - Concrete (Feat. Dread MC).mp3
+Jan 09 23:45 : update: added Grafix/Unknown Album/Grafix - Devotion.mp3
+Jan 09 23:45 : update: added Orange Range/Single/Orange Range - Asterisk.mp3
+Jan 09 23:45 : update: added Orange Range/Single/Orange Range - O2.mp3
+Jan 09 23:45 : update: added Orange Range/Panic Fancy/Orange Range - Shiawase Neiro.mp3
+Jan 09 23:45 : update: updating /Rusko - Hold On (feat. Amber Coffman) (Sub Focus Remix).mp3
+Jan 09 23:45 : update: updating /Ephixa - Division (Varien Remix).mp3
+Jan 09 23:45 : update: added Breakshift/Unknown Album/Breakshift - Before You Notice Her.mp3
+Jan 09 23:45 : update: added Breakshift/Unknown Album/Breakshift - Life in Orbit.mp3
+Jan 09 23:45 : update: updating /Modestep - Bite The Hand.mp3
+Jan 09 23:45 : update: added Of Montreal/Unknown Album/Of Montreal - Gronlandic Edit.mp3
+Jan 09 23:45 : update: added /Plan B - Stay Too Long (Pendulum Remix).mp3
+Jan 09 23:45 : update: added Blackmill Feat. Veela/Unknown Album/Blackmill Feat. Veela - Let It Be.mp3
+Jan 09 23:45 : update: added /Feint ft. Veela - The Journey.mp3
+Jan 09 23:45 : update: updating /Fenech-Soler - Demons (Sigma Remix).mp3
+Jan 09 23:45 : update: added Camo & Krooked/Unknown Album/Camo & Krooked - Cross The Line (Exclusive Album Mix).mp3
+Jan 09 23:45 : update: added Camo & Krooked/Unknown Album/Camo & Krooked - Cross the Line.mp3
+Jan 09 23:45 : update: added Ephixa (Dubstep)/Unknown Album/Ephixa (Dubstep) - Division.mp3
+Jan 09 23:45 : update: updating /Unicorn Kid - Wild Life - The Blessings Remix - 192kbps.mp3
+Jan 09 23:45 : update: updating /Wretch 32 - Forgiveness (ft. Etta Bond) (STINKAHBELL Remix).mp3
+Jan 10 00:01 : player_thread: played "Fenech-Soler - Demons (Sigma Remix).mp3"
+Jan 10 00:02 : player_thread: played "Ephixa - Division (Varien Remix).mp3"
+Jan 10 00:06 : player_thread: played "Ephixa - Dragon Roost Island Dubstep [VEELA VOCAL REMIX].mp3"
+Jan 10 18:51 : player_thread: played "Ignite_NLJ_Veela-3.mp3"
+Jan 10 18:55 : player_thread: played "Indivision _ Echo Inada - Around the World.mp3"
+Jan 10 19:00 : player_thread: played "Indivision _ Livewire ft. Tasha Baxter - Won_t You Stay.mp3"
+Jan 10 19:05 : player_thread: played "Klaypex - Lights (None Like Joshua _ Veela _Fantasy_ Rap Rem.mp3"
+Jan 10 19:09 : player_thread: played "Klaypex - Lights (NoneLikeJoshua &  Veela) (PREVIEW 4).mp3"
+Jan 10 19:24 : player_thread: played "Knife Party (Exclusive Artist Mix).mp3"
+Jan 10 19:29 : player_thread: played "Korn - Narcissistic Cannibal (Ft. Skrillex _ Kill The Noise).mp3"

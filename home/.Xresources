@@ -107,13 +107,17 @@ URxvt*color14:  #96ff94
 URxvt*color7:   #9da560
 URxvt*color15:  #ffffd8
 
-URxvt.perl-ext-common:  default,tabbed,matcher
-URxvt.tabbed.tabbar-fg: 2
-URxvt.tabbed.tabbar-bg: 0
-URxvt.tabbed.tab-fg:    3
-URxvt.tabbed.tab-bg:    0
-URxvt.urlLauncher:      /usr/bin/firefox
+URxvt.perl-ext-common:  default,matcher,url-select
+#URxvt.tabbed.tabbar-fg: 2
+#URxvt.tabbed.tabbar-bg: 0
+#URxvt.tabbed.tab-fg:    3
+#URxvt.tabbed.tab-bg:    0
 URxvt.matcher.button:   1
+URxvt.keysym.M-u:    perl:url-select:select_next
+URxvt.urlLauncher:   /usr/bin/firefox
+URxvt.underlineURLs: true
+
+
 ! scrollbar style - rxvt (default), plain (most compact), next, or xterm
 URxvt*scrollstyle:plain
 URxvt*scrollBar:            true
