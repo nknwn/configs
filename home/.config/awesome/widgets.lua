@@ -77,7 +77,7 @@ baticon.image = image(icon_dir .. "bat_full_01.png")
 -- Text
 batwidget = widget({ type = "textbox" })
 batwidget.align = "right"
-vicious.register(batwidget, vicious.widgets.bat, ' '..focus_col..'$2%'..null_col..' $1', 20, "BAT0")
+vicious.register(batwidget, vicious.widgets.bat, ' '..focus_col..'$2%'..null_col..'', 20, "BAT0")
 
 --/// Temp widget ///
 tempicon = widget({ type = "imagebox" })

@@ -1,6 +1,6 @@
 --//  Main
 theme = {}
-theme.wallpaper_cmd = { "awsetbg /home/nkn/Pictures/wallpaper-667413.jpg" }
+theme.wallpaper_cmd = { "awsetbg -a /home/nkn/Pictures/steampunk.jpg" }
 --//
 
 --/// Styles

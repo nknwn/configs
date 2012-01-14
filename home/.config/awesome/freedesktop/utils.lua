@@ -8,9 +8,9 @@ local os = os
 module("freedesktop.utils")
 
 home = os.getenv("HOME")
-terminal = 'urxvtcd'
+terminal = 'urxvtc'
 
-icon_theme = "AwOken/clear"
+icon_theme = "gnome"
 
 all_icon_sizes = { 
 --    'scalable',
