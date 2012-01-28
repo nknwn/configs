@@ -1,0 +1,16 @@
+"1.0rc1
+
+set editor='urxvt -e vim -f'
+loadplugins '\.(js|penta)$'
+group user
+colorscheme zenburn
+/*set defsearch=duckduckgo-ssl*/
+
+" mapping h, j, k and l to scroll faster
+noremap h 4h
+noremap j 4j
+noremap k 4k
+noremap l 4l
+
+
+" vim: set ft=pentadactyl:
