@@ -4,7 +4,20 @@ set editor='urxvt -e vim -f'
 loadplugins '\.(js|penta)$'
 group user
 colorscheme zenburn
-/*set defsearch=duckduckgo-ssl*/
+"set defsearch=duckduckgo-ssl
+bmark -title='DuckDuckGo' https://duckduckgo.com/?q=%s -keyword=ddg
+set defsearch=ddg
+" custom searches (using bangs: https://duckduckgo.com/bang.html)
+map sd tddg 
+map s! tddg !
+map st tddg !torrentz 
+map sg tddg !github 
+map su tddg !urban 
+map sa tddg !archwiki 
+map sf tddg !archlinux 
+map si tddg !i 
+map sm tddg !m 
+map so tddg !osm 
 
 " mapping h, j, k and l to scroll faster
 noremap h 4h
