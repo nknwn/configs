@@ -5,7 +5,7 @@ theme.wallpaper_cmd = { "awsetbg -a /home/nkn/Pictures/steampunk.jpg" }
 
 --/// Styles
 
-theme.font      = "montecarlo 7"
+theme.font      = "clear 7"
 --themedir2 		= "~/.config/awesome/themes/buttons"
 themedir 		= "~/.config/awesome/themes"
 
@@ -17,6 +17,22 @@ theme.bg_normal = "#101309"
 theme.bg_focus  = "#222815"
 theme.bg_urgent = "#ffc0c0"
 --//
+theme.color_black_dark = "#101309"
+theme.color_black_light = "#222815"
+theme.color_red_dark = "#C8611F"
+theme.color_red_light = "#ffb73e"
+theme.color_green_dark = "#546B28"
+theme.color_green_light = "#9fca4e"
+theme.color_yellow_dark = "#DCA53E"
+theme.color_yellow_light = "#ffff77"
+theme.color_blue_dark = "#235967"
+theme.color_blue_light = "#45a9c2"
+theme.color_magenta_dark = "#914C5A"
+theme.color_magenta_light = "#ff91aa"
+theme.color_cyan_dark = "#4F9E4E"
+theme.color_cyan_light = "#96ff94"
+theme.color_white_dark = "#9da560"
+theme.color_white_light = "#ffffd8"
 
 --// Borders
 theme.border_width  = "1"

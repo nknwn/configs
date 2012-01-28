@@ -107,11 +107,12 @@ URxvt*color14:  #96ff94
 URxvt*color7:   #9da560
 URxvt*color15:  #ffffd8
 
-URxvt.perl-ext-common:  default,matcher,url-select
-#URxvt.tabbed.tabbar-fg: 2
-#URxvt.tabbed.tabbar-bg: 0
-#URxvt.tabbed.tab-fg:    3
-#URxvt.tabbed.tab-bg:    0
+URxvt*font:xft:fixed:pixelsize=10
+URxvt.perl-ext-common:  default,matcher,url-select,vtwheel
+!URxvt.tabbed.tabbar-fg: 2
+!URxvt.tabbed.tabbar-bg: 0
+!URxvt.tabbed.tab-fg:    3
+!URxvt.tabbed.tab-bg:    0
 URxvt.matcher.button:   1
 URxvt.keysym.M-u:    perl:url-select:select_next
 URxvt.urlLauncher:   /usr/bin/firefox
@@ -129,3 +130,29 @@ URxvt*scrollTtyOutput:      false
 URxvt*scrollWithBuffer:     true
 URxvt*scrollTtyKeypress:    true
 URxvt*geometry: 84x24
+
+
+!!black
+!*color0:#060606
+!*color8:#191919
+!!red
+!*color1:#8A2F58
+!*color9:#CF4F88
+!!green
+!*color2:#287373
+!*color10:#53A6A6
+!!yellow
+!*color3:#914E89
+!*color11:#BF85CC
+!!blue
+!*color4:#18618f
+!*color12:#1C86C5
+!!magenta
+!*color5:#5E468C
+!*color13:#7F62B3
+!!cyan
+!*color6:#8CAFF0
+!*color14:#9BBAF1
+!!white
+!*color7:#EDD8D1
+!*color15:#FCEDE3

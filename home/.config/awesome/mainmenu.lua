@@ -39,7 +39,7 @@ function build()
         { "Terminal", terminal,  },
         { "Browser", browser,  },
 	{ "Email", email, },
-        { "FileMan", fileman,  },
+        { "FileManager", fileman,  },
         { "< AppMenu >", appmenu_items,  },
         { "Awesome", myawesomemenu,  },
     }

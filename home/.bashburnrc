@@ -1,4 +1,4 @@
-VERSION: 3.x.x
+VERSION: 3.1.0
 BBCDWRITER: /dev/sr0
 BBCDROM: /dev/sr0
 BBCDMNT: /media/cdrom
@@ -8,7 +8,7 @@ BBNUMDEV: 1
 BBBURNDIR: /tmp/burn
 BBLABEL: BashBurn CD/DVD
 BBDESCRIPTION: Burnt with BashBurn
-BBAUTHOR: razvan
+BBAUTHOR: <Change me>
 BBNORMALIZE: no
 BBDRIVEROPT: 
 BBFIFODIR: /tmp
@@ -36,3 +36,4 @@ BB_OGGDEC: oggdec
 BB_FLACCMD: flac
 BB_EJECT: eject
 BB_NORMCMD: normalize
+BB_NRG2ISO: nrg2iso

@@ -4,8 +4,8 @@ require("vicious")
 require("mainmenu")
 require("freedesktop.utils")
 require("freedesktop.menu")
-----require("volume")
-----require("mpd")
+require("volume")
+require("mpd")
 
 beautiful.init("/home/nkn/.config/awesome/theme.lua")
 
@@ -22,11 +22,30 @@ mylauncher:buttons(awful.util.table.join(awful.button({}, 1, nil, function () my
 mainmenu_args = { coords={ x=0, y=0 }, keygrabber = true }
 desktopmenu_args = { keygrabber = true }
 keymenu_args = { coords={ x=200, y=100 }, keygrabber = true }
+
 -- text color
 focus_col = '<span color="'..beautiful.fg_focus..'">'
+black0_col = '<span color="' ..beautiful.color_black_dark..'">'
+black1_col = '<span color="' ..beautiful.color_black_light..'">'
+red0_col = '<span color="' ..beautiful.color_red_dark..'">'
+red1_col = '<span color="' ..beautiful.color_red_light..'">'
+green0_col = '<span color="' ..beautiful.color_green_dark..'">'
+green1_col = '<span color="' ..beautiful.color_green_light..'">'
+yellow0_col = '<span color="' ..beautiful.color_yellow_dark..'">'
+yellow1_col = '<span color="' ..beautiful.color_yellow_light..'">'
+blue0_col = '<span color="' ..beautiful.color_blue_dark..'">'
+blue1_col = '<span color="' ..beautiful.color_blue_light..'">'
+magenta0_col = '<span color="' ..beautiful.color_magenta_dark..'">'
+magenta1_col = '<span color="' ..beautiful.color_magenta_light..'">'
+cyan0_col = '<span color="' ..beautiful.color_cyan_dark..'">'
+cyan1_col = '<span color="' ..beautiful.color_cyan_light..'">'
+white0_col = '<span color="' ..beautiful.color_white_dark..'">'
+white1_col = '<span color="' ..beautiful.color_white_light..'">'
 null_col = '</span>'
+
 -- Icon dir
 icon_dir = awful.util.getdir("config") .. "/icons/"
+
 --/// Start a layoutbox ///
 mylayoutbox = {}
 -- Aliases
@@ -44,8 +63,18 @@ mytaglist.buttons = awful.util.table.join(
 --///
 
 --/// Clock widget ///
-datewidget = widget({ type = "textbox" })
-vicious.register(datewidget, vicious.widgets.date, ''..focus_col..'%H:%M %a %d-%m-%Y'..null_col..'',  10)
+----datewidget = widget({ type = "textbox" })
+----vicious.register(datewidget, vicious.widgets.date, ''..focus_col..'%H:%M %a %d-%m-%Y'..null_col..'',  10)
+
+--/// Date/Clock widget ///
+-- Create a textclock widget
+mytextclock = awful.widget.textclock({ align = "right" })
+
+-- Calendar widget to attach to the textclock
+require('calendar2')
+calendar2.addCalendarToWidget(mytextclock)
+
+
 
 --/// CPU widget ///
 -- Icon
@@ -53,13 +82,9 @@ cpuicon = widget({ type = "imagebox" })
 cpuicon.image = image(icon_dir .. "cpu.png")
 -- Text
 cpuperc = widget({ type = "textbox" })
-cpuperc.width = "60"
+cpuperc.width = "55"
 cpuperc.align = "right"
-vicious.register(cpuperc, vicious.widgets.cpu, '$2%'..focus_col..'   '..null_col..'$3%', 2)
---cpuperc1 = widget({ type = "textbox" })
---cpuperc1.width = "30"
---cpuperc1.align = "left"
---vicious.register(cpuperc1, vicious.widgets.cpu, ' '..focus_col..'$3'..null_col..'', 2)
+vicious.register(cpuperc, vicious.widgets.cpu, '$2%'..focus_col..' '..null_col..'$3%', 2)
 
 --/// Mem Widget ///
 -- Icon
@@ -94,8 +119,8 @@ systray = widget({ type = "systray"})
 systray.align = "right"
 
 --/// Net Widget
-neticon = widget({ type = "imagebox" })
-neticon.align = "right"
+----neticon = widget({ type = "imagebox" })
+----neticon.align = "right"
 netwidget = widget({ type = "textbox" })
 netwidget.width = "80"
 netwidget.align = "right"
@@ -103,14 +128,14 @@ vicious.register(netwidget, vicious.widgets.net,
     function (widget, args)
         if args["{ppp0 carrier}"] == 1 
 			then 
-				neticon.image = image("/home/nkn/.config/awesome/icons/usb.png")
+----				neticon.image = image("/home/nkn/.config/awesome/icons/usb.png")
 				return ' D '..focus_col..args["{ppp0 down_kb}"]..null_col..' U '..focus_col..args["{ppp0 up_kb}"]..null_col..''
 		elseif args["{wlan0 carrier}"] == 1 
 			then 
-				neticon.image = image("/home/nkn/.config/awesome/icons/wifi_01.png")
+----				neticon.image = image("/home/nkn/.config/awesome/icons/wifi_01.png")
 				return ' D '..focus_col..args["{wlan0 down_kb}"]..null_col..' U '..focus_col..args["{wlan0 up_kb}"]..null_col..''
 	    else 
-			neticon.image = image("/home/nkn/.config/awesome/icons/empty.png")
+----			neticon.image = image("/home/nkn/.config/awesome/icons/empty.png")
 			return  'Netwok Disabled '
 	   		--end
 		end
@@ -131,62 +156,79 @@ end
 
 --/// MPD widget ///
 -- Inizialize widgets
-----mpdwidget = widget({ type = "textbox" })
-----mpdwidget.align = "left"
-----mpdicon = widget({ type = "imagebox" })
+mpdwidget = widget({ type = "textbox" })
+mpdwidget.align = "left"
+mpdicon = widget({ type = "imagebox" })
 -- Connect to MPD
-----mpc = mpd:new()
+mpc = mpd:new()
 -- Build mpd widget
-----function widget_mpd(widget, icon)
-----	local state = mpc:send('status').state
-----	local artist, title
-----	local running = true
-----	-- Icon table
-----	local icon_dir = awful.util.getdir("config").."/icons/"
-----	local icons = {
-----		play = icon_dir.."/play.png",
-----		pause = icon_dir.."/pause.png",
-----		stop = icon_dir.."/stop.png",
-----		none = icon_dir.."/empty.png",
-----		unknow = icon_dir.."/half.png"
-----	}
-----	-- Get the state and define the icon widget
-----	if state == "stop" then icon.image = image(icons.stop)
-----	elseif state == "pause"	then icon.image = image(icons.pause)
-----	elseif state == "play"	then icon.image = image(icons.play)
-----	elseif state == nil		then icon.image = image(icons.none)
-----								 local running = false
-----	else icon.image = image(icons.unknow)
-----	end
-----	-- Get title and artist	
-----	if running then
-----		-- get artist
-----		artist = escape_xml(mpc:send('currentsong').artist)
-----		if artist == nil then artist = "[unkhow]" end
-----		-- get title
-----		title = escape_xml(mpc:send('currentsong').title)
-----		if title == nil then 
-----			title = string.gsub(escape_xml(mpc:send('currentsong').file), ".*/", "")
-----			if title == nil then
-----				title = "[unkhow]" end
-----		end
-----		-- Put the text in the widget
-----		widget.text = string.format("%s%s%s - %s",focus_col,title,null_col,artist)
-----	else
-----		widget.text = ' MPD is closed '
-----	end
-----
-----end
+function widget_mpd(widget, icon)
+	local status = mpc:send('status')
+	local state = status.state
+	local current = mpc:send('currentsong')
+	local artist, title, elapsed, totaltime
+	local running = true
+	
+	-- Icon table
+	local icon_dir = awful.util.getdir("config").."/icons/"
+	local icons = {
+		play = icon_dir.."/play.png",
+		pause = icon_dir.."/pause.png",
+		stop = icon_dir.."/stop.png",
+		none = icon_dir.."/empty.png",
+		unknow = icon_dir.."/half.png"
+	}
+	
+	-- Get the state and define the icon widget
+	if state == "stop" then icon.image = image(icons.stop)
+	elseif state == "pause"	then icon.image = image(icons.pause)
+	elseif state == "play"	then icon.image = image(icons.play)
+	elseif state == nil		then icon.image = image(icons.none)
+								 local running = false
+	else icon.image = image(icons.unknow)
+	end
+
+	-- Get title and artist	
+	if running then
+		
+		-- get artist
+		artist = escape_xml(current.artist)
+		if artist == nil then artist = "[n/a]" end
+		
+		-- get title
+		title = escape_xml(current.title)
+		if title == nil then 
+			title = string.gsub(escape_xml(current.file), ".*/", "")
+			if title == nil then title = "[n/a]" end
+		end
+		
+		-- get time
+		local elapsed, totaltime = status.elapsed, current.time
+		if elapsed == nil then elapsed = 0 end
+		if totaltime == nil then totaltime = 0 end
+		elapsed = string.format("%d:%2.0f", tonumber(elapsed)/60, tonumber(elapsed)%60)
+		totaltime = string.format("%d:%2.0f", totaltime/60, totaltime%60)
+		if (elapsed == nil) or (totaltime == nil) then elapsed, totaltime = "--", "--" end
+		
+		-- Put the text in the widget
+		widget.text = string.format("%s%s%s - %s", red0_col, title, null_col, artist, red0_col, elapsed, null_col, totaltime)
+	
+	else
+		widget.text = ' MPD is closed '
+	end
+
+end
 -- Start mpd widget
-----widget_mpd(mpdwidget, mpdicon)
+widget_mpd(mpdwidget, mpdicon)
 -- Define timer and start it
-----mpdtimer = timer({ timeout = 3 })
-----mpdtimer:add_signal("timeout", function() widget_mpd(mpdwidget, mpdicon) end)
-----mpdtimer:start()
+mpdtimer = timer({ timeout = 2 })
+mpdtimer:add_signal("timeout", function() widget_mpd(mpdwidget, mpdicon) end)
+mpdtimer:start()
+
 
 --/// Volume icon ///
-----volicon = widget({ type = "imagebox" })
-----volicon.image = image(icon_dir .. "spkr_01.png")
+volicon = widget({ type = "imagebox" })
+volicon.image = image(icon_dir .. "spkr_01.png")
 
 --/// Separator ///
 sep = widget({ type = "textbox", align = "center" })
@@ -208,19 +250,20 @@ for s = 1, screen.count() do
     mywibox[s].widgets = {
         {
             mylauncher, 
-	    mytaglist[s], sep,
-----            mpdicon, mpdwidget, 
+	    mytaglist[s], 
+	    mpdicon, mpdwidget,
             layout = awful.widget.layout.horizontal.leftright
         },
         mylayoutbox[s], sep,
-        datewidget, sep,
+	mytextclock, sep,
+----        datewidget, sep,
 	systray, sep,
         volumetext, volicon, sep,   
         batwidget, baticon, sep,
 ----        tempwidget2, tempwidget1, tempicon, sep,
 	    memwidget, memicon, sep,
         cpuperc, cpuicon, sep, 
-        netwidget, neticon,
+        netwidget, ----neticon,
         layout = awful.widget.layout.horizontal.rightleft
     }
 --	mywibox[s].border_width = "1"

@@ -7,8 +7,7 @@ require("vicious")
 require("freedesktop.utils")
 require("freedesktop.menu")
 require("widgets")
-----require("volume")
-----require("mpd")
+require("volume")
 
 -- Themes file
 beautiful.init("/home/nkn/.config/awesome/theme.lua")
@@ -19,10 +18,11 @@ terminal = "urxvtc"
 cli_editor = "vim"
 gui_editor = "leafpad"
 browser = "firefox"
-gui_fm = "thunar"
+gui_fm = "pcmanfm"
 cli_fm = terminal .. " -e ranger"
 system_monitor = terminal .. " -e htop"
 media_player = "vlc"
+music_player = terminal .. " -e ncmpcpp"
 smallterminal = terminal .. ' -title "SmallTerm"  -geometry 90x7-200-100'
 gtk_settings = "lxappearance"
 -- Default modkey.
@@ -31,35 +31,6 @@ altkey = "Mod1"
 -- Set wallpaper
 --exec("nitrogen --restore", false)
 
--- Connect to MPD if it wasn't
-----function start_mpd()
-----	sexec("pidof mpd || mpd")
-----	if mpc == nil then mpc = mpd.new() end
-----end
-----mpdcontrols = {
-----	start = function()
-----				local f = io.popen("pidof mpd", 'r')
-----				if f then 
-----					local s = f:read("*all") 
-----				end
-----				f:close()
-----				if s 
-----					then exec("killall mpd")
-----					else exec("mpd")
-----				end
-----			end,
-----	play = function() 
-----				start_mpd()
-----				mpc:toggle_play()
-----				mpdtimer:emit_signal("timeout") 
-----			end,
-----	next = function() mpc:next()
-----			mpdtimer:emit_signal("timeout") end,
-----	prev = function() mpc:previous()
-----			mpdtimer:emit_signal("timeout") end,
-----	stop = function() mpc:stop()
-----			mpdtimer:emit_signal("timeout") end
-----}
 -- Table of layouts to cover with awful.layout.inc, order matters.
 layouts =
 {
@@ -76,7 +47,7 @@ layouts =
 -- Define a tag table which hold all screen tags.
 tags = {}
 for s = 1, screen.count() do
-    tags[s] = awful.tag({ "IM", "Web", "Graphic", "Misc" }, s, layouts[1])
+    tags[s] = awful.tag({ "chat", "web", "gfx", "misc" }, s, layouts[1])
 end
 
 -- Mouse bindings
@@ -118,31 +89,32 @@ globalkeys = awful.util.table.join(
    
 	-- Program shortcuts
     awful.key({ modkey, }, "t", function () exec(terminal, false) end),
-    awful.key({ modkey  }, "r", function () awful.util.spawn("gmrun") end),
+    awful.key({ modkey  }, "r", function () awful.util.spawn("dmenu_run") end),
     awful.key({ modkey, }, "w", function () exec(browser) end),
     awful.key({ modkey, }, "f", function () exec(cli_fm) end),
     awful.key({ modkey, }, "v", function () exec(media_player) end),
+---    awful.key({ modkey, }, "n", function () exec(music_player) end),
     awful.key({ modkey, }, "h", function () exec(system_monitor, false) end),
     awful.key({ modkey, }, "e", function () exec(gui_editor) end),
+    awful.key({ modkey, }, "x", function () exec("xterm -e 'sudo pacman-color -Rs $(pacman -Qdtq)'") end),
     awful.key({ modkey, }, "n", function () exec(music_player, false) end),
     awful.key({ modkey, }, "Return", function () exec(smallterminal, false) end),
     awful.key({ modkey, altkey }, "f", function () exec(gui_fm) end),
     awful.key({ modkey, altkey }, "n", function () exec("nitrogen --sort=alpha") end),
     awful.key({ modkey, altkey }, "a", function () exec(terminal .. " -e alsamixer", false) end),
-    awful.key({ "Control" }, "space", function () exec("dmenu_run") end),
 
 	-- Volume Control
     awful.key({ }, "XF86AudioRaiseVolume", function () volumecfg.up() end),
     awful.key({ }, "XF86AudioLowerVolume", function () volumecfg.down() end),
     awful.key({ }, "XF86AudioMute",        function () volumecfg.toggle() end),
 
-----	-- MPD control
-----    --awful.key({ modkey }, "XF86AudioPlay", function () exec("/home/sunny/bin/mpd-toggle", false) end),
-----    awful.key({ modkey }, "XF86AudioPlay", function () mpdcontrols.start() end),
-----    awful.key({	       }, "XF86AudioPlay", function () mpdcontrols.play() end),
-----    awful.key({	       }, "XF86AudioStop", function () mpdcontrols.stop() end),
-----    awful.key({	       }, "XF86AudioNext", function () mpdcontrols.next() end),
-----    awful.key({	       }, "XF86AudioPrev", function () mpdcontrols.prev() end),
+	-- MPD control
+    --awful.key({ modkey }, "XF86AudioPlay", function () exec("/home/sunny/bin/mpd-toggle", false) end),
+    awful.key({ modkey }, "XF86AudioPlay", function () mpdcontrols.start() end),
+    awful.key({	modkey, "Control" }, "Up", function () mpdcontrols.play() end),
+    awful.key({	modkey, "Control" }, "Down", function () mpdcontrols.stop() end),
+    awful.key({ modkey, "Control" }, "Right" , function () mpdcontrols.next() end),
+    awful.key({	modkey, "Control" }, "Left" , function () mpdcontrols.prev() end),
 
 	-- Menu
     awful.key({ modkey }, "Escape", function () mymainmenu:toggle(keymenu_args) end),
@@ -277,17 +249,17 @@ client.add_signal("manage", function (c, startup)
     -- awful.titlebar.add(c, { modkey = modkey })
 
     -- Enable sloppy focus
-    c:add_signal("mouse::enter", function(c)
-        if awful.layout.get(c.screen) ~= awful.layout.suit.magnifier
-            and awful.client.focus.filter(c) then
-            client.focus = c
-        end
-    end)
+----    c:add_signal("mouse::enter", function(c)
+----        if awful.layout.get(c.screen) ~= awful.layout.suit.magnifier
+----            and awful.client.focus.filter(c) then
+----            client.focus = c
+----        end
+----    end)
 
     if not startup then
         -- Set the windows at the slave,
         -- i.e. put it at the end of others instead of setting it master.
-        -- awful.client.setslave(c)
+        awful.client.setslave(c)
 
         -- Put windows in a smart way, only if they does not set an initial position.
         if not c.size_hints.user_position and not c.size_hints.program_position then
