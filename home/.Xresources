@@ -131,8 +131,7 @@ URxvt*scrollWithBuffer:     true
 URxvt*scrollTtyKeypress:    true
 URxvt*geometry: 84x24
 
-
-
+!colors from https://bbs.archlinux.org/viewtopic.php?pid=939312#p939312
 URxvt*foreground:    #53A6A6
 URxvt*background:    #000000
 
