@@ -8,9 +8,13 @@ require("freedesktop.utils")
 require("freedesktop.menu")
 require("widgets")
 require("volume")
+require("mpd")
+require("lfs")
 
--- Themes file
-beautiful.init("/home/nkn/.config/awesome/theme.lua")
+-- Themes
+--beautiful.init("/home/nkn/.config/awesome/theme.lua")
+beautiful.init("/home/nkn/.config/awesome/theme2.lua")
+
 -- Default apps
 exec = awful.util.spawn
 sexec = awful.util.spawn_with_shell
@@ -19,17 +23,16 @@ cli_editor = "vim"
 gui_editor = "leafpad"
 browser = "firefox"
 gui_fm = "pcmanfm"
-cli_fm = terminal .. " -e ranger"
+cli_fm = terminal .. " -g 100x50 -e ranger"
 system_monitor = terminal .. " -e htop"
 media_player = "vlc"
 music_player = terminal .. " -e ncmpcpp"
 smallterminal = terminal .. ' -title "SmallTerm"  -geometry 90x7-200-100'
 gtk_settings = "lxappearance"
+
 -- Default modkey.
 modkey = "Mod4"
 altkey = "Mod1"
--- Set wallpaper
---exec("nitrogen --restore", false)
 
 -- Table of layouts to cover with awful.layout.inc, order matters.
 layouts =
@@ -109,12 +112,10 @@ globalkeys = awful.util.table.join(
     awful.key({ }, "XF86AudioMute",        function () volumecfg.toggle() end),
 
 	-- MPD control
-    --awful.key({ modkey }, "XF86AudioPlay", function () exec("/home/sunny/bin/mpd-toggle", false) end),
-    awful.key({ modkey }, "XF86AudioPlay", function () mpdcontrols.start() end),
-    awful.key({	modkey, "Control" }, "Up", function () mpdcontrols.play() end),
-    awful.key({	modkey, "Control" }, "Down", function () mpdcontrols.stop() end),
-    awful.key({ modkey, "Control" }, "Right" , function () mpdcontrols.next() end),
-    awful.key({	modkey, "Control" }, "Left" , function () mpdcontrols.prev() end),
+    awful.key({	modkey, "Control" }, "Up", function () exec("mpc play", false) end),
+    awful.key({	modkey, "Control" }, "Down", function () exec("mpc pause", false) end),
+    awful.key({ modkey, "Control" }, "Right" , function () exec("mpc next", false) end),
+    awful.key({	modkey, "Control" }, "Left" , function () exec("mpc prev", false) end),
 
 	-- Menu
     awful.key({ modkey }, "Escape", function () mymainmenu:toggle(keymenu_args) end),
@@ -274,7 +275,6 @@ client.add_signal("unfocus", function(c) c.border_color = beautiful.border_norma
 --// Set cursor theme //--
 exec("xsetroot -cursor_name left_ptr", true)
 
-require("lfs") 
 -- {{{ Run programm once
 local function processwalker()
    local function yieldprocess()

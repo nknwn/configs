@@ -1,6 +1,7 @@
 require("awful")
 require("beautiful")
-beautiful.init("/home/nkn/.config/awesome/theme.lua")
+
+beautiful.init("/home/nkn/.config/awesome/theme2.lua")
 
 --/// Volume Config and widget
 volumecfg = {}

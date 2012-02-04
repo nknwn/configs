@@ -6,8 +6,13 @@ require("freedesktop.utils")
 require("freedesktop.menu")
 require("volume")
 require("mpd")
+require("calendar2")
 
-beautiful.init("/home/nkn/.config/awesome/theme.lua")
+--beautiful.init("/home/nkn/.config/awesome/theme.lua")
+beautiful.init("/home/nkn/.config/awesome/theme2.lua")
+
+-- Icon dir
+icon_dir = awful.util.getdir("config") .. "/icons2/"
 
 -- MainMenu
 mymainmenu = myrc.mainmenu.build()
@@ -16,7 +21,7 @@ mymainmenu = myrc.mainmenu.build()
 ---                                     menu = mymainmenu })
 
 mylauncher = widget({ type = "imagebox" })
-mylauncher.image = image("/home/nkn/.config/awesome/icons/arch2.png")
+mylauncher.image = image(icon_dir .. "arch2.png")
 ---mylauncher.text = ' <span color="'..beautiful.fg_focus..'" > MENU</span>'
 mylauncher:buttons(awful.util.table.join(awful.button({}, 1, nil, function () mymainmenu:toggle(mainmenu_args) end)))
 mainmenu_args = { coords={ x=0, y=0 }, keygrabber = true }
@@ -43,9 +48,6 @@ white0_col = '<span color="' ..beautiful.color_white_dark..'">'
 white1_col = '<span color="' ..beautiful.color_white_light..'">'
 null_col = '</span>'
 
--- Icon dir
-icon_dir = awful.util.getdir("config") .. "/icons/"
-
 --/// Start a layoutbox ///
 mylayoutbox = {}
 -- Aliases
@@ -69,12 +71,8 @@ mytaglist.buttons = awful.util.table.join(
 --/// Date/Clock widget ///
 -- Create a textclock widget
 mytextclock = awful.widget.textclock({ align = "right" })
-
 -- Calendar widget to attach to the textclock
-require('calendar2')
 calendar2.addCalendarToWidget(mytextclock)
-
-
 
 --/// CPU widget ///
 -- Icon
@@ -103,16 +101,6 @@ baticon.image = image(icon_dir .. "bat_full_01.png")
 batwidget = widget({ type = "textbox" })
 batwidget.align = "right"
 vicious.register(batwidget, vicious.widgets.bat, ' '..focus_col..'$2%'..null_col..'', 20, "BAT0")
-
---/// Temp widget ///
-tempicon = widget({ type = "imagebox" })
-tempicon.image = image(icon_dir .. "temp.png")
-tempwidget1, tempwidget2 = widget({ type = "textbox" }), widget({ type = "textbox" })
-tempwidget1.align, tempwidget2.align = "left", "left"
-vicious.register(tempwidget1, vicious.widgets.thermal, ' '..focus_col..'$1'..null_col..'', 43, "thermal_zone0")
---tempwidget2 = widget({ type = "textbox" })
---tempwidget2.align = "left"
-vicious.register(tempwidget2, vicious.widgets.thermal, ' '..focus_col..'$1'..null_col..' C', 43, "thermal_zone1")
 
 --/// Systray ///
 systray = widget({ type = "systray"})
@@ -170,7 +158,7 @@ function widget_mpd(widget, icon)
 	local running = true
 	
 	-- Icon table
-	local icon_dir = awful.util.getdir("config").."/icons/"
+	---local icon_dir = awful.util.getdir("config").."/icons2/"
 	local icons = {
 		play = icon_dir.."/play.png",
 		pause = icon_dir.."/pause.png",
@@ -201,17 +189,9 @@ function widget_mpd(widget, icon)
 			title = string.gsub(escape_xml(current.file), ".*/", "")
 			if title == nil then title = "[n/a]" end
 		end
-		
-		-- get time
-		local elapsed, totaltime = status.elapsed, current.time
-		if elapsed == nil then elapsed = 0 end
-		if totaltime == nil then totaltime = 0 end
-		elapsed = string.format("%d:%2.0f", tonumber(elapsed)/60, tonumber(elapsed)%60)
-		totaltime = string.format("%d:%2.0f", totaltime/60, totaltime%60)
-		if (elapsed == nil) or (totaltime == nil) then elapsed, totaltime = "--", "--" end
-		
+	
 		-- Put the text in the widget
-		widget.text = string.format("%s%s%s - %s", red0_col, title, null_col, artist, red0_col, elapsed, null_col, totaltime)
+		widget.text = string.format("%s%s%s - %s", red0_col, title, null_col, artist)
 	
 	else
 		widget.text = ' MPD is closed '
@@ -260,8 +240,7 @@ for s = 1, screen.count() do
 	systray, sep,
         volumetext, volicon, sep,   
         batwidget, baticon, sep,
-----        tempwidget2, tempwidget1, tempicon, sep,
-	    memwidget, memicon, sep,
+	memwidget, memicon, sep,
         cpuperc, cpuicon, sep, 
         netwidget, ----neticon,
         layout = awful.widget.layout.horizontal.rightleft
