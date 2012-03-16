@@ -20,7 +20,7 @@ exec = awful.util.spawn
 sexec = awful.util.spawn_with_shell
 terminal = "urxvtc"
 cli_editor = "vim"
-gui_editor = "leafpad"
+gui_editor = "gvim"
 browser = "firefox"
 gui_fm = "pcmanfm"
 cli_fm = terminal .. " -g 100x50 -e ranger"
@@ -68,14 +68,14 @@ globalkeys = awful.util.table.join(
         function () awful.client.focus.byidx( 1) if client.focus then client.focus:raise() end end),
 
 	-- Tag control
-    awful.key({ altkey, "Control" }, "Left",  awful.tag.viewprev ),
-    awful.key({ altkey, "Control" }, "Right", awful.tag.viewnext ),
+---   awful.key({ altkey, "Control" }, "Left",  awful.tag.viewprev ),
+---   awful.key({ altkey, "Control" }, "Right", awful.tag.viewnext ),
     awful.key({ modkey,           }, "Up",    function () awful.tag.incmwfact( 0.05)    end),
     awful.key({ modkey,           }, "Down",  function () awful.tag.incmwfact(-0.05)    end),
     awful.key({ modkey, altkey,   }, "Up",    function () awful.client.incwfact( 0.05)  end),
     awful.key({ modkey, altkey,   }, "Down",  function () awful.client.incwfact(-0.05)  end),
-    awful.key({ modkey, "Control" }, "Up",    function () awful.tag.incncol( 1)         end),
-    awful.key({ modkey, "Control" }, "Down",  function () awful.tag.incncol(-1)         end),
+    awful.key({ altkey, "Control" }, "Left",    function () awful.tag.incncol( 1)         end),
+    awful.key({ altkey, "Control" }, "Right",  function () awful.tag.incncol(-1)         end),
     awful.key({ modkey, "Shift"   }, "Up",    function () awful.tag.incnmaster( 1)         end),
     awful.key({ modkey, "Shift"   }, "Down",  function () awful.tag.incnmaster(-1)         end),
     awful.key({ modkey,           }, "space", function () awful.layout.inc(layouts,  1) end),
@@ -105,6 +105,7 @@ globalkeys = awful.util.table.join(
     awful.key({ modkey, altkey }, "f", function () exec(gui_fm) end),
     awful.key({ modkey, altkey }, "n", function () exec("nitrogen --sort=alpha") end),
     awful.key({ modkey, altkey }, "a", function () exec(terminal .. " -e alsamixer", false) end),
+    awful.key({ }, "XF86PowerOff", function () exec("sudo pm-hibernate", false) end),
 
 	-- Volume Control
     awful.key({ }, "XF86AudioRaiseVolume", function () volumecfg.up() end),

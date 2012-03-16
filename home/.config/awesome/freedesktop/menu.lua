@@ -12,8 +12,8 @@ function new()
 	-- source code.
 	local programs = {}
 	programs['AudioVideo'] = {}
-	programs['Audio'] = {}
-	programs['Video'] = {}
+	---programs['Audio'] = {}
+	---programs['Video'] = {}
 	programs['Development'] = {}
 	--programs['Education'] = {}
 	programs['Game'] = {}

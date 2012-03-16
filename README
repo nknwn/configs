@@ -4,15 +4,15 @@
              #####              User: nkn
              ######             WM: Awesome
             ; #####;            DE: None
-           +##.#####            Shell: /bin/zsh
-          +##########           Terminal: rxvt-unicode-256color
-         #############;         Packages: 738
-        ###############+        CPU: Intel(R) Core(TM)2 Duo CPU T5450 @ 1.66GHz
-       #######   #######        RAM: 103 MB / 2008 MB
-     .######;     ;###;`".      $EDITOR: vim
-    .#######;     ;#####.       Root: 4.2G / 15G
-    #########.   .########`     Home: 70.4G / 141.5G
-   ######'           '######    
+           +##.#####            Packages: 738
+          +##########           CPU: Intel(R) Core(TM)2 Duo CPU T5450 @ 1.66GHz
+         #############;         RAM: 103 MB / 2008 MB
+        ###############+        $BROWSER: /usr/bin/firefox
+       #######   #######        $EDITOR: /usr/bin/vim
+     .######;     ;###;`".      $SHELL: /bin/zsh
+    .#######;     ;#####.       $TERM: rxvt-unicode-256color
+    #########.   .########`     Root: 4.2G / 15G
+   ######'           '######    Home: 70.4G / 141.5G
   ;####                 ####;   
   ##'                     '##    
  #'                         `#  
